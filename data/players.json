@@ -2574,6 +2574,51 @@
       ]
     },
     {
+      "name": "Jonathan Kuminga",
+      "pos": "F",
+      "team": "ATL",
+      "G": 1,
+      "MP": 27,
+      "PTS": 8,
+      "ORB": 1,
+      "DRB": 3,
+      "TRB": 4,
+      "AST": 1,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 15.5,
+      "FPPG": 15.5,
+      "MPPG": 27.0,
+      "active": true,
+      "ownedBy": [
+        "Garrett T"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.46,
+      "FPperDollar": 3.4753,
+      "gameLog": [
+        {
+          "date": "2026-04-18",
+          "team": "ATL",
+          "opp": "NYK",
+          "home": false,
+          "MP": 27.0,
+          "PTS": 8,
+          "ORB": 1,
+          "DRB": 3,
+          "TRB": 4,
+          "AST": 1,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 15.5
+        }
+      ]
+    },
+    {
       "name": "Nikola Vučević",
       "pos": "C",
       "team": "BOS",
@@ -2657,51 +2702,6 @@
           "AST": 2,
           "STL": 0,
           "BLK": 1,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 15.5
-        }
-      ]
-    },
-    {
-      "name": "Jonathan Kuminga",
-      "pos": "F",
-      "team": "ATL",
-      "G": 1,
-      "MP": 27,
-      "PTS": 8,
-      "ORB": 1,
-      "DRB": 3,
-      "TRB": 4,
-      "AST": 1,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 15.5,
-      "FPPG": 15.5,
-      "MPPG": 27.0,
-      "active": true,
-      "ownedBy": [
-        "Garrett T"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 4.46,
-      "FPperDollar": 3.4753,
-      "gameLog": [
-        {
-          "date": "2026-04-18",
-          "team": "ATL",
-          "opp": "NYK",
-          "home": false,
-          "MP": 27.0,
-          "PTS": 8,
-          "ORB": 1,
-          "DRB": 3,
-          "TRB": 4,
-          "AST": 1,
-          "STL": 0,
-          "BLK": 0,
           "TOV": 0,
           "TD": 0,
           "FP": 15.5
@@ -3253,9 +3253,9 @@
       ]
     },
     {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -3272,10 +3272,64 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Josh K"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 2.01,
+      "salary": 3.31,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Tyrese Proctor",
+      "pos": "G",
+      "team": "CLE",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Sivaji"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 3.48,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Jeff Green",
+      "pos": "F",
+      "team": "HOU",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Jameson"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.92,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -3334,9 +3388,9 @@
       "gameLog": []
     },
     {
-      "name": "Tyrese Proctor",
+      "name": "Jaylen Clark",
       "pos": "G",
-      "team": "CLE",
+      "team": "MIN",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -3353,64 +3407,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Josh K"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.48,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.31,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Jeff Green",
-      "pos": "F",
-      "team": "HOU",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.92,
+      "salary": 2.01,
       "FPperDollar": 0.0,
       "gameLog": []
     },
