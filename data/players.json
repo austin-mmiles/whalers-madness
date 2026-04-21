@@ -636,6 +636,56 @@
       ]
     },
     {
+      "name": "LeBron James",
+      "pos": "F",
+      "team": "LAL",
+      "G": 1,
+      "MP": 38,
+      "PTS": 19,
+      "ORB": 0,
+      "DRB": 8,
+      "TRB": 8,
+      "AST": 13,
+      "STL": 2,
+      "BLK": 1,
+      "TOV": 2,
+      "TD": 0,
+      "FP": 62.5,
+      "FPPG": 62.5,
+      "MPPG": 38.0,
+      "active": true,
+      "ownedBy": [
+        "Garrett M",
+        "Jameson",
+        "John",
+        "Josh K",
+        "Sivaji",
+        "Taiga"
+      ],
+      "ownership": 0.42857142857142855,
+      "salary": 7.03,
+      "FPperDollar": 8.8905,
+      "gameLog": [
+        {
+          "date": "2026-04-18",
+          "team": "LAL",
+          "opp": "HOU",
+          "home": true,
+          "MP": 38.4,
+          "PTS": 19,
+          "ORB": 0,
+          "DRB": 8,
+          "TRB": 8,
+          "AST": 13,
+          "STL": 2,
+          "BLK": 1,
+          "TOV": 2,
+          "TD": 0,
+          "FP": 62.5
+        }
+      ]
+    },
+    {
       "name": "Nickeil Alexander-Walker",
       "pos": "G",
       "team": "ATL",
@@ -694,56 +744,6 @@
           "TOV": 2,
           "TD": 0,
           "FP": 34.25
-        }
-      ]
-    },
-    {
-      "name": "LeBron James",
-      "pos": "F",
-      "team": "LAL",
-      "G": 1,
-      "MP": 38,
-      "PTS": 19,
-      "ORB": 0,
-      "DRB": 8,
-      "TRB": 8,
-      "AST": 13,
-      "STL": 2,
-      "BLK": 1,
-      "TOV": 2,
-      "TD": 0,
-      "FP": 62.5,
-      "FPPG": 62.5,
-      "MPPG": 38.0,
-      "active": true,
-      "ownedBy": [
-        "Garrett M",
-        "Jameson",
-        "John",
-        "Josh K",
-        "Sivaji",
-        "Taiga"
-      ],
-      "ownership": 0.42857142857142855,
-      "salary": 7.03,
-      "FPperDollar": 8.8905,
-      "gameLog": [
-        {
-          "date": "2026-04-18",
-          "team": "LAL",
-          "opp": "HOU",
-          "home": true,
-          "MP": 38.4,
-          "PTS": 19,
-          "ORB": 0,
-          "DRB": 8,
-          "TRB": 8,
-          "AST": 13,
-          "STL": 2,
-          "BLK": 1,
-          "TOV": 2,
-          "TD": 0,
-          "FP": 62.5
         }
       ]
     },
@@ -1587,51 +1587,6 @@
       ]
     },
     {
-      "name": "Desmond Bane",
-      "pos": "G",
-      "team": "ORL",
-      "G": 1,
-      "MP": 35,
-      "PTS": 17,
-      "ORB": 2,
-      "DRB": 4,
-      "TRB": 6,
-      "AST": 5,
-      "STL": 2,
-      "BLK": 0,
-      "TOV": 2,
-      "TD": 0,
-      "FP": 40.5,
-      "FPPG": 40.5,
-      "MPPG": 35.0,
-      "active": true,
-      "ownedBy": [
-        "Austin"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 5.22,
-      "FPperDollar": 7.7586,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "ORL",
-          "opp": "DET",
-          "home": false,
-          "MP": 34.6,
-          "PTS": 17,
-          "ORB": 2,
-          "DRB": 4,
-          "TRB": 6,
-          "AST": 5,
-          "STL": 2,
-          "BLK": 0,
-          "TOV": 2,
-          "TD": 0,
-          "FP": 40.5
-        }
-      ]
-    },
-    {
       "name": "Tim Hardaway Jr.",
       "pos": "G",
       "team": "DEN",
@@ -1690,6 +1645,51 @@
           "TOV": 0,
           "TD": 0,
           "FP": 23.25
+        }
+      ]
+    },
+    {
+      "name": "Desmond Bane",
+      "pos": "G",
+      "team": "ORL",
+      "G": 1,
+      "MP": 35,
+      "PTS": 17,
+      "ORB": 2,
+      "DRB": 4,
+      "TRB": 6,
+      "AST": 5,
+      "STL": 2,
+      "BLK": 0,
+      "TOV": 2,
+      "TD": 0,
+      "FP": 40.5,
+      "FPPG": 40.5,
+      "MPPG": 35.0,
+      "active": true,
+      "ownedBy": [
+        "Austin"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 5.22,
+      "FPperDollar": 7.7586,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "ORL",
+          "opp": "DET",
+          "home": false,
+          "MP": 34.6,
+          "PTS": 17,
+          "ORB": 2,
+          "DRB": 4,
+          "TRB": 6,
+          "AST": 5,
+          "STL": 2,
+          "BLK": 0,
+          "TOV": 2,
+          "TD": 0,
+          "FP": 40.5
         }
       ]
     },
@@ -3055,51 +3055,6 @@
       ]
     },
     {
-      "name": "Collin Gillespie",
-      "pos": "G",
-      "team": "PHO",
-      "G": 1,
-      "MP": 23,
-      "PTS": 8,
-      "ORB": 0,
-      "DRB": 2,
-      "TRB": 2,
-      "AST": 2,
-      "STL": 1,
-      "BLK": 0,
-      "TOV": 2,
-      "TD": 0,
-      "FP": 16.5,
-      "FPPG": 16.5,
-      "MPPG": 23.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 4.01,
-      "FPperDollar": 4.1147,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "PHO",
-          "opp": "OKC",
-          "home": false,
-          "MP": 23.2,
-          "PTS": 8,
-          "ORB": 0,
-          "DRB": 2,
-          "TRB": 2,
-          "AST": 2,
-          "STL": 1,
-          "BLK": 0,
-          "TOV": 2,
-          "TD": 0,
-          "FP": 16.5
-        }
-      ]
-    },
-    {
       "name": "Duncan Robinson",
       "pos": "F",
       "team": "DET",
@@ -3139,6 +3094,51 @@
           "STL": 0,
           "BLK": 0,
           "TOV": 1,
+          "TD": 0,
+          "FP": 16.5
+        }
+      ]
+    },
+    {
+      "name": "Collin Gillespie",
+      "pos": "G",
+      "team": "PHO",
+      "G": 1,
+      "MP": 23,
+      "PTS": 8,
+      "ORB": 0,
+      "DRB": 2,
+      "TRB": 2,
+      "AST": 2,
+      "STL": 1,
+      "BLK": 0,
+      "TOV": 2,
+      "TD": 0,
+      "FP": 16.5,
+      "FPPG": 16.5,
+      "MPPG": 23.0,
+      "active": true,
+      "ownedBy": [
+        "Jameson"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.01,
+      "FPperDollar": 4.1147,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "PHO",
+          "opp": "OKC",
+          "home": false,
+          "MP": 23.2,
+          "PTS": 8,
+          "ORB": 0,
+          "DRB": 2,
+          "TRB": 2,
+          "AST": 2,
+          "STL": 1,
+          "BLK": 0,
+          "TOV": 2,
           "TD": 0,
           "FP": 16.5
         }
@@ -3661,6 +3661,60 @@
       ]
     },
     {
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Sivaji"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 3.31,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Thomas Bryant",
+      "pos": "C",
+      "team": "CLE",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Ronnie"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.28,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -3715,9 +3769,9 @@
       "gameLog": []
     },
     {
-      "name": "Kevin Durant",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "HOU",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -3734,41 +3788,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Austin",
-        "Garrett M",
-        "Mitchell",
-        "Sivaji",
-        "Vincent"
-      ],
-      "ownership": 0.35714285714285715,
-      "salary": 9.59,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Thomas Bryant",
-      "pos": "C",
-      "team": "CLE",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Ronnie"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 4.28,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -3800,9 +3823,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jeff Green",
       "pos": "F",
-      "team": "DET",
+      "team": "HOU",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -3819,10 +3842,41 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Jameson"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.92,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Kevin Durant",
+      "pos": "F",
+      "team": "HOU",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Austin",
+        "Garrett M",
+        "Mitchell",
+        "Sivaji",
+        "Vincent"
+      ],
+      "ownership": 0.35714285714285715,
+      "salary": 9.59,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -3870,60 +3924,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Jeff Green",
-      "pos": "F",
-      "team": "HOU",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.92,
-      "FPperDollar": 0.0,
-      "gameLog": []
     }
   ]
 }
