@@ -17,15 +17,9 @@ try {
   const topFP = rows[0]?.FP || 1;
 
   const topScorer = [...players.players].sort((a, b) => b.FP - a.FP)[0];
-  const summary = $("#summary");
-  summary.append(
-    statCard("Leader", rows[0]?.owner || "—", `${fmt(rows[0]?.FP || 0, 2)} FP`),
-    statCard("Top Player", topScorer ? topScorer.name : "—",
-      topScorer ? `${fmt(topScorer.FP, 2)} FP · ${topScorer.team || "—"}` : ""),
-  );
 
+  renderInsights(players.players, rows, topScorer);
   renderTodayStrip(today, series);
-  renderInsights(players.players, rows);
 
   const table = $("#leaderboard-table");
   const buildRow = (r) => {
@@ -54,14 +48,6 @@ try {
   console.error(err);
   $("#leaderboard-table tbody").innerHTML =
     `<tr><td colspan="9"><div class="error-box">Couldn't load league data. Make sure the updater has run at least once.</div></td></tr>`;
-}
-
-function statCard(label, value, sub) {
-  return el("div", { class: "stat-card" },
-    el("div", { class: "label" }, label),
-    el("div", { class: "value" }, value),
-    sub ? el("div", { class: "sub" }, sub) : null,
-  );
 }
 
 function renderTodayStrip(today, series) {
@@ -103,7 +89,7 @@ function renderTodayStrip(today, series) {
   host.append(label, strip);
 }
 
-function renderInsights(players, leaderboard) {
+function renderInsights(players, leaderboard, topScorer) {
   const host = $("#insights");
   if (!host) return;
 
@@ -118,13 +104,11 @@ function renderInsights(players, leaderboard) {
   const withSalary = owned.filter((p) => p.salary && p.FP > 0);
   const bestValue = withSalary.sort((a, b) => b.FPperDollar - a.FPperDollar)[0];
 
-  // Tightest race: top 3 scoreboard gap
-  const top3 = leaderboard.slice(0, 3);
-  const raceSub = top3.length >= 2
-    ? `${fmt(top3[0].FP - top3[1].FP, 1)} FP gap to 2nd`
-    : "";
-
   const cards = [];
+  if (topScorer) {
+    cards.push(card("Top Player", topScorer.name,
+      `${fmt(topScorer.FP, 2)} FP · ${topScorer.team || "—"}`));
+  }
   if (mostOwned) {
     cards.push(card("Most Owned", mostOwned.name,
       `${mostOwned.ownedBy.length} owner${mostOwned.ownedBy.length > 1 ? "s" : ""} · ${fmt(mostOwned.FP, 0)} FP`));
@@ -136,9 +120,6 @@ function renderInsights(players, leaderboard) {
   if (bestValue) {
     cards.push(card("Best Value", bestValue.name,
       `${fmt(bestValue.FP, 0)} FP @ $${fmt(bestValue.salary, 2)}M`));
-  }
-  if (top3[0]) {
-    cards.push(card("Top of the Pack", top3[0].owner, raceSub || "—"));
   }
   host.append(
     el("h2", { class: "section-title" }, "Insights"),
