@@ -291,7 +291,14 @@ def parse_mp(s: str) -> float:
     return num(s)
 
 
-def fetch_boxscore(game_id: str) -> dict:
+def is_game_final(html: str) -> bool:
+    """Return True if the box score page indicates the game is over."""
+    # BR marks the status above the scorebox — "Final", "Final/OT", etc.
+    return bool(re.search(r'class="[^"]*scorebox_meta[^"]*".*?Final', html, re.DOTALL)
+                or re.search(r'>\s*Final\s*<', html))
+
+
+def fetch_boxscore(game_id: str, live_game_ids: frozenset[str] = frozenset()) -> dict:
     """Return a game record with per-player stat lines grouped by team.
 
     Shape:
@@ -299,9 +306,14 @@ def fetch_boxscore(game_id: str) -> dict:
          {"key": ..., "name": ..., "team": "ABC", "opp": "XYZ",
           "MP": 33.5, "PTS": ..., "ORB": ..., ...}
       ]}
+
+    Box scores are cached forever once a game is final. Games that are
+    still live (game_id in live_game_ids) skip the cache so each cron
+    run picks up the latest partial stats.
     """
     cache_file = BOX_CACHE / f"{game_id}.v3.json"
-    if cache_file.exists():
+    skip_cache = game_id in live_game_ids
+    if not skip_cache and cache_file.exists():
         try:
             return json.loads(cache_file.read_text())
         except json.JSONDecodeError:
@@ -349,7 +361,9 @@ def fetch_boxscore(game_id: str) -> dict:
 
     out = {"date": date, "teams": teams, "players": players}
     BOX_CACHE.mkdir(parents=True, exist_ok=True)
-    cache_file.write_text(json.dumps(out))
+    # Only write cache once the game is definitively over.
+    if is_game_final(html):
+        cache_file.write_text(json.dumps(out))
     return out
 
 
@@ -531,8 +545,22 @@ def build_player_records(rosters: dict) -> tuple[dict, dict]:
     if totals_for_drafted:
         game_ids = fetch_completed_game_ids()
         print(f"  completed playoff games: {len(game_ids)}")
-        for gid in game_ids:
-            box = fetch_boxscore(gid)
+        # Also pick up today's live games (not yet in completed list).
+        todays = fetch_todays_schedule()
+        live_ids = frozenset(
+            g["gameId"] for g in todays
+            if g["status"] == "live" and g["gameId"]
+        )
+        # Include scheduled-but-started games that have a box score URL already.
+        in_progress_ids = frozenset(
+            g["gameId"] for g in todays
+            if g["status"] in ("live", "final") and g["gameId"]
+        )
+        all_ids = sorted(set(game_ids) | in_progress_ids)
+        if live_ids:
+            print(f"  live game(s) found — skipping cache for: {sorted(live_ids)}")
+        for gid in all_ids:
+            box = fetch_boxscore(gid, live_game_ids=live_ids)
             date = box["date"]
             home_team = gid[-3:]
             bucket = daily_fp.setdefault(date, {})

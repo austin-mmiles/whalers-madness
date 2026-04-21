@@ -49,7 +49,7 @@ jobs:
           set -e
           git config user.name "whalers-bot"
           git config user.email "whalers-bot@users.noreply.github.com"
-          git add data/players.json data/leaderboard.json data/history.json data/meta.json
+          git add data/players.json data/leaderboard.json data/history.json data/meta.json data/series.json data/today.json
           if git diff --cached --quiet; then
             echo "No data changes."
           else
