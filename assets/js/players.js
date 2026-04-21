@@ -16,7 +16,7 @@ try {
   const buildRow = (p) => el("tr", null,
     el("td", { class: "left muted" }, String(p.rank)),
     el("td", { class: "left" },
-      el("span", { class: "player-name" }, p.name),
+      el("a", { class: "player-name", href: `player.html?name=${encodeURIComponent(p.name)}` }, p.name),
       p.ownedBy.length
         ? el("div", { class: "muted", style: "font-size:11px;margin-top:2px" },
             "Owned by: ", p.ownedBy.map((o, i) => [
@@ -38,6 +38,7 @@ try {
     el("td", { class: "hide-sm muted" }, fmtInt(p.BLK)),
     el("td", { class: "hide-sm muted" }, fmtInt(p.TOV)),
     el("td", { class: "hide-sm" }, p.TD ? String(p.TD) : el("span", { class: "muted" }, "0")),
+    el("td", { class: "hide-sm muted" }, p.salary ? fmt(p.FP / p.salary, 2) : "—"),
     el("td", null, fmtPct(p.ownership, 0)),
     el("td", null, activePill(p.active)),
   );
@@ -82,5 +83,5 @@ try {
 } catch (e) {
   console.error(e);
   $("#players-table tbody").innerHTML =
-    `<tr><td colspan="16"><div class="error-box">Couldn't load player data.</div></td></tr>`;
+    `<tr><td colspan="17"><div class="error-box">Couldn't load player data.</div></td></tr>`;
 }

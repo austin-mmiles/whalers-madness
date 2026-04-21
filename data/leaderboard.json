@@ -142,7 +142,9 @@
           "TD": 0
         }
       ],
-      "rank": 1
+      "rank": 1,
+      "prevRank": 2,
+      "rankDelta": 1
     },
     {
       "owner": "John",
@@ -285,7 +287,9 @@
           "TD": 0
         }
       ],
-      "rank": 2
+      "rank": 2,
+      "prevRank": 6,
+      "rankDelta": 4
     },
     {
       "owner": "Josh K",
@@ -428,7 +432,9 @@
           "TD": 0
         }
       ],
-      "rank": 3
+      "rank": 3,
+      "prevRank": 3,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett M",
@@ -571,7 +577,9 @@
           "TD": 0
         }
       ],
-      "rank": 4
+      "rank": 4,
+      "prevRank": 5,
+      "rankDelta": 1
     },
     {
       "owner": "Jameson",
@@ -714,7 +722,9 @@
           "TD": 0
         }
       ],
-      "rank": 5
+      "rank": 5,
+      "prevRank": 4,
+      "rankDelta": -1
     },
     {
       "owner": "Mitchell",
@@ -857,7 +867,9 @@
           "TD": 0
         }
       ],
-      "rank": 6
+      "rank": 6,
+      "prevRank": 1,
+      "rankDelta": -5
     },
     {
       "owner": "Taiga",
@@ -1000,7 +1012,9 @@
           "TD": 0
         }
       ],
-      "rank": 7
+      "rank": 7,
+      "prevRank": 9,
+      "rankDelta": 2
     },
     {
       "owner": "Vincent",
@@ -1143,7 +1157,9 @@
           "TD": 0
         }
       ],
-      "rank": 8
+      "rank": 8,
+      "prevRank": 11,
+      "rankDelta": 3
     },
     {
       "owner": "Ronnie",
@@ -1286,7 +1302,9 @@
           "TD": 0
         }
       ],
-      "rank": 9
+      "rank": 9,
+      "prevRank": 10,
+      "rankDelta": 1
     },
     {
       "owner": "Garrett T",
@@ -1429,7 +1447,9 @@
           "TD": 0
         }
       ],
-      "rank": 10
+      "rank": 10,
+      "prevRank": 7,
+      "rankDelta": -3
     },
     {
       "owner": "Adam",
@@ -1572,7 +1592,9 @@
           "TD": 0
         }
       ],
-      "rank": 11
+      "rank": 11,
+      "prevRank": 14,
+      "rankDelta": 3
     },
     {
       "owner": "Sivaji",
@@ -1715,7 +1737,9 @@
           "TD": 0
         }
       ],
-      "rank": 12
+      "rank": 12,
+      "prevRank": 8,
+      "rankDelta": -4
     },
     {
       "owner": "Noah",
@@ -1858,7 +1882,9 @@
           "TD": 0
         }
       ],
-      "rank": 13
+      "rank": 13,
+      "prevRank": 13,
+      "rankDelta": 0
     },
     {
       "owner": "Austin",
@@ -2001,7 +2027,9 @@
           "TD": 0
         }
       ],
-      "rank": 14
+      "rank": 14,
+      "prevRank": 12,
+      "rankDelta": -2
     }
   ]
 }

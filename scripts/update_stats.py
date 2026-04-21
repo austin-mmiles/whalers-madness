@@ -281,12 +281,26 @@ def fetch_completed_game_ids() -> list[str]:
     return sorted(all_ids)
 
 
-def fetch_boxscore(game_id: str) -> dict:
-    """Return ``{"date": "YYYY-MM-DD", "players": [{name_key, PTS, …}]}``.
+def parse_mp(s: str) -> float:
+    """Box score MP format is 'MM:SS'. Return minutes as a float."""
+    if not s:
+        return 0.0
+    if ":" in s:
+        m, sec = s.split(":", 1)
+        return num(m) + num(sec) / 60.0
+    return num(s)
 
-    Cached per-game because completed box scores never change.
+
+def fetch_boxscore(game_id: str) -> dict:
+    """Return a game record with per-player stat lines grouped by team.
+
+    Shape:
+      {"date": "YYYY-MM-DD", "teams": ["ABC", "XYZ"], "players": [
+         {"key": ..., "name": ..., "team": "ABC", "opp": "XYZ",
+          "MP": 33.5, "PTS": ..., "ORB": ..., ...}
+      ]}
     """
-    cache_file = BOX_CACHE / f"{game_id}.v2.json"
+    cache_file = BOX_CACHE / f"{game_id}.v3.json"
     if cache_file.exists():
         try:
             return json.loads(cache_file.read_text())
@@ -300,12 +314,15 @@ def fetch_boxscore(game_id: str) -> dict:
     try:
         html = http_get(url)
     except HTTPError:
-        return {"date": date, "players": []}
+        return {"date": date, "teams": [], "players": []}
 
+    table_matches = list(re.finditer(r'id="box-([A-Z]{3})-game-basic"', html))
+    teams = [m.group(1) for m in table_matches]
     players: list[dict] = []
-    for m in re.finditer(r'id="(box-[A-Z]{3}-game-basic)"', html):
-        tid = m.group(1)
-        for r in parse_table(html, tid):
+    for m in table_matches:
+        team = m.group(1)
+        opp = next((t for t in teams if t != team), "")
+        for r in parse_table(html, f"box-{team}-game-basic"):
             player = r.get("name_display") or r.get("player")
             if not player or r.get("reason"):
                 continue
@@ -317,23 +334,132 @@ def fetch_boxscore(game_id: str) -> dict:
             stl = int(num(r.get("stl")))
             blk = int(num(r.get("blk")))
             tov = int(num(r.get("tov")))
+            mp = round(parse_mp(r.get("mp", "")), 1)
             is_td = sum(1 for v in (pts, trb, ast, stl, blk) if v >= 10) >= 3
             players.append({
                 "key": normalize_name(player),
-                "PTS": pts, "ORB": orb, "DRB": drb, "AST": ast,
-                "STL": stl, "BLK": blk, "TOV": tov, "TD": 1 if is_td else 0,
+                "name": player,
+                "team": team,
+                "opp": opp,
+                "MP": mp,
+                "PTS": pts, "ORB": orb, "DRB": drb, "TRB": trb,
+                "AST": ast, "STL": stl, "BLK": blk, "TOV": tov,
+                "TD": 1 if is_td else 0,
             })
 
-    out = {"date": date, "players": players}
+    out = {"date": date, "teams": teams, "players": players}
     BOX_CACHE.mkdir(parents=True, exist_ok=True)
     cache_file.write_text(json.dumps(out))
     return out
 
 
-SERIES_OVER_RE = re.compile(
-    r'<td[^>]*>\s*<strong><a[^>]*>([A-Z]{3})</a></strong>[^<]*<small>\(4\)</small>\s*over',
-    re.IGNORECASE,
+SERIES_ROW_RE = re.compile(
+    r"<strong>([^<]*?(?:Round|Semifinals|Finals)[^<]*?)</strong>.*?"
+    r"<td>\s*<a href=['\"]/teams/([A-Z]{3})/\d{4}\.html['\"][^>]*>[^<]+</a>\s*"
+    r"(lead|trail|vs\.?|defeated)\s*"
+    r"<a href=['\"]/teams/([A-Z]{3})/\d{4}\.html['\"][^>]*>[^<]+</a>\s*"
+    r"(?:&nbsp;|\s)*\((\d)-(\d)\)",
+    re.DOTALL,
 )
+
+
+def fetch_series() -> list[dict]:
+    """Parse the bracket page into a list of series records.
+
+    Each record: ``{"teams": [a, b], "wins": [aw, bw], "status": "lead|trail|vs|defeated",
+    "over": bool, "winner": str, "round": str, "leader": str, "trailer": str}``
+    """
+    html = http_get(f"{BASE}/playoffs/NBA_{SEASON}.html")
+    series: list[dict] = []
+    seen: set[tuple[str, str]] = set()
+    for m in SERIES_ROW_RE.finditer(html):
+        rnd, a, verb, b, w1, w2 = (
+            m.group(1).strip(), m.group(2), m.group(3).lower(),
+            m.group(4), int(m.group(5)), int(m.group(6)),
+        )
+        if not re.search(r"Round|Semifinals|Finals", rnd):
+            continue
+        key = tuple(sorted([a, b]))
+        if key in seen or a == b:
+            continue
+        seen.add(key)
+        # BR's score format is always (a-wins)-(b-wins), regardless of verb.
+        # "lead"/"defeated" → a is leader; "trail" → b is leader; "vs" → 0-0.
+        if verb in ("lead", "defeated"):
+            leader, trailer, lw, tw = a, b, w1, w2
+        elif verb == "trail":
+            leader, trailer, lw, tw = b, a, w2, w1
+        else:  # vs.
+            leader, trailer, lw, tw = a, b, w1, w2
+        over = verb == "defeated" or lw == 4
+        winner = leader if over else ""
+        series.append({
+            "round": rnd,
+            "teams": [a, b],
+            "leader": leader,
+            "trailer": trailer,
+            "wins": [lw if a == leader else tw, lw if b == leader else tw],
+            "status": verb.rstrip("."),
+            "over": over,
+            "winner": winner,
+        })
+    return series
+
+
+def fetch_todays_schedule() -> list[dict]:
+    """Return every game on today's scoreboard (completed or scheduled).
+
+    Each game: ``{"teams": [away, home], "scores": [a, h] | None,
+    "status": "final" | "scheduled" | "live", "gameId": str | None}``.
+    """
+    today = datetime.now(timezone.utc).date()
+    url = f"{BASE}/boxscores/?month={today.month}&day={today.day}&year={today.year}"
+    try:
+        html = http_get(url)
+    except HTTPError:
+        return []
+
+    games: list[dict] = []
+    # Each game is a <div class="game_summary ..."><table class="teams">...</table>
+    # Find each teams table and extract the two <tr> rows.
+    for m in re.finditer(
+        r'<table class="teams">\s*<tbody>(.*?)</tbody>\s*</table>',
+        html,
+        flags=re.DOTALL,
+    ):
+        body = m.group(1)
+        rows = re.findall(r"<tr[^>]*>(.*?)</tr>", body, flags=re.DOTALL)
+        if len(rows) < 2:
+            continue
+        parsed = []
+        for row in rows[:2]:
+            team_match = re.search(r"/teams/([A-Z]{3})/\d{4}\.html", row)
+            score_match = re.search(r'<td class="right">(\d+)</td>', row)
+            if not team_match:
+                parsed = []
+                break
+            parsed.append({
+                "team": team_match.group(1),
+                "score": int(score_match.group(1)) if score_match else None,
+            })
+        if len(parsed) != 2:
+            continue
+        box_match = re.search(r"/boxscores/(\d{8}0[A-Z]{3})\.html", body)
+        gid = box_match.group(1) if box_match else None
+        have_scores = parsed[0]["score"] is not None and parsed[1]["score"] is not None
+        if gid and have_scores:
+            status = "final"
+        elif have_scores:
+            status = "live"
+        else:
+            status = "scheduled"
+        games.append({
+            "teams": [parsed[0]["team"], parsed[1]["team"]],
+            "scores": [parsed[0]["score"], parsed[1]["score"]] if have_scores else None,
+            "status": status,
+            "gameId": gid,
+        })
+    return games
 
 
 def fetch_eliminated_teams() -> set[str]:
@@ -393,6 +519,7 @@ def build_player_records(rosters: dict) -> tuple[dict, dict]:
 
     drafted = drafted_names(rosters)
     needed_keys = {normalize_name(n) for n in drafted}
+    key_to_name = {normalize_name(n): n for n in drafted}
     totals_for_drafted = {k: v for k, v in totals.items() if k in needed_keys}
 
     # Per-game stat lines drive both the triple-double column and the
@@ -400,19 +527,37 @@ def build_player_records(rosters: dict) -> tuple[dict, dict]:
     # and cached forever under data/.cache/boxscores/.
     td_counts: dict[str, int] = {}
     daily_fp: dict[str, dict[str, float]] = {}  # {date: {name_key: fp_added}}
+    game_logs: dict[str, list[dict]] = {}
     if totals_for_drafted:
         game_ids = fetch_completed_game_ids()
         print(f"  completed playoff games: {len(game_ids)}")
         for gid in game_ids:
             box = fetch_boxscore(gid)
             date = box["date"]
+            home_team = gid[-3:]
             bucket = daily_fp.setdefault(date, {})
             for line in box["players"]:
                 if line["key"] not in needed_keys:
                     continue
                 if line["TD"]:
                     td_counts[line["key"]] = td_counts.get(line["key"], 0) + 1
-                bucket[line["key"]] = bucket.get(line["key"], 0.0) + fantasy_points(line)
+                fp = fantasy_points(line)
+                bucket[line["key"]] = bucket.get(line["key"], 0.0) + fp
+                pick_name = key_to_name.get(line["key"])
+                if pick_name:
+                    game_logs.setdefault(pick_name, []).append({
+                        "date": date,
+                        "team": line["team"],
+                        "opp": line["opp"],
+                        "home": line["team"] == home_team,
+                        "MP": line["MP"],
+                        "PTS": line["PTS"], "ORB": line["ORB"], "DRB": line["DRB"],
+                        "TRB": line["TRB"], "AST": line["AST"], "STL": line["STL"],
+                        "BLK": line["BLK"], "TOV": line["TOV"], "TD": line["TD"],
+                        "FP": round(fp, 2),
+                    })
+    for log in game_logs.values():
+        log.sort(key=lambda g: g["date"])
     extras_daily = daily_fp
 
     players_out: dict[str, dict] = {}
@@ -458,6 +603,13 @@ def build_player_records(rosters: dict) -> tuple[dict, dict]:
         rec["active"] = bool(team) and team not in eliminated_teams
         rec["ownedBy"] = sorted(ownership.get(pick_name, []))
         rec["ownership"] = len(rec["ownedBy"]) / len(rosters["owners"])
+        salary = next(
+            (p.get("salary") or 0 for o in rosters["owners"] for p in o["roster"] if p["name"] == pick_name),
+            0,
+        )
+        rec["salary"] = salary
+        rec["FPperDollar"] = round(rec["FP"] / salary, 4) if salary else 0.0
+        rec["gameLog"] = game_logs.get(pick_name, [])
         players_out[pick_name] = rec
 
     return players_out, {
@@ -515,6 +667,24 @@ def build_leaderboard(rosters: dict, players: dict) -> list[dict]:
     return rows
 
 
+def attach_movement(leaderboard: list[dict], history: dict) -> None:
+    """Compare each owner's current rank to their rank on the most recent
+    *prior* day in the history. The result lets the UI show ▲/▼ arrows."""
+    days = history.get("days", [])
+    if len(days) < 2:
+        for row in leaderboard:
+            row["prevRank"] = row["rank"]
+            row["rankDelta"] = 0
+        return
+    prev_totals = days[-2]["totals"]
+    prev_sorted = sorted(prev_totals.items(), key=lambda kv: kv[1], reverse=True)
+    prev_rank = {name: i + 1 for i, (name, _) in enumerate(prev_sorted)}
+    for row in leaderboard:
+        pr = prev_rank.get(row["owner"], row["rank"])
+        row["prevRank"] = pr
+        row["rankDelta"] = pr - row["rank"]  # positive = moved up
+
+
 def build_history(rosters: dict, daily_fp: dict[str, dict[str, float]]) -> dict:
     """Rebuild the full day-by-day history from per-game stat lines.
 
@@ -552,6 +722,18 @@ def main() -> int:
     players, extras = build_player_records(rosters)
     leaderboard = build_leaderboard(rosters, players)
     history = build_history(rosters, extras["daily_fp"])
+    attach_movement(leaderboard, history)
+
+    try:
+        series = fetch_series()
+    except Exception as e:
+        print(f"  series fetch failed: {e}")
+        series = []
+    try:
+        todays_games = fetch_todays_schedule()
+    except Exception as e:
+        print(f"  today's schedule failed: {e}")
+        todays_games = []
 
     (DATA / "players.json").write_text(json.dumps({
         "season": SEASON,
@@ -564,6 +746,15 @@ def main() -> int:
     }, indent=2, ensure_ascii=False))
 
     (DATA / "history.json").write_text(json.dumps(history, indent=2, ensure_ascii=False))
+
+    (DATA / "series.json").write_text(json.dumps({
+        "season": SEASON, "series": series,
+    }, indent=2, ensure_ascii=False))
+
+    (DATA / "today.json").write_text(json.dumps({
+        "date": datetime.now(timezone.utc).date().isoformat(),
+        "games": todays_games,
+    }, indent=2, ensure_ascii=False))
 
     (DATA / "meta.json").write_text(json.dumps({
         "season": SEASON,

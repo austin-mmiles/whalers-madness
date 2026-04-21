@@ -156,3 +156,19 @@ export function posBadge(pos) {
   if (!pos) return "";
   return el("span", { class: `position-badge ${pos[0] || ""}` }, pos);
 }
+
+export function movementBadge(delta) {
+  if (!delta || Number.isNaN(delta)) {
+    return el("span", { class: "move flat", title: "No change since yesterday" }, "—");
+  }
+  const up = delta > 0;
+  return el(
+    "span",
+    { class: `move ${up ? "up" : "down"}`, title: `Rank ${up ? "up" : "down"} ${Math.abs(delta)} since yesterday` },
+    `${up ? "▲" : "▼"}${Math.abs(delta)}`,
+  );
+}
+
+export function playerSlug(name) {
+  return encodeURIComponent(name);
+}

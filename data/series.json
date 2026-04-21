@@ -1,0 +1,117 @@
+{
+  "season": "2026",
+  "series": [
+    {
+      "round": "East Conf 1st Round",
+      "teams": [
+        "DET",
+        "ORL"
+      ],
+      "leader": "ORL",
+      "trailer": "DET",
+      "wins": [
+        0,
+        1
+      ],
+      "status": "trail",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Eastern Conference First Round",
+      "teams": [
+        "CLE",
+        "TOR"
+      ],
+      "leader": "CLE",
+      "trailer": "TOR",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Eastern Conference First Round",
+      "teams": [
+        "NYK",
+        "ATL"
+      ],
+      "leader": "NYK",
+      "trailer": "ATL",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Eastern Conference First Round",
+      "teams": [
+        "BOS",
+        "PHI"
+      ],
+      "leader": "BOS",
+      "trailer": "PHI",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Western Conference First Round",
+      "teams": [
+        "OKC",
+        "PHO"
+      ],
+      "leader": "OKC",
+      "trailer": "PHO",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Western Conference First Round",
+      "teams": [
+        "LAL",
+        "HOU"
+      ],
+      "leader": "LAL",
+      "trailer": "HOU",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    },
+    {
+      "round": "Western Conference First Round",
+      "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "leader": "DEN",
+      "trailer": "MIN",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": ""
+    }
+  ]
+}

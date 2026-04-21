@@ -1,6 +1,6 @@
 import {
   $, el, loadJSON, renderHeader, renderUpdated, fmt, fmtInt, fmtPct,
-  medalClass, teamBadge, posBadge, activePill,
+  medalClass, teamBadge, posBadge, activePill, movementBadge,
 } from "./common.js";
 
 renderHeader("teams");
@@ -12,14 +12,35 @@ const root = $("#team-page");
 
 try {
   if (!ownerName) throw new Error("No owner specified.");
-  const lb = (await loadJSON("leaderboard.json")).leaderboard;
+  const [lbData, seriesData] = await Promise.all([
+    loadJSON("leaderboard.json"),
+    loadJSON("series.json").catch(() => ({ series: [] })),
+  ]);
+  const lb = lbData.leaderboard;
   const entry = lb.find((r) => r.owner === ownerName);
   if (!entry) throw new Error(`Owner "${ownerName}" not found.`);
+
+  const seriesByTeam = new Map();
+  for (const s of (seriesData.series || [])) {
+    seriesByTeam.set(s.teams[0], s);
+    seriesByTeam.set(s.teams[1], s);
+  }
+  const atRisk = (team) => {
+    const s = seriesByTeam.get(team);
+    if (!s || s.over) return null;
+    const i = s.teams.indexOf(team);
+    const other = s.teams[1 - i];
+    if (s.trailer === team) {
+      const gap = s.wins[s.teams.indexOf(s.leader)] - s.wins[i];
+      if (gap >= 2) return `Down ${gap}-0? vs ${other}`;
+      if (gap >= 1) return `Trails ${other}`;
+    }
+    return null;
+  };
 
   document.title = `${ownerName} · Whalers Madness`;
   root.innerHTML = "";
 
-  // Header summary
   const prev = lb[entry.rank - 2];
   const behindLeader = lb[0].FP - entry.FP;
   const subText = entry.rank === 1
@@ -29,7 +50,10 @@ try {
   root.append(
     el("div", { class: "team-summary" },
       el("div", null,
-        el("h2", null, ownerName),
+        el("h2", { style: "display:flex;align-items:center;gap:10px;flex-wrap:wrap" },
+          ownerName,
+          movementBadge(entry.rankDelta),
+        ),
         el("div", { class: "sub" }, subText),
       ),
       el("div", { style: "text-align:right" },
@@ -51,7 +75,7 @@ try {
   // Roster table
   root.append(
     el("h3", { class: "section-title" }, "Roster"),
-    rosterTable(entry.roster),
+    rosterTable(entry.roster, atRisk),
   );
 
   // Comparison — ownership overlap with other owners (shared players)
@@ -109,7 +133,7 @@ function stat(label, value, sub) {
   );
 }
 
-function rosterTable(roster) {
+function rosterTable(roster, atRisk = () => null) {
   // Order by slot (G1, G2, ...)
   const slotOrder = ["G1","G2","G3","G4","F1","F2","F3","F4","C1","C2"];
   const sorted = [...roster].sort(
@@ -137,9 +161,15 @@ function rosterTable(roster) {
         ),
         el("tbody", null, ...sorted.map((p) => {
           const pct = (p.FP || 0) / rosterFP * 100;
+          const risk = p.active ? atRisk(p.team) : null;
           return el("tr", null,
             el("td", { class: "left" }, posBadge(p.slot)),
-            el("td", { class: "left player-name" }, p.name),
+            el("td", { class: "left" },
+              el("a", { href: `player.html?name=${encodeURIComponent(p.name)}`, class: "player-name" }, p.name),
+              risk ? el("div", { class: "muted", style: "font-size:11px;margin-top:2px" },
+                el("span", { class: "pill at-risk" }, risk),
+              ) : null,
+            ),
             el("td", null, teamBadge(p.team)),
             el("td", { class: "muted" }, p.salary ? `$${fmt(p.salary, 2)}` : "—"),
             el("td", { class: "muted" }, fmtInt(p.G)),

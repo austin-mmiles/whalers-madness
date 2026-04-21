@@ -497,6 +497,168 @@ footer.site-footer {
   gap: 10px;
 }
 
+/* ----------------------------------------------------- Rank movement */
+
+.move {
+  display: inline-block;
+  min-width: 32px;
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: var(--mono);
+  text-align: center;
+  background: var(--surface-2);
+  color: var(--muted);
+}
+.move.up { color: var(--good); background: rgba(46, 204, 113, 0.12); }
+.move.down { color: var(--bad); background: rgba(255, 90, 95, 0.12); }
+.move.flat { color: var(--muted); }
+
+/* ---------------------------------------------------- Today's games */
+
+.today-strip {
+  margin: 14px 0 20px 0;
+}
+.today-label {
+  font-size: 11px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.today-games {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+.today-game {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  align-items: center;
+  gap: 4px 10px;
+}
+.today-matchup {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+.today-score {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 15px;
+}
+.today-status {
+  font-size: 12px;
+  color: var(--muted);
+}
+.today-pill {
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: var(--surface-2);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.today-pill.final { color: var(--muted); }
+.today-pill.live {
+  color: #fff;
+  background: var(--bad);
+  animation: pulse 1.8s infinite;
+}
+.today-pill.scheduled { color: var(--accent); background: rgba(94, 184, 255, 0.1); }
+.today-series {
+  grid-column: 1 / -1;
+  font-size: 11px;
+  color: var(--muted);
+  font-family: var(--mono);
+}
+.today-empty {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 13px;
+}
+.today-empty .today-label { margin: 0; }
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.55; }
+}
+
+/* ------------------------------------------------------- Insights */
+
+.insights { margin-top: 30px; }
+.section-title {
+  font-size: 14px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 12px 0;
+  font-weight: 600;
+}
+.insight-card { }
+
+/* ---------------------------------------------------- Series strip */
+
+.series-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 10px;
+  margin: 14px 0 24px 0;
+}
+.series-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.series-card .round-label {
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.series-card .matchup {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 14px;
+}
+.series-card .matchup .leader { color: var(--good); font-weight: 700; }
+.series-card .matchup .trailer { color: var(--muted); }
+.series-card.over .matchup .leader { color: var(--gold); }
+.series-card.risk { border-color: rgba(255, 90, 95, 0.4); }
+
+/* ---------------------------------------------------- At-risk pill */
+
+.pill.at-risk {
+  background: rgba(246, 173, 60, 0.12);
+  color: var(--warn);
+  border: 1px solid rgba(246, 173, 60, 0.25);
+}
+
+/* ---------------------------------------------------- Game log table */
+
+.gamelog-table td, .gamelog-table th { font-family: var(--mono); }
+.gamelog-bigfp { font-weight: 700; }
+
 /* --------------------------------------------------------- Small screens */
 
 @media (max-width: 640px) {
@@ -507,4 +669,6 @@ footer.site-footer {
   main { padding: 14px; }
   .updated { width: 100%; order: 99; }
   .hide-sm { display: none !important; }
+  .today-games { grid-template-columns: 1fr; }
+  .series-strip { grid-template-columns: 1fr 1fr; }
 }

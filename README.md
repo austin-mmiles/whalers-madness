@@ -9,19 +9,22 @@ Actions, deploys to GitHub Pages.
 
 ```
 .
-├── index.html            ← Leaderboard (main page)
-├── teams.html            ← All 14 rosters (grid)
-├── team.html             ← Single team detail (?owner=Name)
-├── players.html          ← Every drafted player, sortable/filterable
+├── index.html            ← Leaderboard (main page) + today's games + insights
+├── teams.html            ← All 14 rosters + live series strip
+├── team.html             ← Single team detail (?owner=Name), at-risk pills
+├── players.html          ← Every drafted player, sortable/filterable, FP/$M
+├── player.html           ← Single player detail (?name=Name) with game log
 ├── history.html          ← Cumulative-points chart by day
 ├── assets/
 │   ├── css/style.css
 │   └── js/               ← Vanilla ES-modules (no build step)
 ├── data/
 │   ├── rosters.json      ← Owners + picks (hand-maintained seed)
-│   ├── players.json      ← Auto-generated stats per drafted player
-│   ├── leaderboard.json  ← Auto-generated standings
+│   ├── players.json      ← Stats + gameLog per drafted player
+│   ├── leaderboard.json  ← Standings w/ rank movement since yesterday
 │   ├── history.json      ← Daily snapshot log
+│   ├── series.json       ← Current playoff series status
+│   ├── today.json        ← Today's scoreboard (scheduled + final)
 │   └── meta.json         ← {lastUpdated, season, scoring, …}
 ├── scripts/update_stats.py
 └── .github/workflows/update.yml
