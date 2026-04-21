@@ -222,6 +222,7 @@ table.stats th.sort-asc::after  { content: " \25B2"; font-size: 10px; color: var
 table.stats th.sort-desc::after { content: " \25BC"; font-size: 10px; color: var(--accent); }
 table.stats tbody tr { transition: background 0.1s; }
 table.stats tbody tr:hover { background: rgba(94, 184, 255, 0.05); }
+table.stats tbody tr.clickable-row:hover { background: rgba(94, 184, 255, 0.1); cursor: pointer; }
 table.stats tbody tr:last-child td { border-bottom: none; }
 
 table.stats td.left,
@@ -237,7 +238,8 @@ table.stats .rank.medal-2 { color: var(--silver); }
 table.stats .rank.medal-3 { color: var(--bronze); }
 
 table.stats .big { font-size: 15px; font-weight: 700; color: var(--text); }
-table.stats .player-name { font-weight: 600; color: var(--text); }
+table.stats .player-name { font-weight: 600; color: var(--accent); }
+table.stats tr.clickable-row .player-name { text-decoration: underline; text-underline-offset: 2px; }
 table.stats .owner-name { font-weight: 700; color: var(--text); font-size: 14px; }
 table.stats .muted { color: var(--muted); }
 

@@ -13,35 +13,44 @@ try {
   const table = $("#players-table");
   let filters = { q: "", status: "all", pos: "all" };
 
-  const buildRow = (p) => el("tr", null,
-    el("td", { class: "left muted" }, String(p.rank)),
-    el("td", { class: "left" },
-      el("a", { class: "player-name", href: `player.html?name=${encodeURIComponent(p.name)}` }, p.name),
-      p.ownedBy.length
-        ? el("div", { class: "muted", style: "font-size:11px;margin-top:2px" },
-            "Owned by: ", p.ownedBy.map((o, i) => [
-              i > 0 ? ", " : "",
-              el("a", { href: `team.html?owner=${encodeURIComponent(o)}` }, o),
-            ]).flat(),
-          )
-        : null,
-    ),
-    el("td", null, teamBadge(p.team)),
-    el("td", { class: "muted" }, fmtInt(p.G)),
-    el("td", { class: "hide-sm muted" }, p.G ? fmt(p.MPPG, 1) : "—"),
-    el("td", { class: "big" }, fmt(p.FP, 2)),
-    el("td", null, fmt(p.FPPG, 1)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.PTS)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.TRB)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.AST)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.STL)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.BLK)),
-    el("td", { class: "hide-sm muted" }, fmtInt(p.TOV)),
-    el("td", { class: "hide-sm" }, p.TD ? String(p.TD) : el("span", { class: "muted" }, "0")),
-    el("td", { class: "hide-sm muted" }, p.salary ? fmt(p.FP / p.salary, 2) : "—"),
-    el("td", null, fmtPct(p.ownership, 0)),
-    el("td", null, activePill(p.active)),
-  );
+  const playerHref = (name) => `player.html?name=${encodeURIComponent(name)}`;
+
+  const buildRow = (p) => {
+    const row = el("tr", { class: "clickable-row", style: "cursor:pointer" },
+      el("td", { class: "left muted" }, String(p.rank)),
+      el("td", { class: "left" },
+        el("span", { class: "player-name" }, p.name),
+        p.ownedBy.length
+          ? el("div", { class: "muted", style: "font-size:11px;margin-top:2px" },
+              "Owned by: ", p.ownedBy.map((o, i) => [
+                i > 0 ? ", " : "",
+                el("a", {
+                  href: `team.html?owner=${encodeURIComponent(o)}`,
+                  onclick: (e) => e.stopPropagation(),
+                }, o),
+              ]).flat(),
+            )
+          : null,
+      ),
+      el("td", null, teamBadge(p.team)),
+      el("td", { class: "muted" }, fmtInt(p.G)),
+      el("td", { class: "hide-sm muted" }, p.G ? fmt(p.MPPG, 1) : "—"),
+      el("td", { class: "big" }, fmt(p.FP, 2)),
+      el("td", null, fmt(p.FPPG, 1)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.PTS)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.TRB)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.AST)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.STL)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.BLK)),
+      el("td", { class: "hide-sm muted" }, fmtInt(p.TOV)),
+      el("td", { class: "hide-sm" }, p.TD ? String(p.TD) : el("span", { class: "muted" }, "0")),
+      el("td", { class: "hide-sm muted" }, p.salary ? fmt(p.FP / p.salary, 2) : "—"),
+      el("td", null, fmtPct(p.ownership, 0)),
+      el("td", null, activePill(p.active)),
+    );
+    row.addEventListener("click", () => { window.location.href = playerHref(p.name); });
+    return row;
+  };
 
   const applyFilters = (rows) => rows.filter((p) => {
     if (filters.status === "active" && !p.active) return false;
