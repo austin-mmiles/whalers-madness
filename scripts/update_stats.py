@@ -267,10 +267,14 @@ def fetch_completed_game_ids() -> list[str]:
     else:
         start = date(*PLAYOFF_SCAN_START.get(SEASON, (int(SEASON), 4, 15)))
 
+    from datetime import timedelta as _td
     today = datetime.now(timezone.utc).date()
+    # Walk one extra day into the future to catch late US games that BR
+    # publishes after UTC midnight (e.g. a 10pm PDT game = 5am UTC next day).
+    scan_end = today + _td(days=1)
     all_ids = set(bracket_ids)
     d = start
-    while d <= today:
+    while d <= scan_end:
         url = f"{BASE}/boxscores/?month={d.month}&day={d.day}&year={d.year}"
         try:
             html = http_get(url)
@@ -421,58 +425,73 @@ def fetch_series() -> list[dict]:
 
 
 def fetch_todays_schedule() -> list[dict]:
-    """Return every game on today's scoreboard (completed or scheduled).
+    """Return every game on today's and yesterday's scoreboards.
+
+    NBA games tip off in US evening hours which often correspond to the
+    following UTC date. Checking both dates ensures we catch games that
+    are live or just-finished but still on yesterday's BR page.
 
     Each game: ``{"teams": [away, home], "scores": [a, h] | None,
     "status": "final" | "scheduled" | "live", "gameId": str | None}``.
     """
-    today = datetime.now(timezone.utc).date()
-    url = f"{BASE}/boxscores/?month={today.month}&day={today.day}&year={today.year}"
-    try:
-        html = http_get(url)
-    except HTTPError:
-        return []
-
+    from datetime import timedelta
+    utc_today = datetime.now(timezone.utc).date()
+    # Check today and yesterday — NBA evening games (7-10pm US) often fall on
+    # the prior UTC date on BR's scoreboard pages.
+    dates_to_check = [utc_today - timedelta(days=1), utc_today]
+    seen_ids: set[str] = set()
     games: list[dict] = []
-    # Each game is a <div class="game_summary ..."><table class="teams">...</table>
-    # Find each teams table and extract the two <tr> rows.
-    for m in re.finditer(
-        r'<table class="teams">\s*<tbody>(.*?)</tbody>\s*</table>',
-        html,
-        flags=re.DOTALL,
-    ):
-        body = m.group(1)
-        rows = re.findall(r"<tr[^>]*>(.*?)</tr>", body, flags=re.DOTALL)
-        if len(rows) < 2:
+
+    for check_date in dates_to_check:
+        url = f"{BASE}/boxscores/?month={check_date.month}&day={check_date.day}&year={check_date.year}"
+        try:
+            html = http_get(url)
+        except HTTPError:
             continue
-        parsed = []
-        for row in rows[:2]:
-            team_match = re.search(r"/teams/([A-Z]{3})/\d{4}\.html", row)
-            score_match = re.search(r'<td class="right">(\d+)</td>', row)
-            if not team_match:
-                parsed = []
-                break
-            parsed.append({
-                "team": team_match.group(1),
-                "score": int(score_match.group(1)) if score_match else None,
+
+        # Each game is a <div class="game_summary ..."><table class="teams">...</table>
+        for m in re.finditer(
+            r'<table class="teams">\s*<tbody>(.*?)</tbody>\s*</table>',
+            html,
+            flags=re.DOTALL,
+        ):
+            body = m.group(1)
+            rows = re.findall(r"<tr[^>]*>(.*?)</tr>", body, flags=re.DOTALL)
+            if len(rows) < 2:
+                continue
+            parsed = []
+            for row in rows[:2]:
+                team_match = re.search(r"/teams/([A-Z]{3})/\d{4}\.html", row)
+                score_match = re.search(r'<td class="right">(\d+)</td>', row)
+                if not team_match:
+                    parsed = []
+                    break
+                parsed.append({
+                    "team": team_match.group(1),
+                    "score": int(score_match.group(1)) if score_match else None,
+                })
+            if len(parsed) != 2:
+                continue
+            box_match = re.search(r"/boxscores/(\d{8}0[A-Z]{3})\.html", body)
+            gid = box_match.group(1) if box_match else None
+            # De-duplicate across the two date pages
+            dedup_key = gid or f"{parsed[0]['team']}-{parsed[1]['team']}"
+            if dedup_key in seen_ids:
+                continue
+            seen_ids.add(dedup_key)
+            have_scores = parsed[0]["score"] is not None and parsed[1]["score"] is not None
+            if gid and have_scores:
+                status = "final"
+            elif have_scores:
+                status = "live"
+            else:
+                status = "scheduled"
+            games.append({
+                "teams": [parsed[0]["team"], parsed[1]["team"]],
+                "scores": [parsed[0]["score"], parsed[1]["score"]] if have_scores else None,
+                "status": status,
+                "gameId": gid,
             })
-        if len(parsed) != 2:
-            continue
-        box_match = re.search(r"/boxscores/(\d{8}0[A-Z]{3})\.html", body)
-        gid = box_match.group(1) if box_match else None
-        have_scores = parsed[0]["score"] is not None and parsed[1]["score"] is not None
-        if gid and have_scores:
-            status = "final"
-        elif have_scores:
-            status = "live"
-        else:
-            status = "scheduled"
-        games.append({
-            "teams": [parsed[0]["team"], parsed[1]["team"]],
-            "scores": [parsed[0]["score"], parsed[1]["score"]] if have_scores else None,
-            "status": status,
-            "gameId": gid,
-        })
     return games
 
 
