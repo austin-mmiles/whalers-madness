@@ -1,4 +1,41 @@
 {
   "date": "2026-04-21",
-  "games": []
+  "games": [
+    {
+      "teams": [
+        "TOR",
+        "CLE"
+      ],
+      "scores": [
+        105,
+        115
+      ],
+      "status": "final",
+      "gameId": "202604200CLE"
+    },
+    {
+      "teams": [
+        "MIN",
+        "DEN"
+      ],
+      "scores": [
+        119,
+        114
+      ],
+      "status": "final",
+      "gameId": "202604200DEN"
+    },
+    {
+      "teams": [
+        "ATL",
+        "NYK"
+      ],
+      "scores": [
+        107,
+        106
+      ],
+      "status": "final",
+      "gameId": "202604200NYK"
+    }
+  ]
 }

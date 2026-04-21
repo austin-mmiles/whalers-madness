@@ -26,23 +26,7 @@
       "leader": "CLE",
       "trailer": "TOR",
       "wins": [
-        1,
-        0
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": ""
-    },
-    {
-      "round": "Eastern Conference First Round",
-      "teams": [
-        "NYK",
-        "ATL"
-      ],
-      "leader": "NYK",
-      "trailer": "ATL",
-      "wins": [
-        1,
+        2,
         0
       ],
       "status": "lead",
@@ -100,11 +84,11 @@
     {
       "round": "Western Conference First Round",
       "teams": [
-        "DEN",
-        "MIN"
+        "SAS",
+        "POR"
       ],
-      "leader": "DEN",
-      "trailer": "MIN",
+      "leader": "SAS",
+      "trailer": "POR",
       "wins": [
         1,
         0
