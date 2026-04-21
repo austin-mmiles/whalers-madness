@@ -933,30 +933,6 @@
       "ownership": 0.07142857142857142
     },
     {
-      "name": "Nickeil Alexander-Walker",
-      "pos": "G",
-      "team": "ATL",
-      "G": 1,
-      "MP": 39,
-      "PTS": 17,
-      "ORB": 0,
-      "DRB": 1,
-      "TRB": 1,
-      "AST": 4,
-      "STL": 0,
-      "BLK": 1,
-      "TOV": 1,
-      "TD": 0,
-      "FP": 28.25,
-      "FPPG": 28.25,
-      "MPPG": 39.0,
-      "active": true,
-      "ownedBy": [
-        "Taiga"
-      ],
-      "ownership": 0.07142857142857142
-    },
-    {
       "name": "Sam Hauser",
       "pos": "F",
       "team": "BOS",
@@ -982,6 +958,30 @@
         "Ronnie"
       ],
       "ownership": 0.2857142857142857
+    },
+    {
+      "name": "Nickeil Alexander-Walker",
+      "pos": "G",
+      "team": "ATL",
+      "G": 1,
+      "MP": 39,
+      "PTS": 17,
+      "ORB": 0,
+      "DRB": 1,
+      "TRB": 1,
+      "AST": 4,
+      "STL": 0,
+      "BLK": 1,
+      "TOV": 1,
+      "TD": 0,
+      "FP": 28.25,
+      "FPPG": 28.25,
+      "MPPG": 39.0,
+      "active": true,
+      "ownedBy": [
+        "Taiga"
+      ],
+      "ownership": 0.07142857142857142
     },
     {
       "name": "Julian Champagnie",
@@ -1278,30 +1278,6 @@
       "ownership": 0.14285714285714285
     },
     {
-      "name": "Keldon Johnson",
-      "pos": "F",
-      "team": "SAS",
-      "G": 1,
-      "MP": 20,
-      "PTS": 3,
-      "ORB": 3,
-      "DRB": 4,
-      "TRB": 7,
-      "AST": 1,
-      "STL": 1,
-      "BLK": 0,
-      "TOV": 2,
-      "TD": 0,
-      "FP": 17.25,
-      "FPPG": 17.25,
-      "MPPG": 20.0,
-      "active": true,
-      "ownedBy": [
-        "Garrett T"
-      ],
-      "ownership": 0.07142857142857142
-    },
-    {
       "name": "Tim Hardaway Jr.",
       "pos": "G",
       "team": "DEN",
@@ -1322,6 +1298,30 @@
       "active": true,
       "ownedBy": [
         "Jameson"
+      ],
+      "ownership": 0.07142857142857142
+    },
+    {
+      "name": "Keldon Johnson",
+      "pos": "F",
+      "team": "SAS",
+      "G": 1,
+      "MP": 20,
+      "PTS": 3,
+      "ORB": 3,
+      "DRB": 4,
+      "TRB": 7,
+      "AST": 1,
+      "STL": 1,
+      "BLK": 0,
+      "TOV": 2,
+      "TD": 0,
+      "FP": 17.25,
+      "FPPG": 17.25,
+      "MPPG": 20.0,
+      "active": true,
+      "ownedBy": [
+        "Garrett T"
       ],
       "ownership": 0.07142857142857142
     },
@@ -1762,9 +1762,9 @@
       "ownership": 0.07142857142857142
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Jeff Green",
       "pos": "F",
-      "team": "ATL",
+      "team": "HOU",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -1781,55 +1781,7 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142
-    },
-    {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Josh K"
-      ],
-      "ownership": 0.07142857142857142
-    },
-    {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Vincent"
+        "Jameson"
       ],
       "ownership": 0.07142857142857142
     },
@@ -1886,30 +1838,6 @@
       "ownership": 0.35714285714285715
     },
     {
-      "name": "Jeff Green",
-      "pos": "F",
-      "team": "HOU",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142
-    },
-    {
       "name": "Thomas Bryant",
       "pos": "C",
       "team": "CLE",
@@ -1934,6 +1862,30 @@
       "ownership": 0.07142857142857142
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142
+    },
+    {
       "name": "Yang Hansen",
       "pos": "C",
       "team": "POR",
@@ -1954,6 +1906,54 @@
       "active": true,
       "ownedBy": [
         "John"
+      ],
+      "ownership": 0.07142857142857142
+    },
+    {
+      "name": "Jaylen Clark",
+      "pos": "G",
+      "team": "MIN",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Josh K"
+      ],
+      "ownership": 0.07142857142857142
+    },
+    {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Vincent"
       ],
       "ownership": 0.07142857142857142
     },
