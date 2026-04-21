@@ -2,23 +2,25 @@
   "season": "2026",
   "series": [
     {
-      "round": "East Conf 1st Round",
+      "round": "First Round",
       "teams": [
-        "DET",
-        "ORL"
+        "ATL",
+        "NYK"
       ],
-      "leader": "ORL",
-      "trailer": "DET",
+      "leader": "ATL",
+      "trailer": "NYK",
       "wins": [
-        0,
+        1,
         1
       ],
-      "status": "trail",
+      "status": "vs",
       "over": false,
-      "winner": ""
+      "winner": "",
+      "seriesText": "Series tied 1-1",
+      "gamesPlayed": 2
     },
     {
-      "round": "Eastern Conference First Round",
+      "round": "First Round",
       "teams": [
         "CLE",
         "TOR"
@@ -31,10 +33,66 @@
       ],
       "status": "lead",
       "over": false,
-      "winner": ""
+      "winner": "",
+      "seriesText": "CLE leads 2-0",
+      "gamesPlayed": 2
     },
     {
-      "round": "Eastern Conference First Round",
+      "round": "First Round",
+      "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "leader": "DEN",
+      "trailer": "MIN",
+      "wins": [
+        1,
+        1
+      ],
+      "status": "vs",
+      "over": false,
+      "winner": "",
+      "seriesText": "Series tied 1-1",
+      "gamesPlayed": 2
+    },
+    {
+      "round": "First Round",
+      "teams": [
+        "HOU",
+        "LAL"
+      ],
+      "leader": "LAL",
+      "trailer": "HOU",
+      "wins": [
+        0,
+        1
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "LAL leads 1-0",
+      "gamesPlayed": 1
+    },
+    {
+      "round": "First Round",
+      "teams": [
+        "DET",
+        "ORL"
+      ],
+      "leader": "ORL",
+      "trailer": "DET",
+      "wins": [
+        0,
+        1
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "ORL leads 1-0",
+      "gamesPlayed": 1
+    },
+    {
+      "round": "First Round",
       "teams": [
         "BOS",
         "PHI"
@@ -47,10 +105,12 @@
       ],
       "status": "lead",
       "over": false,
-      "winner": ""
+      "winner": "",
+      "seriesText": "BOS leads 1-0",
+      "gamesPlayed": 1
     },
     {
-      "round": "Western Conference First Round",
+      "round": "First Round",
       "teams": [
         "OKC",
         "PHO"
@@ -63,39 +123,27 @@
       ],
       "status": "lead",
       "over": false,
-      "winner": ""
+      "winner": "",
+      "seriesText": "OKC leads 1-0",
+      "gamesPlayed": 1
     },
     {
-      "round": "Western Conference First Round",
+      "round": "First Round",
       "teams": [
-        "LAL",
-        "HOU"
-      ],
-      "leader": "LAL",
-      "trailer": "HOU",
-      "wins": [
-        1,
-        0
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": ""
-    },
-    {
-      "round": "Western Conference First Round",
-      "teams": [
-        "SAS",
-        "POR"
+        "POR",
+        "SAS"
       ],
       "leader": "SAS",
       "trailer": "POR",
       "wins": [
-        1,
-        0
+        0,
+        1
       ],
       "status": "lead",
       "over": false,
-      "winner": ""
+      "winner": "",
+      "seriesText": "SAS leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
