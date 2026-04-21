@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Players · Whalers Madness</title>
+  <link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='8' width='32' height='32' fill='%235eb8ff'/><text x='50%25' y='56%25' text-anchor='middle' font-size='18' font-family='system-ui' font-weight='900' fill='%230b0d12'>W</text></svg>">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="./">
+        <span class="logo">W</span>
+        Whalers Madness <small>NBA Playoffs 2026</small>
+      </a>
+      <nav class="site-nav">
+        <a href="./" data-page="leaderboard">Leaderboard</a>
+        <a href="teams.html" data-page="teams">Teams</a>
+        <a href="players.html" data-page="players">Players</a>
+        <a href="history.html" data-page="history">History</a>
+      </nav>
+      <span class="updated"><span class="dot"></span><span id="updated-at">Loading…</span></span>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">Players</h1>
+    <p class="page-subtitle">All drafted players across every roster. Sort and filter to scout.</p>
+
+    <div class="toolbar">
+      <input id="search" class="search-input" type="search" placeholder="Search player or team…">
+      <div class="filter-group" id="status-filter">
+        <button class="active" data-status="all">All</button>
+        <button data-status="active">Active</button>
+        <button data-status="eliminated">Out</button>
+      </div>
+      <div class="filter-group" id="position-filter">
+        <button class="active" data-pos="all">All pos</button>
+        <button data-pos="G">G</button>
+        <button data-pos="F">F</button>
+        <button data-pos="C">C</button>
+      </div>
+    </div>
+
+    <div class="table-wrap">
+      <div class="table-scroll">
+        <table class="stats" id="players-table">
+          <thead>
+            <tr>
+              <th class="left" data-sort-key="rank" data-sort-default="asc">#</th>
+              <th class="left" data-sort-key="name" data-sort-default="asc">Player</th>
+              <th>Team</th>
+              <th data-sort-key="G">G</th>
+              <th class="hide-sm" data-sort-key="MPPG">MPG</th>
+              <th data-sort-key="FP">FP</th>
+              <th data-sort-key="FPPG">FPPG</th>
+              <th class="hide-sm" data-sort-key="PTS">PTS</th>
+              <th class="hide-sm" data-sort-key="TRB">REB</th>
+              <th class="hide-sm" data-sort-key="AST">AST</th>
+              <th class="hide-sm" data-sort-key="STL">STL</th>
+              <th class="hide-sm" data-sort-key="BLK">BLK</th>
+              <th class="hide-sm" data-sort-key="TOV">TOV</th>
+              <th class="hide-sm" data-sort-key="TD">TD</th>
+              <th data-sort-key="ownership">Owned</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody><tr><td colspan="16" class="loading">Loading players</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <span>Data sourced from <a href="https://www.basketball-reference.com/" target="_blank" rel="noopener">basketball-reference.com</a>.</span>
+  </footer>
+
+  <script type="module" src="assets/js/players.js"></script>
+</body>
+</html>

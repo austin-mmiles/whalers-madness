@@ -1,0 +1,17 @@
+{
+  "season": "2026",
+  "league": "Whalers Madness",
+  "lastUpdated": "2026-04-21T00:53:07+00:00",
+  "source": "basketball-reference.com",
+  "scoring": {
+    "PTS": 1.0,
+    "ORB": 1.75,
+    "DRB": 1.25,
+    "AST": 2.0,
+    "BLK": 2.5,
+    "STL": 3.0,
+    "TOV": -0.5,
+    "TD": 16.75
+  },
+  "eliminatedTeams": []
+}

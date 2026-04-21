@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Leaderboard · Whalers Madness</title>
+  <link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='8' width='32' height='32' fill='%235eb8ff'/><text x='50%25' y='56%25' text-anchor='middle' font-size='18' font-family='system-ui' font-weight='900' fill='%230b0d12'>W</text></svg>">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="./">
+        <span class="logo">W</span>
+        Whalers Madness <small>NBA Playoffs 2026</small>
+      </a>
+      <nav class="site-nav">
+        <a href="./" data-page="leaderboard">Leaderboard</a>
+        <a href="teams.html" data-page="teams">Teams</a>
+        <a href="players.html" data-page="players">Players</a>
+        <a href="history.html" data-page="history">History</a>
+      </nav>
+      <span class="updated"><span class="dot"></span><span id="updated-at">Loading…</span></span>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">Leaderboard</h1>
+    <p class="page-subtitle">Live fantasy points from basketball-reference.com. Click any row to see the full roster.</p>
+
+    <div id="summary" class="stat-row"></div>
+
+    <div class="table-wrap">
+      <div class="table-scroll">
+        <table class="stats" id="leaderboard-table">
+          <thead>
+            <tr>
+              <th class="left" data-sort-key="rank" data-sort-default="asc">#</th>
+              <th class="left" data-sort-key="owner" data-sort-default="asc">Owner</th>
+              <th data-sort-key="FP">FP</th>
+              <th class="hide-sm" data-sort-key="G">G</th>
+              <th class="hide-sm" data-sort-key="MP">MP</th>
+              <th data-sort-key="playersLeft">Alive</th>
+              <th class="hide-sm" data-sort-key="salaryLeftPct">$ Left</th>
+              <th class="left hide-sm">Points</th>
+            </tr>
+          </thead>
+          <tbody><tr><td colspan="8" class="loading">Loading leaderboard</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <span>Data sourced from <a href="https://www.basketball-reference.com/" target="_blank" rel="noopener">basketball-reference.com</a>.</span>
+    <span>Scoring: PTS + 1.75·ORB + 1.25·DRB + 2·AST + 2.5·BLK + 3·STL − 0.5·TOV + 16.75·TD</span>
+  </footer>
+
+  <script type="module" src="assets/js/leaderboard.js"></script>
+</body>
+</html>

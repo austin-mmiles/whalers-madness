@@ -1,0 +1,1068 @@
+{
+  "season": "2026",
+  "league": "Whalers Madness",
+  "positions": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "C1",
+    "C2"
+  ],
+  "owners": [
+    {
+      "name": "Adam",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Cade Cunningham",
+          "position": "G",
+          "team": "DET",
+          "salary": 16.1
+        },
+        {
+          "slot": "G2",
+          "name": "Payton Pritchard",
+          "position": "G",
+          "team": "BOS",
+          "salary": 12.77
+        },
+        {
+          "slot": "G3",
+          "name": "Devin Vassell",
+          "position": "G",
+          "team": "SAS",
+          "salary": 10.43
+        },
+        {
+          "slot": "G4",
+          "name": "Devin Booker",
+          "position": "G",
+          "team": "PHO",
+          "salary": 5.85
+        },
+        {
+          "slot": "F1",
+          "name": "Chet Holmgren",
+          "position": "F",
+          "team": "OKC",
+          "salary": 16.86
+        },
+        {
+          "slot": "F2",
+          "name": "Luguentz Dort",
+          "position": "F",
+          "team": "OKC",
+          "salary": 8.26
+        },
+        {
+          "slot": "F3",
+          "name": "Sam Hauser",
+          "position": "F",
+          "team": "BOS",
+          "salary": 7.16
+        },
+        {
+          "slot": "F4",
+          "name": "Jarred Vanderbilt",
+          "position": "F",
+          "team": "LAL",
+          "salary": 2.39
+        },
+        {
+          "slot": "C1",
+          "name": "Jalen Duren",
+          "position": "C",
+          "team": "DET",
+          "salary": 12.17
+        },
+        {
+          "slot": "C2",
+          "name": "Mitchell Robinson",
+          "position": "C",
+          "team": "NYK",
+          "salary": 7.79
+        }
+      ]
+    },
+    {
+      "name": "Austin",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G2",
+          "name": "Christian Braun",
+          "position": "G",
+          "team": "DEN",
+          "salary": 8.99
+        },
+        {
+          "slot": "G3",
+          "name": "Jared McCain",
+          "position": "G",
+          "team": "OKC",
+          "salary": 6.56
+        },
+        {
+          "slot": "G4",
+          "name": "Desmond Bane",
+          "position": "G",
+          "team": "ORL",
+          "salary": 5.22
+        },
+        {
+          "slot": "F1",
+          "name": "Kevin Durant",
+          "position": "F",
+          "team": "HOU",
+          "salary": 9.59
+        },
+        {
+          "slot": "F2",
+          "name": "Julian Champagnie",
+          "position": "F",
+          "team": "SAS",
+          "salary": 9.52
+        },
+        {
+          "slot": "F3",
+          "name": "Luguentz Dort",
+          "position": "F",
+          "team": "OKC",
+          "salary": 8.26
+        },
+        {
+          "slot": "F4",
+          "name": "Sam Hauser",
+          "position": "F",
+          "team": "BOS",
+          "salary": 7.16
+        },
+        {
+          "slot": "C1",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        },
+        {
+          "slot": "C2",
+          "name": "Nikola Vučević",
+          "position": "C",
+          "team": "BOS",
+          "salary": 13.26
+        }
+      ]
+    },
+    {
+      "name": "Eric",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Jamal Murray",
+          "position": "G",
+          "team": "DEN",
+          "salary": 16.27
+        },
+        {
+          "slot": "G2",
+          "name": "Donovan Mitchell",
+          "position": "G",
+          "team": "CLE",
+          "salary": 15.23
+        },
+        {
+          "slot": "G3",
+          "name": "Tyrese Maxey",
+          "position": "G",
+          "team": "PHI",
+          "salary": 8.52
+        },
+        {
+          "slot": "G4",
+          "name": "Dyson Daniels",
+          "position": "G",
+          "team": "ATL",
+          "salary": 6.72
+        },
+        {
+          "slot": "F1",
+          "name": "Chet Holmgren",
+          "position": "F",
+          "team": "OKC",
+          "salary": 16.86
+        },
+        {
+          "slot": "F2",
+          "name": "Aaron Gordon",
+          "position": "F",
+          "team": "DEN",
+          "salary": 10.73
+        },
+        {
+          "slot": "F3",
+          "name": "Deni Avdija",
+          "position": "F",
+          "team": "POR",
+          "salary": 5.37
+        },
+        {
+          "slot": "F4",
+          "name": "Franz Wagner",
+          "position": "F",
+          "team": "ORL",
+          "salary": 5.17
+        },
+        {
+          "slot": "C1",
+          "name": "Alperen Şengün",
+          "position": "C",
+          "team": "HOU",
+          "salary": 10.54
+        },
+        {
+          "slot": "C2",
+          "name": "Jakob Poeltl",
+          "position": "C",
+          "team": "TOR",
+          "salary": 4.28
+        }
+      ]
+    },
+    {
+      "name": "Garrett M",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Derrick White",
+          "position": "G",
+          "team": "BOS",
+          "salary": 14.45
+        },
+        {
+          "slot": "G2",
+          "name": "Jalen Brunson",
+          "position": "G",
+          "team": "NYK",
+          "salary": 13.61
+        },
+        {
+          "slot": "G3",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G4",
+          "name": "Jrue Holiday",
+          "position": "G",
+          "team": "POR",
+          "salary": 4.04
+        },
+        {
+          "slot": "F1",
+          "name": "Aaron Gordon",
+          "position": "F",
+          "team": "DEN",
+          "salary": 10.73
+        },
+        {
+          "slot": "F2",
+          "name": "Kevin Durant",
+          "position": "F",
+          "team": "HOU",
+          "salary": 9.59
+        },
+        {
+          "slot": "F3",
+          "name": "Sam Hauser",
+          "position": "F",
+          "team": "BOS",
+          "salary": 7.16
+        },
+        {
+          "slot": "F4",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "C1",
+          "name": "Isaiah Hartenstein",
+          "position": "C",
+          "team": "OKC",
+          "salary": 14.88
+        },
+        {
+          "slot": "C2",
+          "name": "Luke Kornet",
+          "position": "C",
+          "team": "SAS",
+          "salary": 8.77
+        }
+      ]
+    },
+    {
+      "name": "Garrett T",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Payton Pritchard",
+          "position": "G",
+          "team": "BOS",
+          "salary": 12.77
+        },
+        {
+          "slot": "G2",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G3",
+          "name": "Jaylon Tyson",
+          "position": "G",
+          "team": "CLE",
+          "salary": 8.53
+        },
+        {
+          "slot": "G4",
+          "name": "Bones Hyland",
+          "position": "G",
+          "team": "MIN",
+          "salary": 3.58
+        },
+        {
+          "slot": "F1",
+          "name": "Jaylen Brown",
+          "position": "F",
+          "team": "BOS",
+          "salary": 18.6
+        },
+        {
+          "slot": "F2",
+          "name": "Keldon Johnson",
+          "position": "F",
+          "team": "SAS",
+          "salary": 9.58
+        },
+        {
+          "slot": "F3",
+          "name": "Scottie Barnes",
+          "position": "F",
+          "team": "TOR",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Jonathan Kuminga",
+          "position": "F",
+          "team": "ATL",
+          "salary": 4.46
+        },
+        {
+          "slot": "C1",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        },
+        {
+          "slot": "C2",
+          "name": "Deandre Ayton",
+          "position": "C",
+          "team": "LAL",
+          "salary": 4.37
+        }
+      ]
+    },
+    {
+      "name": "Jameson",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Amen Thompson",
+          "position": "G",
+          "team": "HOU",
+          "salary": 9.44
+        },
+        {
+          "slot": "G2",
+          "name": "Collin Gillespie",
+          "position": "G",
+          "team": "PHO",
+          "salary": 4.01
+        },
+        {
+          "slot": "G3",
+          "name": "Tim Hardaway Jr.",
+          "position": "G",
+          "team": "DEN",
+          "salary": 7.19
+        },
+        {
+          "slot": "G4",
+          "name": "Alex Caruso",
+          "position": "G",
+          "team": "OKC",
+          "salary": 7.99
+        },
+        {
+          "slot": "F1",
+          "name": "Tobias Harris",
+          "position": "F",
+          "team": "DET",
+          "salary": 8.25
+        },
+        {
+          "slot": "F2",
+          "name": "Jaylin Williams",
+          "position": "F",
+          "team": "OKC",
+          "salary": 9.52
+        },
+        {
+          "slot": "F3",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Jeff Green",
+          "position": "F",
+          "team": "HOU",
+          "salary": 0.92
+        },
+        {
+          "slot": "C1",
+          "name": "Nikola Jokić",
+          "position": "C",
+          "team": "DEN",
+          "salary": 24.17
+        },
+        {
+          "slot": "C2",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Cade Cunningham",
+          "position": "G",
+          "team": "DET",
+          "salary": 16.1
+        },
+        {
+          "slot": "G2",
+          "name": "Daniss Jenkins",
+          "position": "G",
+          "team": "DET",
+          "salary": 6.59
+        },
+        {
+          "slot": "G3",
+          "name": "Jared McCain",
+          "position": "G",
+          "team": "OKC",
+          "salary": 6.56
+        },
+        {
+          "slot": "G4",
+          "name": "Devin Booker",
+          "position": "G",
+          "team": "PHO",
+          "salary": 5.85
+        },
+        {
+          "slot": "F1",
+          "name": "Jayson Tatum",
+          "position": "F",
+          "team": "BOS",
+          "salary": 18
+        },
+        {
+          "slot": "F2",
+          "name": "Jalen Johnson",
+          "position": "F",
+          "team": "ATL",
+          "salary": 9.31
+        },
+        {
+          "slot": "F3",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Deni Avdija",
+          "position": "F",
+          "team": "POR",
+          "salary": 5.37
+        },
+        {
+          "slot": "C1",
+          "name": "Nikola Jokić",
+          "position": "C",
+          "team": "DEN",
+          "salary": 24.17
+        },
+        {
+          "slot": "C2",
+          "name": "Yang Hansen",
+          "position": "C",
+          "team": "POR",
+          "salary": 0.65
+        }
+      ]
+    },
+    {
+      "name": "Josh K",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G2",
+          "name": "Dyson Daniels",
+          "position": "G",
+          "team": "ATL",
+          "salary": 6.72
+        },
+        {
+          "slot": "G3",
+          "name": "Jared McCain",
+          "position": "G",
+          "team": "OKC",
+          "salary": 6.56
+        },
+        {
+          "slot": "G4",
+          "name": "Jaylen Clark",
+          "position": "G",
+          "team": "MIN",
+          "salary": 2.01
+        },
+        {
+          "slot": "F1",
+          "name": "Jayson Tatum",
+          "position": "F",
+          "team": "BOS",
+          "salary": 18
+        },
+        {
+          "slot": "F2",
+          "name": "Jalen Johnson",
+          "position": "F",
+          "team": "ATL",
+          "salary": 9.31
+        },
+        {
+          "slot": "F3",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Scottie Barnes",
+          "position": "F",
+          "team": "TOR",
+          "salary": 7.03
+        },
+        {
+          "slot": "C1",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        },
+        {
+          "slot": "C2",
+          "name": "Jalen Duren",
+          "position": "C",
+          "team": "DET",
+          "salary": 12.17
+        }
+      ]
+    },
+    {
+      "name": "Mitchell",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Jamal Murray",
+          "position": "G",
+          "team": "DEN",
+          "salary": 16.27
+        },
+        {
+          "slot": "G2",
+          "name": "Donovan Mitchell",
+          "position": "G",
+          "team": "CLE",
+          "salary": 15.23
+        },
+        {
+          "slot": "G3",
+          "name": "Jalen Brunson",
+          "position": "G",
+          "team": "NYK",
+          "salary": 13.61
+        },
+        {
+          "slot": "G4",
+          "name": "CJ McCollum",
+          "position": "G",
+          "team": "ATL",
+          "salary": 5.74
+        },
+        {
+          "slot": "F1",
+          "name": "Kevin Durant",
+          "position": "F",
+          "team": "HOU",
+          "salary": 9.59
+        },
+        {
+          "slot": "F2",
+          "name": "Scottie Barnes",
+          "position": "F",
+          "team": "TOR",
+          "salary": 7.03
+        },
+        {
+          "slot": "F3",
+          "name": "Deni Avdija",
+          "position": "F",
+          "team": "POR",
+          "salary": 5.37
+        },
+        {
+          "slot": "F4",
+          "name": "Jerami Grant",
+          "position": "F",
+          "team": "POR",
+          "salary": 3.32
+        },
+        {
+          "slot": "C1",
+          "name": "Jalen Duren",
+          "position": "C",
+          "team": "DET",
+          "salary": 12.17
+        },
+        {
+          "slot": "C2",
+          "name": "Alperen Şengün",
+          "position": "C",
+          "team": "HOU",
+          "salary": 10.54
+        }
+      ]
+    },
+    {
+      "name": "Noah",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Jalen Williams",
+          "position": "G",
+          "team": "OKC",
+          "salary": 16.57
+        },
+        {
+          "slot": "G2",
+          "name": "Stephon Castle",
+          "position": "G",
+          "team": "SAS",
+          "salary": 15.68
+        },
+        {
+          "slot": "G3",
+          "name": "Isaiah Joe",
+          "position": "G",
+          "team": "OKC",
+          "salary": 8.58
+        },
+        {
+          "slot": "G4",
+          "name": "Ayo Dosunmu",
+          "position": "G",
+          "team": "MIN",
+          "salary": 5.84
+        },
+        {
+          "slot": "F1",
+          "name": "Jayson Tatum",
+          "position": "F",
+          "team": "BOS",
+          "salary": 18
+        },
+        {
+          "slot": "F2",
+          "name": "Mikal Bridges",
+          "position": "F",
+          "team": "NYK",
+          "salary": 9.74
+        },
+        {
+          "slot": "F3",
+          "name": "Jaden McDaniels",
+          "position": "F",
+          "team": "MIN",
+          "salary": 6.17
+        },
+        {
+          "slot": "F4",
+          "name": "Jacob Toppin",
+          "position": "F",
+          "team": "ATL",
+          "salary": 0.47
+        },
+        {
+          "slot": "C1",
+          "name": "Jalen Duren",
+          "position": "C",
+          "team": "DET",
+          "salary": 12.17
+        },
+        {
+          "slot": "C2",
+          "name": "Luka Garza",
+          "position": "C",
+          "team": "BOS",
+          "salary": 6.74
+        }
+      ]
+    },
+    {
+      "name": "Ronnie",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Shai Gilgeous-Alexander",
+          "position": "G",
+          "team": "OKC",
+          "salary": 24.23
+        },
+        {
+          "slot": "G2",
+          "name": "Jalen Williams",
+          "position": "G",
+          "team": "OKC",
+          "salary": 16.57
+        },
+        {
+          "slot": "G3",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G4",
+          "name": "Jaylon Tyson",
+          "position": "G",
+          "team": "CLE",
+          "salary": 8.53
+        },
+        {
+          "slot": "F1",
+          "name": "Tobias Harris",
+          "position": "F",
+          "team": "DET",
+          "salary": 8.25
+        },
+        {
+          "slot": "F2",
+          "name": "Sam Hauser",
+          "position": "F",
+          "team": "BOS",
+          "salary": 7.16
+        },
+        {
+          "slot": "F3",
+          "name": "Jabari Smith Jr.",
+          "position": "F",
+          "team": "HOU",
+          "salary": 6.84
+        },
+        {
+          "slot": "F4",
+          "name": "Cameron Johnson",
+          "position": "F",
+          "team": "DEN",
+          "salary": 8.43
+        },
+        {
+          "slot": "C1",
+          "name": "Thomas Bryant",
+          "position": "C",
+          "team": "CLE",
+          "salary": 4.28
+        },
+        {
+          "slot": "C2",
+          "name": "Naz Reid",
+          "position": "C",
+          "team": "MIN",
+          "salary": 6.21
+        }
+      ]
+    },
+    {
+      "name": "Sivaji",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Stephon Castle",
+          "position": "G",
+          "team": "SAS",
+          "salary": 15.68
+        },
+        {
+          "slot": "G2",
+          "name": "Jalen Brunson",
+          "position": "G",
+          "team": "NYK",
+          "salary": 13.61
+        },
+        {
+          "slot": "G3",
+          "name": "Cason Wallace",
+          "position": "G",
+          "team": "OKC",
+          "salary": 10.7
+        },
+        {
+          "slot": "G4",
+          "name": "Tyrese Proctor",
+          "position": "G",
+          "team": "CLE",
+          "salary": 3.48
+        },
+        {
+          "slot": "F1",
+          "name": "Aaron Gordon",
+          "position": "F",
+          "team": "DEN",
+          "salary": 10.73
+        },
+        {
+          "slot": "F2",
+          "name": "Kevin Durant",
+          "position": "F",
+          "team": "HOU",
+          "salary": 9.59
+        },
+        {
+          "slot": "F3",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Tolu Smith",
+          "position": "F",
+          "team": "DET",
+          "salary": 3.31
+        },
+        {
+          "slot": "C1",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        },
+        {
+          "slot": "C2",
+          "name": "Donovan Clingan",
+          "position": "C",
+          "team": "POR",
+          "salary": 4.24
+        }
+      ]
+    },
+    {
+      "name": "Taiga",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Shai Gilgeous-Alexander",
+          "position": "G",
+          "team": "OKC",
+          "salary": 24.23
+        },
+        {
+          "slot": "G2",
+          "name": "Alex Caruso",
+          "position": "G",
+          "team": "OKC",
+          "salary": 7.99
+        },
+        {
+          "slot": "G3",
+          "name": "Nickeil Alexander-Walker",
+          "position": "G",
+          "team": "ATL",
+          "salary": 6.29
+        },
+        {
+          "slot": "G4",
+          "name": "Jrue Holiday",
+          "position": "G",
+          "team": "POR",
+          "salary": 4.04
+        },
+        {
+          "slot": "F1",
+          "name": "Jayson Tatum",
+          "position": "F",
+          "team": "BOS",
+          "salary": 18
+        },
+        {
+          "slot": "F2",
+          "name": "Aaron Gordon",
+          "position": "F",
+          "team": "DEN",
+          "salary": 10.73
+        },
+        {
+          "slot": "F3",
+          "name": "LeBron James",
+          "position": "F",
+          "team": "LAL",
+          "salary": 7.03
+        },
+        {
+          "slot": "F4",
+          "name": "Duncan Robinson",
+          "position": "F",
+          "team": "DET",
+          "salary": 6.43
+        },
+        {
+          "slot": "C1",
+          "name": "Neemias Queta",
+          "position": "C",
+          "team": "BOS",
+          "salary": 11.33
+        },
+        {
+          "slot": "C2",
+          "name": "Jaxson Hayes",
+          "position": "C",
+          "team": "LAL",
+          "salary": 2.72
+        }
+      ]
+    },
+    {
+      "name": "Vincent",
+      "roster": [
+        {
+          "slot": "G1",
+          "name": "Derrick White",
+          "position": "G",
+          "team": "BOS",
+          "salary": 14.45
+        },
+        {
+          "slot": "G2",
+          "name": "Cason Wallace",
+          "position": "G",
+          "team": "OKC",
+          "salary": 10.7
+        },
+        {
+          "slot": "G3",
+          "name": "Anthony Edwards",
+          "position": "G",
+          "team": "MIN",
+          "salary": 9.5
+        },
+        {
+          "slot": "G4",
+          "name": "Jalen Green",
+          "position": "G",
+          "team": "PHO",
+          "salary": 4.04
+        },
+        {
+          "slot": "F1",
+          "name": "Mikal Bridges",
+          "position": "F",
+          "team": "NYK",
+          "salary": 9.74
+        },
+        {
+          "slot": "F2",
+          "name": "Kevin Durant",
+          "position": "F",
+          "team": "HOU",
+          "salary": 9.59
+        },
+        {
+          "slot": "F3",
+          "name": "Paolo Banchero",
+          "position": "F",
+          "team": "ORL",
+          "salary": 6.41
+        },
+        {
+          "slot": "F4",
+          "name": "Caleb Houstan",
+          "position": "F",
+          "team": "ATL",
+          "salary": 0.69
+        },
+        {
+          "slot": "C1",
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "team": "SAS",
+          "salary": 21.33
+        },
+        {
+          "slot": "C2",
+          "name": "Karl-Anthony Towns",
+          "position": "C",
+          "team": "NYK",
+          "salary": 13.53
+        }
+      ]
+    }
+  ]
+}

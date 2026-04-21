@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>History · Whalers Madness</title>
+  <link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='8' width='32' height='32' fill='%235eb8ff'/><text x='50%25' y='56%25' text-anchor='middle' font-size='18' font-family='system-ui' font-weight='900' fill='%230b0d12'>W</text></svg>">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="./">
+        <span class="logo">W</span>
+        Whalers Madness <small>NBA Playoffs 2026</small>
+      </a>
+      <nav class="site-nav">
+        <a href="./" data-page="leaderboard">Leaderboard</a>
+        <a href="teams.html" data-page="teams">Teams</a>
+        <a href="players.html" data-page="players">Players</a>
+        <a href="history.html" data-page="history">History</a>
+      </nav>
+      <span class="updated"><span class="dot"></span><span id="updated-at">Loading…</span></span>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">History</h1>
+    <p class="page-subtitle">Cumulative fantasy points by day. Click an owner in the legend to toggle.</p>
+    <div id="chart" class="chart-wrap"><div class="loading">Loading history</div></div>
+    <div id="legend" class="chart-legend"></div>
+  </main>
+
+  <footer class="site-footer">
+    <span>Data sourced from <a href="https://www.basketball-reference.com/" target="_blank" rel="noopener">basketball-reference.com</a>.</span>
+  </footer>
+
+  <script type="module" src="assets/js/history.js"></script>
+</body>
+</html>

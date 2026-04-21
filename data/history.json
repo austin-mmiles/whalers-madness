@@ -1,0 +1,42 @@
+{
+  "days": [
+    {
+      "date": "2026-04-18",
+      "totals": {
+        "Adam": 24.25,
+        "Austin": 77.75,
+        "Eric": 247.25,
+        "Garrett M": 201.0,
+        "Garrett T": 150.0,
+        "Jameson": 213.0,
+        "John": 180.75,
+        "Josh K": 232.5,
+        "Mitchell": 260.75,
+        "Noah": 69.5,
+        "Ronnie": 127.5,
+        "Sivaji": 147.75,
+        "Taiga": 132.5,
+        "Vincent": 123.25
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "totals": {
+        "Adam": 270.25,
+        "Austin": 258.5,
+        "Eric": 415.5,
+        "Garrett M": 349.5,
+        "Garrett T": 285.75,
+        "Jameson": 349.5,
+        "John": 403.75,
+        "Josh K": 362.25,
+        "Mitchell": 348.5,
+        "Noah": 264.5,
+        "Ronnie": 291.5,
+        "Sivaji": 270.0,
+        "Taiga": 327.5,
+        "Vincent": 293.75
+      }
+    }
+  ]
+}
