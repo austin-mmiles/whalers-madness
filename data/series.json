@@ -58,6 +58,24 @@
     {
       "round": "First Round",
       "teams": [
+        "BOS",
+        "PHI"
+      ],
+      "leader": "BOS",
+      "trailer": "PHI",
+      "wins": [
+        1,
+        1
+      ],
+      "status": "vs",
+      "over": false,
+      "winner": "",
+      "seriesText": "Series tied 1-1",
+      "gamesPlayed": 2
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "HOU",
         "LAL"
       ],
@@ -89,24 +107,6 @@
       "over": false,
       "winner": "",
       "seriesText": "ORL leads 1-0",
-      "gamesPlayed": 1
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "BOS",
-        "PHI"
-      ],
-      "leader": "BOS",
-      "trailer": "PHI",
-      "wins": [
-        1,
-        0
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "BOS leads 1-0",
       "gamesPlayed": 1
     },
     {
