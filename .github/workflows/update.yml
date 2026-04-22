@@ -1,9 +1,8 @@
 name: Update playoff data & deploy
 
 on:
-  # Every 30 minutes during the playoff window. Cron is UTC.
-  schedule:
-    - cron: "*/30 * * * *"
+  # Triggered by cron-job.org every 5 min via workflow_dispatch.
+  # Push trigger handles code/roster/asset changes only.
   workflow_dispatch:
   push:
     branches: [main]
@@ -20,6 +19,8 @@ permissions:
   id-token: write
 
 concurrency:
+  # Allow at most one run at a time. New runs queue rather than cancel
+  # so the live-game loop is never interrupted mid-flight.
   group: pages-deploy
   cancel-in-progress: false
 
@@ -39,23 +40,54 @@ jobs:
           path: data/.cache
           key: boxscore-cache-v1
 
-      - name: Fetch latest playoff data
-        env:
-          WM_SEASON: "2026"
-        run: python scripts/update_stats.py
-
-      - name: Commit updated JSON
+      - name: Configure git
         run: |
-          set -e
           git config user.name "whalers-bot"
           git config user.email "whalers-bot@users.noreply.github.com"
-          git add data/players.json data/leaderboard.json data/history.json data/meta.json data/series.json data/today.json
-          if git diff --cached --quiet; then
-            echo "No data changes."
-          else
-            git commit -m "chore: update playoff data $(date -u +%FT%TZ)"
-            git push
-          fi
+
+      - name: Fetch, commit, deploy — loop while games are live
+        env:
+          WM_SEASON: "2026"
+        run: |
+          set -e
+
+          # ── helpers ────────────────────────────────────────────────────
+          update_data() {
+            python scripts/update_stats.py
+          }
+
+          commit_data() {
+            git add data/players.json data/leaderboard.json data/history.json \
+                    data/meta.json data/series.json data/today.json
+            if git diff --cached --quiet; then
+              echo "No data changes."
+            else
+              git commit -m "chore: update playoff data $(date -u +%FT%TZ)"
+              git push
+            fi
+          }
+
+          # Returns 0 (true) if any game is currently live
+          games_live() {
+            python - <<'EOF'
+          import json, sys
+          games = json.load(open("data/today.json")).get("games", [])
+          sys.exit(0 if any(g["status"] == "live" for g in games) else 1)
+          EOF
+          }
+
+          # ── first pass ─────────────────────────────────────────────────
+          update_data
+          commit_data
+
+          # ── live-game loop (10-min cadence) ────────────────────────────
+          while games_live; do
+            echo "⏳ Live game in progress — sleeping 10 min…"
+            sleep 600
+            git pull --rebase   # pick up any commits from queued/concurrent runs
+            update_data
+            commit_data
+          done
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
