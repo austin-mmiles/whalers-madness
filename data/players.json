@@ -515,6 +515,68 @@
       ]
     },
     {
+      "name": "Tyrese Maxey",
+      "pos": "G",
+      "team": "PHI",
+      "G": 2,
+      "MP": 76,
+      "PTS": 50,
+      "ORB": 1,
+      "DRB": 4,
+      "TRB": 5,
+      "AST": 17,
+      "STL": 2,
+      "BLK": 0,
+      "TOV": 4,
+      "TD": 0,
+      "FP": 94.75,
+      "FPPG": 47.38,
+      "MPPG": 38.0,
+      "active": true,
+      "ownedBy": [
+        "Eric"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 8.52,
+      "FPperDollar": 11.1209,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "PHI",
+          "opp": "BOS",
+          "home": false,
+          "MP": 36.5,
+          "PTS": 21,
+          "ORB": 0,
+          "DRB": 1,
+          "TRB": 1,
+          "AST": 8,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 3,
+          "TD": 0,
+          "FP": 36.75
+        },
+        {
+          "date": "2026-04-21",
+          "team": "PHI",
+          "opp": "BOS",
+          "home": false,
+          "MP": 39.8,
+          "PTS": 29,
+          "ORB": 1,
+          "DRB": 3,
+          "TRB": 4,
+          "AST": 9,
+          "STL": 2,
+          "BLK": 0,
+          "TOV": 1,
+          "TD": 0,
+          "FP": 58.0
+        }
+      ]
+    },
+    {
       "name": "Jalen Brunson",
       "pos": "G",
       "team": "NYK",
@@ -575,68 +637,6 @@
           "TOV": 3,
           "TD": 0,
           "FP": 44.0
-        }
-      ]
-    },
-    {
-      "name": "Tyrese Maxey",
-      "pos": "G",
-      "team": "PHI",
-      "G": 2,
-      "MP": 76,
-      "PTS": 50,
-      "ORB": 1,
-      "DRB": 4,
-      "TRB": 5,
-      "AST": 17,
-      "STL": 2,
-      "BLK": 0,
-      "TOV": 4,
-      "TD": 0,
-      "FP": 94.75,
-      "FPPG": 47.38,
-      "MPPG": 38.0,
-      "active": true,
-      "ownedBy": [
-        "Eric"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 8.52,
-      "FPperDollar": 11.1209,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "PHI",
-          "opp": "BOS",
-          "home": false,
-          "MP": 36.5,
-          "PTS": 21,
-          "ORB": 0,
-          "DRB": 1,
-          "TRB": 1,
-          "AST": 8,
-          "STL": 0,
-          "BLK": 0,
-          "TOV": 3,
-          "TD": 0,
-          "FP": 36.75
-        },
-        {
-          "date": "2026-04-21",
-          "team": "PHI",
-          "opp": "BOS",
-          "home": false,
-          "MP": 39.8,
-          "PTS": 29,
-          "ORB": 1,
-          "DRB": 3,
-          "TRB": 4,
-          "AST": 9,
-          "STL": 2,
-          "BLK": 0,
-          "TOV": 1,
-          "TD": 0,
-          "FP": 58.0
         }
       ]
     },
@@ -2457,6 +2457,68 @@
       ]
     },
     {
+      "name": "Tim Hardaway Jr.",
+      "pos": "G",
+      "team": "DEN",
+      "G": 2,
+      "MP": 52,
+      "PTS": 23,
+      "ORB": 1,
+      "DRB": 5,
+      "TRB": 6,
+      "AST": 1,
+      "STL": 2,
+      "BLK": 1,
+      "TOV": 2,
+      "TD": 0,
+      "FP": 40.5,
+      "FPPG": 20.25,
+      "MPPG": 26.0,
+      "active": true,
+      "ownedBy": [
+        "Jameson"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 7.19,
+      "FPperDollar": 5.6328,
+      "gameLog": [
+        {
+          "date": "2026-04-18",
+          "team": "DEN",
+          "opp": "MIN",
+          "home": true,
+          "MP": 24.2,
+          "PTS": 7,
+          "ORB": 0,
+          "DRB": 3,
+          "TRB": 3,
+          "AST": 1,
+          "STL": 1,
+          "BLK": 1,
+          "TOV": 2,
+          "TD": 0,
+          "FP": 17.25
+        },
+        {
+          "date": "2026-04-20",
+          "team": "DEN",
+          "opp": "MIN",
+          "home": true,
+          "MP": 27.3,
+          "PTS": 16,
+          "ORB": 1,
+          "DRB": 2,
+          "TRB": 3,
+          "AST": 0,
+          "STL": 1,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 23.25
+        }
+      ]
+    },
+    {
       "name": "Desmond Bane",
       "pos": "G",
       "team": "ORL",
@@ -2547,68 +2609,6 @@
           "TOV": 9,
           "TD": 0,
           "FP": 40.5
-        }
-      ]
-    },
-    {
-      "name": "Tim Hardaway Jr.",
-      "pos": "G",
-      "team": "DEN",
-      "G": 2,
-      "MP": 52,
-      "PTS": 23,
-      "ORB": 1,
-      "DRB": 5,
-      "TRB": 6,
-      "AST": 1,
-      "STL": 2,
-      "BLK": 1,
-      "TOV": 2,
-      "TD": 0,
-      "FP": 40.5,
-      "FPPG": 20.25,
-      "MPPG": 26.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 7.19,
-      "FPperDollar": 5.6328,
-      "gameLog": [
-        {
-          "date": "2026-04-18",
-          "team": "DEN",
-          "opp": "MIN",
-          "home": true,
-          "MP": 24.2,
-          "PTS": 7,
-          "ORB": 0,
-          "DRB": 3,
-          "TRB": 3,
-          "AST": 1,
-          "STL": 1,
-          "BLK": 1,
-          "TOV": 2,
-          "TD": 0,
-          "FP": 17.25
-        },
-        {
-          "date": "2026-04-20",
-          "team": "DEN",
-          "opp": "MIN",
-          "home": true,
-          "MP": 27.3,
-          "PTS": 16,
-          "ORB": 1,
-          "DRB": 2,
-          "TRB": 3,
-          "AST": 0,
-          "STL": 1,
-          "BLK": 0,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 23.25
         }
       ]
     },
@@ -2828,6 +2828,52 @@
       ]
     },
     {
+      "name": "Chet Holmgren",
+      "pos": "F",
+      "team": "OKC",
+      "G": 1,
+      "MP": 25,
+      "PTS": 16,
+      "ORB": 2,
+      "DRB": 5,
+      "TRB": 7,
+      "AST": 0,
+      "STL": 2,
+      "BLK": 2,
+      "TOV": 1,
+      "TD": 0,
+      "FP": 36.25,
+      "FPPG": 36.25,
+      "MPPG": 25.0,
+      "active": true,
+      "ownedBy": [
+        "Adam",
+        "Eric"
+      ],
+      "ownership": 0.14285714285714285,
+      "salary": 16.86,
+      "FPperDollar": 2.1501,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "OKC",
+          "opp": "PHO",
+          "home": true,
+          "MP": 24.8,
+          "PTS": 16,
+          "ORB": 2,
+          "DRB": 5,
+          "TRB": 7,
+          "AST": 0,
+          "STL": 2,
+          "BLK": 2,
+          "TOV": 1,
+          "TD": 0,
+          "FP": 36.25
+        }
+      ]
+    },
+    {
       "name": "Mikal Bridges",
       "pos": "F",
       "team": "NYK",
@@ -2887,52 +2933,6 @@
           "TOV": 0,
           "TD": 0,
           "FP": 18.25
-        }
-      ]
-    },
-    {
-      "name": "Chet Holmgren",
-      "pos": "F",
-      "team": "OKC",
-      "G": 1,
-      "MP": 25,
-      "PTS": 16,
-      "ORB": 2,
-      "DRB": 5,
-      "TRB": 7,
-      "AST": 0,
-      "STL": 2,
-      "BLK": 2,
-      "TOV": 1,
-      "TD": 0,
-      "FP": 36.25,
-      "FPPG": 36.25,
-      "MPPG": 25.0,
-      "active": true,
-      "ownedBy": [
-        "Adam",
-        "Eric"
-      ],
-      "ownership": 0.14285714285714285,
-      "salary": 16.86,
-      "FPperDollar": 2.1501,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "OKC",
-          "opp": "PHO",
-          "home": true,
-          "MP": 24.8,
-          "PTS": 16,
-          "ORB": 2,
-          "DRB": 5,
-          "TRB": 7,
-          "AST": 0,
-          "STL": 2,
-          "BLK": 2,
-          "TOV": 1,
-          "TD": 0,
-          "FP": 36.25
         }
       ]
     },
@@ -4179,33 +4179,6 @@
       "gameLog": []
     },
     {
-      "name": "Tyrese Proctor",
-      "pos": "G",
-      "team": "CLE",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.48,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Yang Hansen",
       "pos": "C",
       "team": "POR",
@@ -4278,9 +4251,9 @@
       "gameLog": []
     },
     {
-      "name": "Thomas Bryant",
-      "pos": "C",
-      "team": "CLE",
+      "name": "Jeff Green",
+      "pos": "F",
+      "team": "HOU",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -4297,10 +4270,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Ronnie"
+        "Jameson"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 4.28,
+      "salary": 0.92,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -4332,33 +4305,6 @@
       "gameLog": []
     },
     {
-      "name": "Jeff Green",
-      "pos": "F",
-      "team": "HOU",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.92,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -4382,6 +4328,60 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.69,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Thomas Bryant",
+      "pos": "C",
+      "team": "CLE",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Ronnie"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.28,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Tyrese Proctor",
+      "pos": "G",
+      "team": "CLE",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Sivaji"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 3.48,
       "FPperDollar": 0.0,
       "gameLog": []
     }
