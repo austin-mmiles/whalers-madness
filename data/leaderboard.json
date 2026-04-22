@@ -4,8 +4,8 @@
     {
       "owner": "Mitchell",
       "FP": 741.75,
-      "G": 18,
-      "MP": 617,
+      "G": 19,
+      "MP": 618,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 98.87,
@@ -121,10 +121,10 @@
           "team": "DET",
           "position": "C",
           "salary": 12.17,
-          "G": 1,
-          "MP": 33,
+          "G": 2,
+          "MP": 34,
           "FP": 20.25,
-          "FPPG": 20.25,
+          "FPPG": 10.12,
           "active": true,
           "TD": 0
         },
@@ -149,8 +149,8 @@
     {
       "owner": "Eric",
       "FP": 727.5,
-      "G": 18,
-      "MP": 582,
+      "G": 19,
+      "MP": 583,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.69,
@@ -253,10 +253,10 @@
           "team": "ORL",
           "position": "F",
           "salary": 5.17,
-          "G": 1,
-          "MP": 32,
+          "G": 2,
+          "MP": 33,
           "FP": 37.75,
-          "FPPG": 37.75,
+          "FPPG": 18.88,
           "active": true,
           "TD": 0
         },
@@ -433,14 +433,14 @@
         }
       ],
       "rank": 3,
-      "prevRank": 5,
-      "rankDelta": 2
+      "prevRank": 3,
+      "rankDelta": 0
     },
     {
       "owner": "Josh K",
       "FP": 649.25,
-      "G": 16,
-      "MP": 520,
+      "G": 17,
+      "MP": 521,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.66,
@@ -569,23 +569,23 @@
           "team": "DET",
           "position": "C",
           "salary": 12.17,
-          "G": 1,
-          "MP": 33,
+          "G": 2,
+          "MP": 34,
           "FP": 20.25,
-          "FPPG": 20.25,
+          "FPPG": 10.12,
           "active": true,
           "TD": 0
         }
       ],
       "rank": 4,
-      "prevRank": 3,
-      "rankDelta": -1
+      "prevRank": 4,
+      "rankDelta": 0
     },
     {
       "owner": "John",
-      "FP": 635.5,
-      "G": 15,
-      "MP": 476,
+      "FP": 636.75,
+      "G": 16,
+      "MP": 477,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.63,
@@ -597,10 +597,10 @@
           "team": "DET",
           "position": "G",
           "salary": 16.1,
-          "G": 1,
-          "MP": 40,
-          "FP": 51.75,
-          "FPPG": 51.75,
+          "G": 2,
+          "MP": 41,
+          "FP": 53.0,
+          "FPPG": 26.5,
           "active": true,
           "TD": 0
         },
@@ -723,14 +723,14 @@
         }
       ],
       "rank": 5,
-      "prevRank": 4,
-      "rankDelta": -1
+      "prevRank": 5,
+      "rankDelta": 0
     },
     {
       "owner": "Taiga",
       "FP": 582.75,
-      "G": 17,
-      "MP": 513,
+      "G": 18,
+      "MP": 514,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 98.79,
@@ -833,10 +833,10 @@
           "team": "DET",
           "position": "F",
           "salary": 6.43,
-          "G": 1,
-          "MP": 26,
+          "G": 2,
+          "MP": 27,
           "FP": 16.5,
-          "FPPG": 16.5,
+          "FPPG": 8.25,
           "active": true,
           "TD": 0
         },
@@ -868,8 +868,8 @@
         }
       ],
       "rank": 6,
-      "prevRank": 10,
-      "rankDelta": 4
+      "prevRank": 6,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett T",
@@ -1013,14 +1013,14 @@
         }
       ],
       "rank": 7,
-      "prevRank": 6,
-      "rankDelta": -1
+      "prevRank": 7,
+      "rankDelta": 0
     },
     {
       "owner": "Jameson",
-      "FP": 543.25,
-      "G": 14,
-      "MP": 421,
+      "FP": 547.0,
+      "G": 15,
+      "MP": 422,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.85,
@@ -1084,10 +1084,10 @@
           "team": "DET",
           "position": "F",
           "salary": 8.25,
-          "G": 1,
-          "MP": 36,
-          "FP": 37.5,
-          "FPPG": 37.5,
+          "G": 2,
+          "MP": 37,
+          "FP": 41.25,
+          "FPPG": 20.62,
           "active": true,
           "TD": 0
         },
@@ -1158,8 +1158,8 @@
         }
       ],
       "rank": 8,
-      "prevRank": 7,
-      "rankDelta": -1
+      "prevRank": 8,
+      "rankDelta": 0
     },
     {
       "owner": "Sivaji",
@@ -1303,14 +1303,14 @@
         }
       ],
       "rank": 9,
-      "prevRank": 12,
-      "rankDelta": 3
+      "prevRank": 9,
+      "rankDelta": 0
     },
     {
       "owner": "Vincent",
       "FP": 478.0,
-      "G": 14,
-      "MP": 460,
+      "G": 15,
+      "MP": 461,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.98,
@@ -1400,10 +1400,10 @@
           "team": "ORL",
           "position": "F",
           "salary": 6.41,
-          "G": 1,
-          "MP": 37,
+          "G": 2,
+          "MP": 38,
           "FP": 44.25,
-          "FPPG": 44.25,
+          "FPPG": 22.12,
           "active": true,
           "TD": 0
         },
@@ -1448,13 +1448,13 @@
         }
       ],
       "rank": 10,
-      "prevRank": 8,
-      "rankDelta": -2
+      "prevRank": 10,
+      "rankDelta": 0
     },
     {
       "owner": "Austin",
-      "FP": 459.0,
-      "G": 16,
+      "FP": 460.75,
+      "G": 17,
       "MP": 447,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
@@ -1506,10 +1506,10 @@
           "team": "ORL",
           "position": "G",
           "salary": 5.22,
-          "G": 1,
+          "G": 2,
           "MP": 35,
-          "FP": 40.5,
-          "FPPG": 40.5,
+          "FP": 42.25,
+          "FPPG": 21.12,
           "active": true,
           "TD": 0
         },
@@ -1598,9 +1598,9 @@
     },
     {
       "owner": "Ronnie",
-      "FP": 446.0,
-      "G": 15,
-      "MP": 438,
+      "FP": 449.75,
+      "G": 16,
+      "MP": 439,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 100.0,
@@ -1664,10 +1664,10 @@
           "team": "DET",
           "position": "F",
           "salary": 8.25,
-          "G": 1,
-          "MP": 36,
-          "FP": 37.5,
-          "FPPG": 37.5,
+          "G": 2,
+          "MP": 37,
+          "FP": 41.25,
+          "FPPG": 20.62,
           "active": true,
           "TD": 0
         },
@@ -1738,14 +1738,14 @@
         }
       ],
       "rank": 12,
-      "prevRank": 9,
-      "rankDelta": -3
+      "prevRank": 12,
+      "rankDelta": 0
     },
     {
       "owner": "Noah",
       "FP": 437.75,
-      "G": 15,
-      "MP": 429,
+      "G": 16,
+      "MP": 430,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.96,
@@ -1861,10 +1861,10 @@
           "team": "DET",
           "position": "C",
           "salary": 12.17,
-          "G": 1,
-          "MP": 33,
+          "G": 2,
+          "MP": 34,
           "FP": 20.25,
-          "FPPG": 20.25,
+          "FPPG": 10.12,
           "active": true,
           "TD": 0
         },
@@ -1888,9 +1888,9 @@
     },
     {
       "owner": "Adam",
-      "FP": 395.5,
-      "G": 15,
-      "MP": 403,
+      "FP": 396.75,
+      "G": 17,
+      "MP": 405,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.78,
@@ -1902,10 +1902,10 @@
           "team": "DET",
           "position": "G",
           "salary": 16.1,
-          "G": 1,
-          "MP": 40,
-          "FP": 51.75,
-          "FPPG": 51.75,
+          "G": 2,
+          "MP": 41,
+          "FP": 53.0,
+          "FPPG": 26.5,
           "active": true,
           "TD": 0
         },
@@ -2006,10 +2006,10 @@
           "team": "DET",
           "position": "C",
           "salary": 12.17,
-          "G": 1,
-          "MP": 33,
+          "G": 2,
+          "MP": 34,
           "FP": 20.25,
-          "FPPG": 20.25,
+          "FPPG": 10.12,
           "active": true,
           "TD": 0
         },
