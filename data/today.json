@@ -3,6 +3,20 @@
   "games": [
     {
       "teams": [
+        "HOU",
+        "LAL"
+      ],
+      "scores": [
+        5,
+        4
+      ],
+      "status": "live",
+      "gameId": "0042500172",
+      "clock": "PT09M58.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "POR",
         "SAS"
       ],
@@ -28,17 +42,6 @@
       "gameId": "0042500112",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "HOU",
-        "LAL"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500172",
-      "clock": "",
-      "period": 0
     }
   ]
 }
