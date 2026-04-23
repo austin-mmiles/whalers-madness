@@ -4492,9 +4492,9 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -4511,64 +4511,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Vincent"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Josh K"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 2.01,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Jeff Green",
-      "pos": "F",
-      "team": "HOU",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Jameson"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.92,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -4600,9 +4546,9 @@
       "gameLog": []
     },
     {
-      "name": "Thomas Bryant",
-      "pos": "C",
-      "team": "CLE",
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -4619,10 +4565,37 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Ronnie"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 4.28,
+      "salary": 0.69,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Jeff Green",
+      "pos": "F",
+      "team": "HOU",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Jameson"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.92,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -4672,33 +4645,6 @@
       ]
     },
     {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.31,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Tyrese Proctor",
       "pos": "G",
       "team": "CLE",
@@ -4722,6 +4668,60 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 3.48,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Thomas Bryant",
+      "pos": "C",
+      "team": "CLE",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Ronnie"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.28,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Jaylen Clark",
+      "pos": "G",
+      "team": "MIN",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Josh K"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 2.01,
       "FPperDollar": 0.0,
       "gameLog": []
     }
