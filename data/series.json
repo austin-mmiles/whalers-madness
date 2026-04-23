@@ -112,24 +112,6 @@
     {
       "round": "First Round",
       "teams": [
-        "OKC",
-        "PHO"
-      ],
-      "leader": "OKC",
-      "trailer": "PHO",
-      "wins": [
-        2,
-        0
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "OKC leads 2-0",
-      "gamesPlayed": 2
-    },
-    {
-      "round": "First Round",
-      "teams": [
         "POR",
         "SAS"
       ],
@@ -144,6 +126,24 @@
       "winner": "",
       "seriesText": "Series tied 1-1",
       "gamesPlayed": 2
+    },
+    {
+      "round": "First Round",
+      "teams": [
+        "OKC",
+        "PHO"
+      ],
+      "leader": "OKC",
+      "trailer": "PHO",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "OKC leads 2-0",
+      "gamesPlayed": 1
     }
   ]
 }
