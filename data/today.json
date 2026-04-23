@@ -7,12 +7,12 @@
         "DET"
       ],
       "scores": [
-        80,
-        95
+        83,
+        98
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500102",
-      "clock": "PT01M34.00S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
@@ -20,11 +20,14 @@
         "PHO",
         "OKC"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        4,
+        6
+      ],
+      "status": "live",
       "gameId": "0042500142",
-      "clock": "",
-      "period": 0
+      "clock": "PT10M05.00S",
+      "period": 1
     }
   ]
 }
