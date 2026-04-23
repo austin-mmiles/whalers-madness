@@ -8,12 +8,12 @@
       ],
       "scores": [
         46,
-        46
+        54
       ],
       "status": "live",
       "gameId": "0042500102",
-      "clock": "PT00M00.00S",
-      "period": 2
+      "clock": "PT10M01.00S",
+      "period": 3
     },
     {
       "teams": [
