@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "DET"
       ],
       "scores": [
-        27,
+        30,
         33
       ],
       "status": "live",
       "gameId": "0042500102",
-      "clock": "PT07M26.00S",
+      "clock": "PT06M12.00S",
       "period": 2
     },
     {
