@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "PHO",
-        "OKC"
-      ],
-      "scores": [
-        107,
-        120
-      ],
-      "status": "final",
-      "gameId": "0042500142",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "ORL",
         "DET"
       ],
@@ -26,6 +12,20 @@
       ],
       "status": "final",
       "gameId": "0042500102",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "PHO",
+        "OKC"
+      ],
+      "scores": [
+        107,
+        120
+      ],
+      "status": "final",
+      "gameId": "0042500142",
       "clock": "",
       "period": 4
     }
