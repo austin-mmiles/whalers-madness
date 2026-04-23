@@ -76,6 +76,24 @@
     {
       "round": "First Round",
       "teams": [
+        "DET",
+        "ORL"
+      ],
+      "leader": "DET",
+      "trailer": "ORL",
+      "wins": [
+        1,
+        1
+      ],
+      "status": "vs",
+      "over": false,
+      "winner": "",
+      "seriesText": "Series tied 1-1",
+      "gamesPlayed": 2
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "BOS",
         "PHI"
       ],
@@ -108,24 +126,6 @@
       "winner": "",
       "seriesText": "Series tied 1-1",
       "gamesPlayed": 2
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "DET",
-        "ORL"
-      ],
-      "leader": "ORL",
-      "trailer": "DET",
-      "wins": [
-        0,
-        1
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "ORL leads 1-0",
-      "gamesPlayed": 1
     },
     {
       "round": "First Round",
