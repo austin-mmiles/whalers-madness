@@ -7,27 +7,13 @@
         "MIN"
       ],
       "scores": [
-        32,
-        55
+        39,
+        58
       ],
       "status": "live",
       "gameId": "0042500163",
-      "clock": "PT03M42.00S",
+      "clock": "PT01M03.00S",
       "period": 2
-    },
-    {
-      "teams": [
-        "CLE",
-        "TOR"
-      ],
-      "scores": [
-        104,
-        126
-      ],
-      "status": "final",
-      "gameId": "0042500133",
-      "clock": "PT00M00.00S",
-      "period": 4
     },
     {
       "teams": [
@@ -40,6 +26,20 @@
       ],
       "status": "final",
       "gameId": "0042500123",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "CLE",
+        "TOR"
+      ],
+      "scores": [
+        104,
+        126
+      ],
+      "status": "final",
+      "gameId": "0042500133",
       "clock": "",
       "period": 4
     }
