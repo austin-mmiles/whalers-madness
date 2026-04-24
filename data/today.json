@@ -12,8 +12,8 @@
       ],
       "status": "live",
       "gameId": "0042500123",
-      "clock": "PT00M00.00S",
-      "period": 3
+      "clock": "PT11M20.00S",
+      "period": 4
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "TOR"
       ],
       "scores": [
-        47,
-        49
+        49,
+        51
       ],
       "status": "live",
       "gameId": "0042500133",
-      "clock": "PT03M13.00S",
+      "clock": "PT01M56.00S",
       "period": 2
     },
     {
