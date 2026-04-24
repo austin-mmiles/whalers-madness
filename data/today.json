@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "ATL"
       ],
       "scores": [
-        34,
-        44
+        36,
+        50
       ],
       "status": "live",
       "gameId": "0042500123",
-      "clock": "PT06M58.00S",
+      "clock": "PT04M38.00S",
       "period": 2
     },
     {
