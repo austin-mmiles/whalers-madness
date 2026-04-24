@@ -7,12 +7,12 @@
         "ATL"
       ],
       "scores": [
-        40,
+        47,
         56
       ],
       "status": "live",
       "gameId": "0042500123",
-      "clock": "PT02M45.00S",
+      "clock": "PT01M02.00S",
       "period": 2
     },
     {
@@ -20,11 +20,14 @@
         "CLE",
         "TOR"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        2,
+        0
+      ],
+      "status": "live",
       "gameId": "0042500133",
-      "clock": "",
-      "period": 0
+      "clock": "PT11M30.00S",
+      "period": 1
     },
     {
       "teams": [
