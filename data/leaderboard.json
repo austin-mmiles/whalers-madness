@@ -148,9 +148,9 @@
     },
     {
       "owner": "Eric",
-      "FP": 824.5,
+      "FP": 826.5,
       "G": 23,
-      "MP": 674,
+      "MP": 675,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.69,
@@ -280,9 +280,9 @@
           "position": "C",
           "salary": 4.28,
           "G": 3,
-          "MP": 35,
-          "FP": 36.0,
-          "FPPG": 12.0,
+          "MP": 36,
+          "FP": 38.0,
+          "FPPG": 12.67,
           "active": true,
           "TD": 0
         }
