@@ -7,12 +7,12 @@
         "ATL"
       ],
       "scores": [
-        73,
-        84
+        78,
+        86
       ],
       "status": "live",
       "gameId": "0042500123",
-      "clock": "PT02M20.00S",
+      "clock": "PT00M54.40S",
       "period": 3
     },
     {
@@ -21,12 +21,12 @@
         "TOR"
       ],
       "scores": [
-        36,
-        38
+        38,
+        42
       ],
       "status": "live",
       "gameId": "0042500133",
-      "clock": "PT07M41.00S",
+      "clock": "PT05M23.00S",
       "period": 2
     },
     {
