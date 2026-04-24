@@ -43,17 +43,17 @@
         "DEN",
         "MIN"
       ],
-      "leader": "DEN",
-      "trailer": "MIN",
+      "leader": "MIN",
+      "trailer": "DEN",
       "wins": [
         1,
-        1
+        2
       ],
-      "status": "vs",
+      "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "Series tied 1-1",
-      "gamesPlayed": 2
+      "seriesText": "MIN leads 2-1",
+      "gamesPlayed": 3
     },
     {
       "round": "First Round",
