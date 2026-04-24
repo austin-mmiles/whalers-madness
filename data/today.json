@@ -7,13 +7,13 @@
         "MIN"
       ],
       "scores": [
-        11,
-        25
+        15,
+        31
       ],
       "status": "live",
       "gameId": "0042500163",
-      "clock": "PT00M00.00S",
-      "period": 1
+      "clock": "PT10M02.00S",
+      "period": 2
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "TOR"
       ],
       "scores": [
-        97,
-        108
+        99,
+        113
       ],
       "status": "live",
       "gameId": "0042500133",
-      "clock": "PT05M39.00S",
+      "clock": "PT04M04.00S",
       "period": 4
     },
     {
