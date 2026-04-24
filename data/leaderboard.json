@@ -143,14 +143,14 @@
         }
       ],
       "rank": 1,
-      "prevRank": 2,
-      "rankDelta": 1
+      "prevRank": 1,
+      "rankDelta": 0
     },
     {
       "owner": "Eric",
       "FP": 924.0,
-      "G": 24,
-      "MP": 766,
+      "G": 25,
+      "MP": 767,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.69,
@@ -188,10 +188,10 @@
           "team": "PHI",
           "position": "G",
           "salary": 8.52,
-          "G": 2,
-          "MP": 76,
+          "G": 3,
+          "MP": 77,
           "FP": 94.75,
-          "FPPG": 47.38,
+          "FPPG": 31.58,
           "active": true,
           "TD": 0
         },
@@ -288,14 +288,14 @@
         }
       ],
       "rank": 2,
-      "prevRank": 1,
-      "rankDelta": -1
+      "prevRank": 2,
+      "rankDelta": 0
     },
     {
       "owner": "Josh K",
       "FP": 885.25,
-      "G": 22,
-      "MP": 684,
+      "G": 23,
+      "MP": 685,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.66,
@@ -359,10 +359,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18,
-          "G": 2,
-          "MP": 71,
+          "G": 3,
+          "MP": 72,
           "FP": 115.75,
-          "FPPG": 57.88,
+          "FPPG": 38.58,
           "active": true,
           "TD": 0
         },
@@ -433,14 +433,14 @@
         }
       ],
       "rank": 3,
-      "prevRank": 6,
-      "rankDelta": 3
+      "prevRank": 3,
+      "rankDelta": 0
     },
     {
       "owner": "John",
       "FP": 865.0,
-      "G": 21,
-      "MP": 642,
+      "G": 22,
+      "MP": 643,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.63,
@@ -504,10 +504,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18,
-          "G": 2,
-          "MP": 71,
+          "G": 3,
+          "MP": 72,
           "FP": 115.75,
-          "FPPG": 57.88,
+          "FPPG": 38.58,
           "active": true,
           "TD": 0
         },
@@ -578,14 +578,14 @@
         }
       ],
       "rank": 4,
-      "prevRank": 3,
-      "rankDelta": -1
+      "prevRank": 4,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett M",
-      "FP": 787.75,
-      "G": 21,
-      "MP": 684,
+      "FP": 789.0,
+      "G": 23,
+      "MP": 686,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.76,
@@ -597,10 +597,10 @@
           "team": "BOS",
           "position": "G",
           "salary": 14.45,
-          "G": 2,
-          "MP": 72,
+          "G": 3,
+          "MP": 73,
           "FP": 48.75,
-          "FPPG": 24.38,
+          "FPPG": 16.25,
           "active": true,
           "TD": 0
         },
@@ -675,10 +675,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 7.16,
-          "G": 2,
-          "MP": 54,
-          "FP": 44.75,
-          "FPPG": 22.38,
+          "G": 3,
+          "MP": 55,
+          "FP": 46.0,
+          "FPPG": 15.33,
           "active": true,
           "TD": 0
         },
@@ -723,14 +723,14 @@
         }
       ],
       "rank": 5,
-      "prevRank": 4,
-      "rankDelta": -1
+      "prevRank": 5,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett T",
-      "FP": 744.0,
-      "G": 25,
-      "MP": 643,
+      "FP": 746.0,
+      "G": 26,
+      "MP": 644,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.75,
@@ -794,10 +794,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18.6,
-          "G": 2,
-          "MP": 68,
-          "FP": 100.75,
-          "FPPG": 50.38,
+          "G": 3,
+          "MP": 69,
+          "FP": 102.75,
+          "FPPG": 34.25,
           "active": true,
           "TD": 0
         },
@@ -868,8 +868,8 @@
         }
       ],
       "rank": 6,
-      "prevRank": 10,
-      "rankDelta": 4
+      "prevRank": 6,
+      "rankDelta": 0
     },
     {
       "owner": "Jameson",
@@ -1019,8 +1019,8 @@
     {
       "owner": "Taiga",
       "FP": 720.75,
-      "G": 21,
-      "MP": 644,
+      "G": 23,
+      "MP": 646,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 98.79,
@@ -1084,10 +1084,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18,
-          "G": 2,
-          "MP": 71,
+          "G": 3,
+          "MP": 72,
           "FP": 115.75,
-          "FPPG": 57.88,
+          "FPPG": 38.58,
           "active": true,
           "TD": 0
         },
@@ -1136,10 +1136,10 @@
           "team": "BOS",
           "position": "C",
           "salary": 11.33,
-          "G": 2,
-          "MP": 43,
+          "G": 3,
+          "MP": 44,
           "FP": 35.5,
-          "FPPG": 17.75,
+          "FPPG": 11.83,
           "active": true,
           "TD": 0
         },
@@ -1158,14 +1158,14 @@
         }
       ],
       "rank": 8,
-      "prevRank": 5,
-      "rankDelta": -3
+      "prevRank": 8,
+      "rankDelta": 0
     },
     {
       "owner": "Ronnie",
-      "FP": 675.75,
-      "G": 23,
-      "MP": 616,
+      "FP": 677.0,
+      "G": 24,
+      "MP": 617,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 100.0,
@@ -1242,10 +1242,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 7.16,
-          "G": 2,
-          "MP": 54,
-          "FP": 44.75,
-          "FPPG": 22.38,
+          "G": 3,
+          "MP": 55,
+          "FP": 46.0,
+          "FPPG": 15.33,
           "active": true,
           "TD": 0
         },
@@ -1303,14 +1303,14 @@
         }
       ],
       "rank": 9,
-      "prevRank": 8,
-      "rankDelta": -1
+      "prevRank": 9,
+      "rankDelta": 0
     },
     {
       "owner": "Vincent",
       "FP": 675.0,
-      "G": 20,
-      "MP": 634,
+      "G": 21,
+      "MP": 635,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.98,
@@ -1322,10 +1322,10 @@
           "team": "BOS",
           "position": "G",
           "salary": 14.45,
-          "G": 2,
-          "MP": 72,
+          "G": 3,
+          "MP": 73,
           "FP": 48.75,
-          "FPPG": 24.38,
+          "FPPG": 16.25,
           "active": true,
           "TD": 0
         },
@@ -1448,14 +1448,14 @@
         }
       ],
       "rank": 10,
-      "prevRank": 9,
-      "rankDelta": -1
+      "prevRank": 10,
+      "rankDelta": 0
     },
     {
       "owner": "Noah",
       "FP": 607.5,
-      "G": 21,
-      "MP": 590,
+      "G": 22,
+      "MP": 591,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.96,
@@ -1519,10 +1519,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18,
-          "G": 2,
-          "MP": 71,
+          "G": 3,
+          "MP": 72,
           "FP": 115.75,
-          "FPPG": 57.88,
+          "FPPG": 38.58,
           "active": true,
           "TD": 0
         },
@@ -1593,8 +1593,8 @@
         }
       ],
       "rank": 11,
-      "prevRank": 13,
-      "rankDelta": 2
+      "prevRank": 11,
+      "rankDelta": 0
     },
     {
       "owner": "Sivaji",
@@ -1743,9 +1743,9 @@
     },
     {
       "owner": "Adam",
-      "FP": 590.75,
-      "G": 21,
-      "MP": 579,
+      "FP": 592.0,
+      "G": 22,
+      "MP": 580,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.78,
@@ -1835,10 +1835,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 7.16,
-          "G": 2,
-          "MP": 54,
-          "FP": 44.75,
-          "FPPG": 22.38,
+          "G": 3,
+          "MP": 55,
+          "FP": 46.0,
+          "FPPG": 15.33,
           "active": true,
           "TD": 0
         },
@@ -1883,14 +1883,14 @@
         }
       ],
       "rank": 13,
-      "prevRank": 11,
-      "rankDelta": -2
+      "prevRank": 13,
+      "rankDelta": 0
     },
     {
       "owner": "Austin",
-      "FP": 537.5,
-      "G": 21,
-      "MP": 553,
+      "FP": 538.75,
+      "G": 22,
+      "MP": 554,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.39,
@@ -1993,10 +1993,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 7.16,
-          "G": 2,
-          "MP": 54,
-          "FP": 44.75,
-          "FPPG": 22.38,
+          "G": 3,
+          "MP": 55,
+          "FP": 46.0,
+          "FPPG": 15.33,
           "active": true,
           "TD": 0
         },

@@ -6,11 +6,14 @@
         "BOS",
         "PHI"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        2,
+        0
+      ],
+      "status": "live",
       "gameId": "0042500113",
-      "clock": "",
-      "period": 0
+      "clock": "PT10M51.00S",
+      "period": 1
     },
     {
       "teams": [
