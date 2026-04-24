@@ -10,10 +10,24 @@
         108,
         109
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500123",
-      "clock": "PT00M12.50S",
+      "clock": "PT00M00.00S",
       "period": 4
+    },
+    {
+      "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "scores": [
+        0,
+        2
+      ],
+      "status": "live",
+      "gameId": "0042500163",
+      "clock": "PT10M30.00S",
+      "period": 1
     },
     {
       "teams": [
@@ -21,24 +35,13 @@
         "TOR"
       ],
       "scores": [
-        66,
-        69
+        76,
+        77
       ],
       "status": "live",
       "gameId": "0042500133",
-      "clock": "PT05M42.00S",
+      "clock": "PT02M41.00S",
       "period": 3
-    },
-    {
-      "teams": [
-        "DEN",
-        "MIN"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500163",
-      "clock": "",
-      "period": 0
     }
   ]
 }
