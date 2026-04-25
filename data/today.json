@@ -7,13 +7,13 @@
         "PHI"
       ],
       "scores": [
-        54,
-        47
+        60,
+        55
       ],
       "status": "live",
       "gameId": "0042500113",
-      "clock": "PT00M00.00S",
-      "period": 2
+      "clock": "PT09M47.00S",
+      "period": 3
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "HOU"
       ],
       "scores": [
-        32,
-        23
+        34,
+        25
       ],
       "status": "live",
       "gameId": "0042500173",
-      "clock": "PT02M31.00S",
+      "clock": "PT02M12.00S",
       "period": 1
     },
     {
