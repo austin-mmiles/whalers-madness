@@ -7,13 +7,27 @@
         "HOU"
       ],
       "scores": [
-        105,
-        101
+        107,
+        105
       ],
       "status": "live",
       "gameId": "0042500173",
-      "clock": "PT03M42.00S",
+      "clock": "PT01M14.00S",
       "period": 5
+    },
+    {
+      "teams": [
+        "SAS",
+        "POR"
+      ],
+      "scores": [
+        0,
+        3
+      ],
+      "status": "live",
+      "gameId": "0042500153",
+      "clock": "PT11M09.00S",
+      "period": 1
     },
     {
       "teams": [
@@ -28,17 +42,6 @@
       "gameId": "0042500113",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "SAS",
-        "POR"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500153",
-      "clock": "",
-      "period": 0
     }
   ]
 }
