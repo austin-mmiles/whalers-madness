@@ -10,9 +10,9 @@
         112,
         108
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500173",
-      "clock": "PT00M07.40S",
+      "clock": "PT00M00.00S",
       "period": 5
     },
     {
@@ -21,12 +21,12 @@
         "POR"
       ],
       "scores": [
-        13,
-        15
+        15,
+        16
       ],
       "status": "live",
       "gameId": "0042500153",
-      "clock": "PT05M22.00S",
+      "clock": "PT04M07.00S",
       "period": 1
     },
     {
