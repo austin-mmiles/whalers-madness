@@ -12,7 +12,7 @@
       ],
       "status": "live",
       "gameId": "0042500113",
-      "clock": "PT03M48.00S",
+      "clock": "PT03M39.00S",
       "period": 2
     },
     {
@@ -20,11 +20,14 @@
         "LAL",
         "HOU"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        3,
+        3
+      ],
+      "status": "live",
       "gameId": "0042500173",
-      "clock": "",
-      "period": 0
+      "clock": "PT11M21.00S",
+      "period": 1
     },
     {
       "teams": [
