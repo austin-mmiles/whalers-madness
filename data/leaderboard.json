@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Mitchell",
-      "FP": 1135.25,
+      "FP": 1137.25,
       "G": 28,
       "MP": 948,
       "playersLeft": 10,
@@ -123,8 +123,8 @@
           "salary": 12.17,
           "G": 3,
           "MP": 80,
-          "FP": 72.0,
-          "FPPG": 24.0,
+          "FP": 74.0,
+          "FPPG": 24.67,
           "active": true,
           "TD": 0
         },
@@ -438,7 +438,7 @@
     },
     {
       "owner": "Josh K",
-      "FP": 1015.75,
+      "FP": 1017.75,
       "G": 25,
       "MP": 788,
       "playersLeft": 10,
@@ -571,8 +571,8 @@
           "salary": 12.17,
           "G": 3,
           "MP": 80,
-          "FP": 72.0,
-          "FPPG": 24.0,
+          "FP": 74.0,
+          "FPPG": 24.67,
           "active": true,
           "TD": 0
         }
@@ -728,9 +728,9 @@
     },
     {
       "owner": "Taiga",
-      "FP": 947.5,
+      "FP": 951.5,
       "G": 27,
-      "MP": 818,
+      "MP": 819,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 98.79,
@@ -834,9 +834,9 @@
           "position": "F",
           "salary": 6.43,
           "G": 3,
-          "MP": 71,
-          "FP": 56.5,
-          "FPPG": 18.83,
+          "MP": 72,
+          "FP": 60.5,
+          "FPPG": 20.17,
           "active": true,
           "TD": 0
         },
@@ -1598,7 +1598,7 @@
     },
     {
       "owner": "Noah",
-      "FP": 727.75,
+      "FP": 729.75,
       "G": 25,
       "MP": 688,
       "playersLeft": 10,
@@ -1718,8 +1718,8 @@
           "salary": 12.17,
           "G": 3,
           "MP": 80,
-          "FP": 72.0,
-          "FPPG": 24.0,
+          "FP": 74.0,
+          "FPPG": 24.67,
           "active": true,
           "TD": 0
         },
@@ -1743,7 +1743,7 @@
     },
     {
       "owner": "Adam",
-      "FP": 712.0,
+      "FP": 714.0,
       "G": 27,
       "MP": 713,
       "playersLeft": 10,
@@ -1863,8 +1863,8 @@
           "salary": 12.17,
           "G": 3,
           "MP": 80,
-          "FP": 72.0,
-          "FPPG": 24.0,
+          "FP": 74.0,
+          "FPPG": 24.67,
           "active": true,
           "TD": 0
         },
