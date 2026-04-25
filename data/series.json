@@ -58,6 +58,24 @@
     {
       "round": "First Round",
       "teams": [
+        "HOU",
+        "LAL"
+      ],
+      "leader": "LAL",
+      "trailer": "HOU",
+      "wins": [
+        0,
+        3
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "LAL leads 3-0",
+      "gamesPlayed": 3
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "BOS",
         "PHI"
       ],
@@ -72,24 +90,6 @@
       "winner": "",
       "seriesText": "BOS leads 2-1",
       "gamesPlayed": 3
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "HOU",
-        "LAL"
-      ],
-      "leader": "LAL",
-      "trailer": "HOU",
-      "wins": [
-        0,
-        2
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "LAL leads 2-0",
-      "gamesPlayed": 2
     },
     {
       "round": "First Round",
