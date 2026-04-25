@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Mitchell",
-      "FP": 1092.75,
+      "FP": 1094.0,
       "G": 27,
       "MP": 900,
       "playersLeft": 10,
@@ -97,8 +97,8 @@
           "salary": 5.37,
           "G": 3,
           "MP": 87,
-          "FP": 106.5,
-          "FPPG": 35.5,
+          "FP": 107.75,
+          "FPPG": 35.92,
           "active": true,
           "TD": 0
         },
@@ -148,7 +148,7 @@
     },
     {
       "owner": "Eric",
-      "FP": 1081.0,
+      "FP": 1082.25,
       "G": 27,
       "MP": 874,
       "playersLeft": 10,
@@ -242,8 +242,8 @@
           "salary": 5.37,
           "G": 3,
           "MP": 87,
-          "FP": 106.5,
-          "FPPG": 35.5,
+          "FP": 107.75,
+          "FPPG": 35.92,
           "active": true,
           "TD": 0
         },
@@ -293,7 +293,7 @@
     },
     {
       "owner": "John",
-      "FP": 1001.0,
+      "FP": 1002.25,
       "G": 24,
       "MP": 748,
       "playersLeft": 10,
@@ -400,8 +400,8 @@
           "salary": 5.37,
           "G": 3,
           "MP": 87,
-          "FP": 106.5,
-          "FPPG": 35.5,
+          "FP": 107.75,
+          "FPPG": 35.92,
           "active": true,
           "TD": 0
         },
@@ -583,7 +583,7 @@
     },
     {
       "owner": "Garrett M",
-      "FP": 947.75,
+      "FP": 946.0,
       "G": 26,
       "MP": 816,
       "playersLeft": 10,
@@ -716,8 +716,8 @@
           "salary": 8.77,
           "G": 3,
           "MP": 58,
-          "FP": 85.0,
-          "FPPG": 28.33,
+          "FP": 83.25,
+          "FPPG": 27.75,
           "active": true,
           "TD": 0
         }
