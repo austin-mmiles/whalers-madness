@@ -3,17 +3,17 @@
   "games": [
     {
       "teams": [
-        "OKC",
-        "PHO"
+        "NYK",
+        "ATL"
       ],
       "scores": [
-        121,
-        109
+        4,
+        2
       ],
-      "status": "final",
-      "gameId": "0042500143",
-      "clock": "PT00M00.00S",
-      "period": 4
+      "status": "live",
+      "gameId": "0042500124",
+      "clock": "PT10M39.00S",
+      "period": 1
     },
     {
       "teams": [
@@ -31,14 +31,17 @@
     },
     {
       "teams": [
-        "NYK",
-        "ATL"
+        "OKC",
+        "PHO"
       ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500124",
+      "scores": [
+        121,
+        109
+      ],
+      "status": "final",
+      "gameId": "0042500143",
       "clock": "",
-      "period": 0
+      "period": 4
     },
     {
       "teams": [
