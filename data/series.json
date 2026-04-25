@@ -94,6 +94,24 @@
     {
       "round": "First Round",
       "teams": [
+        "POR",
+        "SAS"
+      ],
+      "leader": "SAS",
+      "trailer": "POR",
+      "wins": [
+        1,
+        2
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "SAS leads 2-1",
+      "gamesPlayed": 3
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "DET",
         "ORL"
       ],
@@ -125,24 +143,6 @@
       "over": false,
       "winner": "",
       "seriesText": "OKC leads 2-0",
-      "gamesPlayed": 2
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "POR",
-        "SAS"
-      ],
-      "leader": "POR",
-      "trailer": "SAS",
-      "wins": [
-        1,
-        1
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 1-1",
       "gamesPlayed": 2
     }
   ]
