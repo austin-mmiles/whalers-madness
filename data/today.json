@@ -3,28 +3,31 @@
   "games": [
     {
       "teams": [
+        "OKC",
+        "PHO"
+      ],
+      "scores": [
+        5,
+        2
+      ],
+      "status": "live",
+      "gameId": "0042500143",
+      "clock": "PT10M34.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "DET",
         "ORL"
       ],
       "scores": [
-        104,
-        104
+        105,
+        109
       ],
       "status": "live",
       "gameId": "0042500103",
-      "clock": "PT03M14.00S",
+      "clock": "PT01M46.00S",
       "period": 4
-    },
-    {
-      "teams": [
-        "OKC",
-        "PHO"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500143",
-      "clock": "",
-      "period": 0
     },
     {
       "teams": [
