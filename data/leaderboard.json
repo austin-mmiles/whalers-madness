@@ -294,8 +294,8 @@
     {
       "owner": "John",
       "FP": 1269.25,
-      "G": 32,
-      "MP": 978,
+      "G": 33,
+      "MP": 979,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.63,
@@ -424,10 +424,10 @@
           "team": "POR",
           "position": "C",
           "salary": 0.65,
-          "G": 2,
-          "MP": 2,
+          "G": 3,
+          "MP": 3,
           "FP": 1.25,
-          "FPPG": 0.62,
+          "FPPG": 0.42,
           "active": true,
           "TD": 0
         }
@@ -438,7 +438,7 @@
     },
     {
       "owner": "Josh K",
-      "FP": 1249.25,
+      "FP": 1249.75,
       "G": 31,
       "MP": 970,
       "playersLeft": 10,
@@ -558,8 +558,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         },
@@ -583,7 +583,7 @@
     },
     {
       "owner": "Jameson",
-      "FP": 1150.0,
+      "FP": 1150.5,
       "G": 30,
       "MP": 900,
       "playersLeft": 10,
@@ -716,8 +716,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         }
@@ -1018,7 +1018,7 @@
     },
     {
       "owner": "Garrett T",
-      "FP": 1068.5,
+      "FP": 1069.0,
       "G": 36,
       "MP": 948,
       "playersLeft": 10,
@@ -1138,8 +1138,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         },
@@ -1163,7 +1163,7 @@
     },
     {
       "owner": "Vincent",
-      "FP": 1014.75,
+      "FP": 1015.25,
       "G": 28,
       "MP": 872,
       "playersLeft": 10,
@@ -1283,8 +1283,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         },
@@ -1308,7 +1308,7 @@
     },
     {
       "owner": "Sivaji",
-      "FP": 913.75,
+      "FP": 914.25,
       "G": 26,
       "MP": 760,
       "playersLeft": 10,
@@ -1428,8 +1428,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         },
@@ -1888,7 +1888,7 @@
     },
     {
       "owner": "Austin",
-      "FP": 794.5,
+      "FP": 795.0,
       "G": 31,
       "MP": 816,
       "playersLeft": 10,
@@ -2008,8 +2008,8 @@
           "salary": 21.33,
           "G": 3,
           "MP": 79,
-          "FP": 135.0,
-          "FPPG": 45.0,
+          "FP": 135.5,
+          "FPPG": 45.17,
           "active": true,
           "TD": 0
         },
