@@ -3,9 +3,9 @@
   "leaderboard": [
     {
       "owner": "Eric",
-      "FP": 1269.75,
-      "G": 32,
-      "MP": 1051,
+      "FP": 1275.25,
+      "G": 34,
+      "MP": 1053,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.69,
@@ -30,10 +30,10 @@
           "team": "CLE",
           "position": "G",
           "salary": 15.23,
-          "G": 3,
-          "MP": 101,
-          "FP": 127.25,
-          "FPPG": 42.42,
+          "G": 4,
+          "MP": 102,
+          "FP": 128.5,
+          "FPPG": 32.12,
           "active": true,
           "TD": 0
         },
@@ -134,23 +134,23 @@
           "team": "TOR",
           "position": "C",
           "salary": 4.28,
-          "G": 3,
-          "MP": 49,
-          "FP": 55.0,
-          "FPPG": 18.33,
+          "G": 4,
+          "MP": 50,
+          "FP": 59.25,
+          "FPPG": 14.81,
           "active": true,
           "TD": 0
         }
       ],
       "rank": 1,
-      "prevRank": 2,
-      "rankDelta": 1
+      "prevRank": 1,
+      "rankDelta": 0
     },
     {
       "owner": "Mitchell",
-      "FP": 1255.0,
-      "G": 31,
-      "MP": 1068,
+      "FP": 1260.0,
+      "G": 33,
+      "MP": 1070,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 98.87,
@@ -175,10 +175,10 @@
           "team": "CLE",
           "position": "G",
           "salary": 15.23,
-          "G": 3,
-          "MP": 101,
-          "FP": 127.25,
-          "FPPG": 42.42,
+          "G": 4,
+          "MP": 102,
+          "FP": 128.5,
+          "FPPG": 32.12,
           "active": true,
           "TD": 0
         },
@@ -227,10 +227,10 @@
           "team": "TOR",
           "position": "F",
           "salary": 7.03,
-          "G": 3,
-          "MP": 107,
-          "FP": 148.5,
-          "FPPG": 49.5,
+          "G": 4,
+          "MP": 108,
+          "FP": 152.25,
+          "FPPG": 38.06,
           "active": true,
           "TD": 0
         },
@@ -288,8 +288,8 @@
         }
       ],
       "rank": 2,
-      "prevRank": 1,
-      "rankDelta": -1
+      "prevRank": 2,
+      "rankDelta": 0
     },
     {
       "owner": "John",
@@ -438,9 +438,9 @@
     },
     {
       "owner": "Josh K",
-      "FP": 1118.25,
-      "G": 29,
-      "MP": 893,
+      "FP": 1122.0,
+      "G": 30,
+      "MP": 894,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.66,
@@ -543,10 +543,10 @@
           "team": "TOR",
           "position": "F",
           "salary": 7.03,
-          "G": 3,
-          "MP": 107,
-          "FP": 148.5,
-          "FPPG": 49.5,
+          "G": 4,
+          "MP": 108,
+          "FP": 152.25,
+          "FPPG": 38.06,
           "active": true,
           "TD": 0
         },
@@ -723,8 +723,8 @@
         }
       ],
       "rank": 5,
-      "prevRank": 6,
-      "rankDelta": 1
+      "prevRank": 5,
+      "rankDelta": 0
     },
     {
       "owner": "Jameson",
@@ -868,8 +868,8 @@
         }
       ],
       "rank": 6,
-      "prevRank": 8,
-      "rankDelta": 2
+      "prevRank": 6,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett M",
@@ -1013,8 +1013,8 @@
         }
       ],
       "rank": 7,
-      "prevRank": 5,
-      "rankDelta": -2
+      "prevRank": 7,
+      "rankDelta": 0
     },
     {
       "owner": "Vincent",
@@ -1158,14 +1158,14 @@
         }
       ],
       "rank": 8,
-      "prevRank": 12,
-      "rankDelta": 4
+      "prevRank": 8,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett T",
-      "FP": 907.0,
-      "G": 32,
-      "MP": 833,
+      "FP": 910.75,
+      "G": 33,
+      "MP": 834,
       "playersLeft": 10,
       "salaryLeftPct": 1.0,
       "salaryLeft": 99.75,
@@ -1255,10 +1255,10 @@
           "team": "TOR",
           "position": "F",
           "salary": 7.03,
-          "G": 3,
-          "MP": 107,
-          "FP": 148.5,
-          "FPPG": 49.5,
+          "G": 4,
+          "MP": 108,
+          "FP": 152.25,
+          "FPPG": 38.06,
           "active": true,
           "TD": 0
         },
@@ -1303,8 +1303,8 @@
         }
       ],
       "rank": 9,
-      "prevRank": 7,
-      "rankDelta": -2
+      "prevRank": 9,
+      "rankDelta": 0
     },
     {
       "owner": "Ronnie",
@@ -1593,8 +1593,8 @@
         }
       ],
       "rank": 11,
-      "prevRank": 13,
-      "rankDelta": 2
+      "prevRank": 11,
+      "rankDelta": 0
     },
     {
       "owner": "Noah",
@@ -1738,8 +1738,8 @@
         }
       ],
       "rank": 12,
-      "prevRank": 11,
-      "rankDelta": -1
+      "prevRank": 12,
+      "rankDelta": 0
     },
     {
       "owner": "Sivaji",
@@ -1883,8 +1883,8 @@
         }
       ],
       "rank": 13,
-      "prevRank": 9,
-      "rankDelta": -4
+      "prevRank": 13,
+      "rankDelta": 0
     },
     {
       "owner": "Austin",
