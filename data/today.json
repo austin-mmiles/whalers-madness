@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "SAS",
-        "POR"
-      ],
-      "scores": [
-        114,
-        93
-      ],
-      "status": "final",
-      "gameId": "0042500154",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "CLE",
         "TOR"
       ],
@@ -26,6 +12,20 @@
       ],
       "status": "final",
       "gameId": "0042500134",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "SAS",
+        "POR"
+      ],
+      "scores": [
+        114,
+        93
+      ],
+      "status": "final",
+      "gameId": "0042500154",
       "clock": "",
       "period": 4
     },
