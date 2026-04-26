@@ -3,16 +3,30 @@
   "games": [
     {
       "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "scores": [
+        0,
+        5
+      ],
+      "status": "live",
+      "gameId": "0042500164",
+      "clock": "PT10M41.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "NYK",
         "ATL"
       ],
       "scores": [
-        109,
-        87
+        112,
+        94
       ],
       "status": "live",
       "gameId": "0042500124",
-      "clock": "PT03M35.00S",
+      "clock": "PT00M45.90S",
       "period": 4
     },
     {
@@ -42,17 +56,6 @@
       "gameId": "0042500143",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "DEN",
-        "MIN"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500164",
-      "clock": "",
-      "period": 0
     }
   ]
 }
