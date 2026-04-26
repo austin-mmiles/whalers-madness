@@ -3,28 +3,31 @@
   "games": [
     {
       "teams": [
+        "SAS",
+        "POR"
+      ],
+      "scores": [
+        0,
+        0
+      ],
+      "status": "live",
+      "gameId": "0042500154",
+      "clock": "PT11M52.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "CLE",
         "TOR"
       ],
       "scores": [
         87,
-        88
+        90
       ],
       "status": "live",
       "gameId": "0042500134",
-      "clock": "PT00M34.60S",
+      "clock": "PT00M08.60S",
       "period": 4
-    },
-    {
-      "teams": [
-        "SAS",
-        "POR"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500154",
-      "clock": "",
-      "period": 0
     },
     {
       "teams": [
