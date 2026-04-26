@@ -7,27 +7,13 @@
         "MIN"
       ],
       "scores": [
-        8,
-        8
+        15,
+        15
       ],
       "status": "live",
       "gameId": "0042500164",
-      "clock": "PT06M46.00S",
+      "clock": "PT03M49.00S",
       "period": 1
-    },
-    {
-      "teams": [
-        "NYK",
-        "ATL"
-      ],
-      "scores": [
-        114,
-        98
-      ],
-      "status": "final",
-      "gameId": "0042500124",
-      "clock": "PT00M00.00S",
-      "period": 4
     },
     {
       "teams": [
@@ -54,6 +40,20 @@
       ],
       "status": "final",
       "gameId": "0042500143",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "NYK",
+        "ATL"
+      ],
+      "scores": [
+        114,
+        98
+      ],
+      "status": "final",
+      "gameId": "0042500124",
       "clock": "",
       "period": 4
     }
