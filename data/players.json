@@ -5529,85 +5529,6 @@
       ]
     },
     {
-      "name": "Jarred Vanderbilt",
-      "pos": "F",
-      "team": "LAL",
-      "G": 3,
-      "MP": 47,
-      "PTS": 8,
-      "ORB": 2,
-      "DRB": 14,
-      "TRB": 16,
-      "AST": 2,
-      "STL": 1,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 36.0,
-      "FPPG": 12.0,
-      "MPPG": 15.7,
-      "active": true,
-      "ownedBy": [
-        "Adam"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 2.39,
-      "FPperDollar": 15.0628,
-      "gameLog": [
-        {
-          "date": "2026-04-18",
-          "team": "LAL",
-          "opp": "HOU",
-          "home": true,
-          "MP": 18.5,
-          "PTS": 3,
-          "ORB": 0,
-          "DRB": 5,
-          "TRB": 5,
-          "AST": 0,
-          "STL": 0,
-          "BLK": 0,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 9.25
-        },
-        {
-          "date": "2026-04-21",
-          "team": "LAL",
-          "opp": "HOU",
-          "home": true,
-          "MP": 13.7,
-          "PTS": 0,
-          "ORB": 1,
-          "DRB": 4,
-          "TRB": 5,
-          "AST": 1,
-          "STL": 1,
-          "BLK": 0,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 11.75
-        },
-        {
-          "date": "2026-04-24",
-          "team": "LAL",
-          "opp": "HOU",
-          "home": false,
-          "MP": 14.6,
-          "PTS": 5,
-          "ORB": 1,
-          "DRB": 5,
-          "TRB": 6,
-          "AST": 1,
-          "STL": 0,
-          "BLK": 0,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 15.0
-        }
-      ]
-    },
-    {
       "name": "Daniss Jenkins",
       "pos": "G",
       "team": "DET",
@@ -5683,6 +5604,85 @@
           "TOV": 0,
           "TD": 0,
           "FP": 7.5
+        }
+      ]
+    },
+    {
+      "name": "Jarred Vanderbilt",
+      "pos": "F",
+      "team": "LAL",
+      "G": 3,
+      "MP": 47,
+      "PTS": 8,
+      "ORB": 2,
+      "DRB": 14,
+      "TRB": 16,
+      "AST": 2,
+      "STL": 1,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 36.0,
+      "FPPG": 12.0,
+      "MPPG": 15.7,
+      "active": true,
+      "ownedBy": [
+        "Adam"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 2.39,
+      "FPperDollar": 15.0628,
+      "gameLog": [
+        {
+          "date": "2026-04-18",
+          "team": "LAL",
+          "opp": "HOU",
+          "home": true,
+          "MP": 18.5,
+          "PTS": 3,
+          "ORB": 0,
+          "DRB": 5,
+          "TRB": 5,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 9.25
+        },
+        {
+          "date": "2026-04-21",
+          "team": "LAL",
+          "opp": "HOU",
+          "home": true,
+          "MP": 13.7,
+          "PTS": 0,
+          "ORB": 1,
+          "DRB": 4,
+          "TRB": 5,
+          "AST": 1,
+          "STL": 1,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 11.75
+        },
+        {
+          "date": "2026-04-24",
+          "team": "LAL",
+          "opp": "HOU",
+          "home": false,
+          "MP": 14.6,
+          "PTS": 5,
+          "ORB": 1,
+          "DRB": 5,
+          "TRB": 6,
+          "AST": 1,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 15.0
         }
       ]
     },
@@ -6140,9 +6140,9 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
+      "name": "Jaylen Clark",
+      "pos": "G",
+      "team": "MIN",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6159,37 +6159,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Vincent"
+        "Josh K"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 2.01,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -6221,9 +6194,9 @@
       "gameLog": []
     },
     {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6240,10 +6213,37 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Josh K"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 2.01,
+      "salary": 3.31,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
