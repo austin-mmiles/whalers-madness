@@ -7,12 +7,12 @@
         "MIN"
       ],
       "scores": [
-        0,
+        2,
         5
       ],
       "status": "live",
       "gameId": "0042500164",
-      "clock": "PT10M41.00S",
+      "clock": "PT09M41.00S",
       "period": 1
     },
     {
@@ -21,12 +21,12 @@
         "ATL"
       ],
       "scores": [
-        112,
-        94
+        114,
+        98
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500124",
-      "clock": "PT00M45.90S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
