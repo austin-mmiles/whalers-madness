@@ -3,59 +3,47 @@
   "games": [
     {
       "teams": [
-        "DET",
-        "ORL"
+        "CLE",
+        "TOR"
       ],
-      "scores": [
-        105,
-        113
-      ],
-      "status": "final",
-      "gameId": "0042500103",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500134",
       "clock": "",
-      "period": 4
+      "period": 0
     },
     {
       "teams": [
-        "OKC",
-        "PHO"
+        "SAS",
+        "POR"
       ],
-      "scores": [
-        121,
-        109
-      ],
-      "status": "final",
-      "gameId": "0042500143",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500154",
       "clock": "",
-      "period": 4
+      "period": 0
     },
     {
       "teams": [
-        "NYK",
-        "ATL"
+        "BOS",
+        "PHI"
       ],
-      "scores": [
-        114,
-        98
-      ],
-      "status": "final",
-      "gameId": "0042500124",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500114",
       "clock": "",
-      "period": 4
+      "period": 0
     },
     {
       "teams": [
-        "DEN",
-        "MIN"
+        "LAL",
+        "HOU"
       ],
-      "scores": [
-        96,
-        112
-      ],
-      "status": "final",
-      "gameId": "0042500164",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500174",
       "clock": "",
-      "period": 4
+      "period": 0
     }
   ]
 }
