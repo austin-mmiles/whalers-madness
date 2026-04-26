@@ -3,6 +3,20 @@
   "games": [
     {
       "teams": [
+        "BOS",
+        "PHI"
+      ],
+      "scores": [
+        4,
+        2
+      ],
+      "status": "live",
+      "gameId": "0042500114",
+      "clock": "PT09M59.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "CLE",
         "TOR"
       ],
@@ -28,17 +42,6 @@
       "gameId": "0042500154",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "BOS",
-        "PHI"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500114",
-      "clock": "",
-      "period": 0
     },
     {
       "teams": [
