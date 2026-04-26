@@ -2211,85 +2211,6 @@
       ]
     },
     {
-      "name": "Jalen Green",
-      "pos": "G",
-      "team": "PHO",
-      "G": 3,
-      "MP": 112,
-      "PTS": 64,
-      "ORB": 3,
-      "DRB": 12,
-      "TRB": 15,
-      "AST": 10,
-      "STL": 4,
-      "BLK": 1,
-      "TOV": 11,
-      "TD": 0,
-      "FP": 113.25,
-      "FPPG": 37.75,
-      "MPPG": 37.3,
-      "active": true,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 4.04,
-      "FPperDollar": 28.0322,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "PHO",
-          "opp": "OKC",
-          "home": false,
-          "MP": 31.5,
-          "PTS": 17,
-          "ORB": 0,
-          "DRB": 5,
-          "TRB": 5,
-          "AST": 1,
-          "STL": 1,
-          "BLK": 1,
-          "TOV": 3,
-          "TD": 0,
-          "FP": 29.25
-        },
-        {
-          "date": "2026-04-22",
-          "team": "PHO",
-          "opp": "OKC",
-          "home": false,
-          "MP": 41.4,
-          "PTS": 21,
-          "ORB": 3,
-          "DRB": 2,
-          "TRB": 5,
-          "AST": 3,
-          "STL": 2,
-          "BLK": 0,
-          "TOV": 7,
-          "TD": 0,
-          "FP": 37.25
-        },
-        {
-          "date": "2026-04-25",
-          "team": "PHO",
-          "opp": "OKC",
-          "home": true,
-          "MP": 38.9,
-          "PTS": 26,
-          "ORB": 0,
-          "DRB": 5,
-          "TRB": 5,
-          "AST": 6,
-          "STL": 1,
-          "BLK": 0,
-          "TOV": 1,
-          "TD": 0,
-          "FP": 46.75
-        }
-      ]
-    },
-    {
       "name": "Franz Wagner",
       "pos": "F",
       "team": "ORL",
@@ -2365,6 +2286,85 @@
           "TOV": 1,
           "TD": 0,
           "FP": 40.75
+        }
+      ]
+    },
+    {
+      "name": "Jalen Green",
+      "pos": "G",
+      "team": "PHO",
+      "G": 3,
+      "MP": 112,
+      "PTS": 64,
+      "ORB": 3,
+      "DRB": 12,
+      "TRB": 15,
+      "AST": 10,
+      "STL": 4,
+      "BLK": 1,
+      "TOV": 11,
+      "TD": 0,
+      "FP": 113.25,
+      "FPPG": 37.75,
+      "MPPG": 37.3,
+      "active": true,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 4.04,
+      "FPperDollar": 28.0322,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "PHO",
+          "opp": "OKC",
+          "home": false,
+          "MP": 31.5,
+          "PTS": 17,
+          "ORB": 0,
+          "DRB": 5,
+          "TRB": 5,
+          "AST": 1,
+          "STL": 1,
+          "BLK": 1,
+          "TOV": 3,
+          "TD": 0,
+          "FP": 29.25
+        },
+        {
+          "date": "2026-04-22",
+          "team": "PHO",
+          "opp": "OKC",
+          "home": false,
+          "MP": 41.4,
+          "PTS": 21,
+          "ORB": 3,
+          "DRB": 2,
+          "TRB": 5,
+          "AST": 3,
+          "STL": 2,
+          "BLK": 0,
+          "TOV": 7,
+          "TD": 0,
+          "FP": 37.25
+        },
+        {
+          "date": "2026-04-25",
+          "team": "PHO",
+          "opp": "OKC",
+          "home": true,
+          "MP": 38.9,
+          "PTS": 26,
+          "ORB": 0,
+          "DRB": 5,
+          "TRB": 5,
+          "AST": 6,
+          "STL": 1,
+          "BLK": 0,
+          "TOV": 1,
+          "TD": 0,
+          "FP": 46.75
         }
       ]
     },
@@ -4299,85 +4299,6 @@
       ]
     },
     {
-      "name": "Duncan Robinson",
-      "pos": "F",
-      "team": "DET",
-      "G": 3,
-      "MP": 86,
-      "PTS": 29,
-      "ORB": 2,
-      "DRB": 4,
-      "TRB": 6,
-      "AST": 10,
-      "STL": 2,
-      "BLK": 2,
-      "TOV": 3,
-      "TD": 0,
-      "FP": 67.0,
-      "FPPG": 22.33,
-      "MPPG": 28.7,
-      "active": true,
-      "ownedBy": [
-        "Taiga"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 6.43,
-      "FPperDollar": 10.4199,
-      "gameLog": [
-        {
-          "date": "2026-04-19",
-          "team": "DET",
-          "opp": "ORL",
-          "home": true,
-          "MP": 26.0,
-          "PTS": 9,
-          "ORB": 0,
-          "DRB": 0,
-          "TRB": 0,
-          "AST": 4,
-          "STL": 0,
-          "BLK": 0,
-          "TOV": 1,
-          "TD": 0,
-          "FP": 16.5
-        },
-        {
-          "date": "2026-04-22",
-          "team": "DET",
-          "opp": "ORL",
-          "home": true,
-          "MP": 31.9,
-          "PTS": 10,
-          "ORB": 2,
-          "DRB": 4,
-          "TRB": 6,
-          "AST": 3,
-          "STL": 2,
-          "BLK": 1,
-          "TOV": 2,
-          "TD": 0,
-          "FP": 32.0
-        },
-        {
-          "date": "2026-04-25",
-          "team": "DET",
-          "opp": "ORL",
-          "home": false,
-          "MP": 27.8,
-          "PTS": 10,
-          "ORB": 0,
-          "DRB": 0,
-          "TRB": 0,
-          "AST": 3,
-          "STL": 0,
-          "BLK": 1,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 18.5
-        }
-      ]
-    },
-    {
       "name": "Jakob Poeltl",
       "pos": "C",
       "team": "TOR",
@@ -4470,6 +4391,85 @@
           "TOV": 0,
           "TD": 0,
           "FP": 12.0
+        }
+      ]
+    },
+    {
+      "name": "Duncan Robinson",
+      "pos": "F",
+      "team": "DET",
+      "G": 3,
+      "MP": 86,
+      "PTS": 29,
+      "ORB": 2,
+      "DRB": 4,
+      "TRB": 6,
+      "AST": 10,
+      "STL": 2,
+      "BLK": 2,
+      "TOV": 3,
+      "TD": 0,
+      "FP": 67.0,
+      "FPPG": 22.33,
+      "MPPG": 28.7,
+      "active": true,
+      "ownedBy": [
+        "Taiga"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 6.43,
+      "FPperDollar": 10.4199,
+      "gameLog": [
+        {
+          "date": "2026-04-19",
+          "team": "DET",
+          "opp": "ORL",
+          "home": true,
+          "MP": 26.0,
+          "PTS": 9,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 4,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 1,
+          "TD": 0,
+          "FP": 16.5
+        },
+        {
+          "date": "2026-04-22",
+          "team": "DET",
+          "opp": "ORL",
+          "home": true,
+          "MP": 31.9,
+          "PTS": 10,
+          "ORB": 2,
+          "DRB": 4,
+          "TRB": 6,
+          "AST": 3,
+          "STL": 2,
+          "BLK": 1,
+          "TOV": 2,
+          "TD": 0,
+          "FP": 32.0
+        },
+        {
+          "date": "2026-04-25",
+          "team": "DET",
+          "opp": "ORL",
+          "home": false,
+          "MP": 27.8,
+          "PTS": 10,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 3,
+          "STL": 0,
+          "BLK": 1,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 18.5
         }
       ]
     },
@@ -6208,9 +6208,9 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6227,10 +6227,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -6262,9 +6262,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6281,10 +6281,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
