@@ -6694,9 +6694,9 @@
       "gameLog": []
     },
     {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6713,10 +6713,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Josh K"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 2.01,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -6748,9 +6748,9 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
+      "name": "Jaylen Clark",
+      "pos": "G",
+      "team": "MIN",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6767,10 +6767,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Josh K"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 2.01,
       "FPperDollar": 0.0,
       "gameLog": []
     },
