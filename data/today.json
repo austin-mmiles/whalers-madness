@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "LAL",
-        "HOU"
-      ],
-      "scores": [
-        96,
-        115
-      ],
-      "status": "final",
-      "gameId": "0042500174",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "CLE",
         "TOR"
       ],
@@ -54,6 +40,20 @@
       ],
       "status": "final",
       "gameId": "0042500114",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "LAL",
+        "HOU"
+      ],
+      "scores": [
+        96,
+        115
+      ],
+      "status": "final",
+      "gameId": "0042500174",
       "clock": "",
       "period": 4
     }
