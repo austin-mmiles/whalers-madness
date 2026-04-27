@@ -6667,9 +6667,9 @@
       ]
     },
     {
-      "name": "Jaylen Clark",
-      "pos": "G",
-      "team": "MIN",
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6686,10 +6686,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Josh K"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 2.01,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -6721,9 +6721,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
+      "name": "Jaylen Clark",
+      "pos": "G",
+      "team": "MIN",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -6740,10 +6740,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Josh K"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 2.01,
       "FPperDollar": 0.0,
       "gameLog": []
     },
