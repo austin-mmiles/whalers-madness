@@ -3,17 +3,17 @@
   "games": [
     {
       "teams": [
-        "BOS",
-        "PHI"
+        "LAL",
+        "HOU"
       ],
       "scores": [
-        128,
-        96
+        2,
+        2
       ],
-      "status": "final",
-      "gameId": "0042500114",
-      "clock": "PT00M00.00S",
-      "period": 4
+      "status": "live",
+      "gameId": "0042500174",
+      "clock": "PT10M57.00S",
+      "period": 1
     },
     {
       "teams": [
@@ -45,14 +45,17 @@
     },
     {
       "teams": [
-        "LAL",
-        "HOU"
+        "BOS",
+        "PHI"
       ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500174",
+      "scores": [
+        128,
+        96
+      ],
+      "status": "final",
+      "gameId": "0042500114",
       "clock": "",
-      "period": 0
+      "period": 4
     }
   ]
 }
