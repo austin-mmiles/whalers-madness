@@ -6019,7 +6019,7 @@
           "team": "LAL",
           "opp": "HOU",
           "home": false,
-          "MP": 13.0,
+          "MP": 13.4,
           "PTS": 8,
           "ORB": 2,
           "DRB": 2,
@@ -6667,7 +6667,7 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -6686,10 +6686,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -6721,33 +6721,6 @@
       "gameLog": []
     },
     {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Jaylen Clark",
       "pos": "G",
       "team": "MIN",
@@ -6775,11 +6748,38 @@
       "gameLog": []
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Jeff Green",
       "pos": "F",
       "team": "HOU",
       "G": 2,
-      "MP": 8,
+      "MP": 10,
       "PTS": 0,
       "ORB": 0,
       "DRB": 0,
@@ -6791,7 +6791,7 @@
       "TD": 0,
       "FP": -0.5,
       "FPPG": -0.25,
-      "MPPG": 4.0,
+      "MPPG": 5.0,
       "active": true,
       "ownedBy": [
         "Jameson"
@@ -6822,7 +6822,7 @@
           "team": "HOU",
           "opp": "LAL",
           "home": true,
-          "MP": 0.8,
+          "MP": 2.5,
           "PTS": 0,
           "ORB": 0,
           "DRB": 0,
