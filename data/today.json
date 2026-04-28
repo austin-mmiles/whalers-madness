@@ -7,13 +7,13 @@
         "PHO"
       ],
       "scores": [
-        75,
-        67
+        80,
+        71
       ],
       "status": "live",
       "gameId": "0042500144",
-      "clock": "PT00M00.00S",
-      "period": 2
+      "clock": "PT09M47.00S",
+      "period": 3
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "ORL"
       ],
       "scores": [
-        86,
+        88,
         94
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500104",
-      "clock": "PT00M21.50S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
@@ -35,12 +35,12 @@
         "DEN"
       ],
       "scores": [
-        6,
-        7
+        11,
+        16
       ],
       "status": "live",
       "gameId": "0042500165",
-      "clock": "PT09M44.00S",
+      "clock": "PT06M41.00S",
       "period": 1
     }
   ]
