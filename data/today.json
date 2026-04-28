@@ -7,12 +7,12 @@
         "PHO"
       ],
       "scores": [
-        48,
-        55
+        59,
+        60
       ],
       "status": "live",
       "gameId": "0042500144",
-      "clock": "PT05M32.00S",
+      "clock": "PT03M20.00S",
       "period": 2
     },
     {
@@ -21,12 +21,12 @@
         "ORL"
       ],
       "scores": [
-        81,
-        85
+        85,
+        87
       ],
       "status": "live",
       "gameId": "0042500104",
-      "clock": "PT06M08.00S",
+      "clock": "PT03M23.00S",
       "period": 4
     },
     {
