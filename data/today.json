@@ -7,12 +7,12 @@
         "PHO"
       ],
       "scores": [
-        99,
-        89
+        104,
+        94
       ],
       "status": "live",
       "gameId": "0042500144",
-      "clock": "PT03M09.00S",
+      "clock": "PT01M32.00S",
       "period": 3
     },
     {
@@ -21,12 +21,12 @@
         "DEN"
       ],
       "scores": [
-        29,
-        34
+        35,
+        38
       ],
       "status": "live",
       "gameId": "0042500165",
-      "clock": "PT11M40.00S",
+      "clock": "PT08M55.00S",
       "period": 2
     },
     {
