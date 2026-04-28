@@ -8,12 +8,12 @@
       ],
       "scores": [
         37,
-        30
+        33
       ],
       "status": "live",
       "gameId": "0042500144",
-      "clock": "PT00M15.00S",
-      "period": 1
+      "clock": "PT11M15.00S",
+      "period": 2
     },
     {
       "teams": [
@@ -21,13 +21,13 @@
         "ORL"
       ],
       "scores": [
-        69,
+        74,
         75
       ],
       "status": "live",
       "gameId": "0042500104",
-      "clock": "PT00M00.00S",
-      "period": 3
+      "clock": "PT10M15.00S",
+      "period": 4
     },
     {
       "teams": [
