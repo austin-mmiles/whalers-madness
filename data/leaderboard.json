@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Eric",
-      "FP": 1485.5,
+      "FP": 1484.25,
       "G": 38,
       "MP": 1236,
       "playersLeft": 10,
@@ -110,8 +110,8 @@
           "salary": 5.17,
           "G": 4,
           "MP": 115,
-          "FP": 151.75,
-          "FPPG": 37.94,
+          "FP": 150.5,
+          "FPPG": 37.62,
           "active": true,
           "TD": 0
         },
