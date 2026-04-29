@@ -22,6 +22,24 @@
     {
       "round": "First Round",
       "teams": [
+        "ATL",
+        "NYK"
+      ],
+      "leader": "NYK",
+      "trailer": "ATL",
+      "wins": [
+        2,
+        3
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "NYK leads 3-2",
+      "gamesPlayed": 5
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "DEN",
         "MIN"
       ],
@@ -54,24 +72,6 @@
       "winner": "",
       "seriesText": "BOS leads 3-2",
       "gamesPlayed": 5
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "ATL",
-        "NYK"
-      ],
-      "leader": "ATL",
-      "trailer": "NYK",
-      "wins": [
-        2,
-        2
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 2-2",
-      "gamesPlayed": 4
     },
     {
       "round": "First Round",

@@ -17,20 +17,6 @@
     },
     {
       "teams": [
-        "ATL",
-        "NYK"
-      ],
-      "scores": [
-        97,
-        126
-      ],
-      "status": "final",
-      "gameId": "0042500125",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "PHI",
         "BOS"
       ],
@@ -40,6 +26,20 @@
       ],
       "status": "final",
       "gameId": "0042500115",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "ATL",
+        "NYK"
+      ],
+      "scores": [
+        97,
+        126
+      ],
+      "status": "final",
+      "gameId": "0042500125",
       "clock": "",
       "period": 4
     }
