@@ -3,6 +3,20 @@
   "games": [
     {
       "teams": [
+        "ATL",
+        "NYK"
+      ],
+      "scores": [
+        0,
+        0
+      ],
+      "status": "live",
+      "gameId": "0042500125",
+      "clock": "PT11M34.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "PHI",
         "BOS"
       ],
@@ -14,17 +28,6 @@
       "gameId": "0042500115",
       "clock": "PT00M00.00S",
       "period": 2
-    },
-    {
-      "teams": [
-        "ATL",
-        "NYK"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500125",
-      "clock": "",
-      "period": 0
     },
     {
       "teams": [
