@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "BOS"
       ],
       "scores": [
-        39,
-        45
+        43,
+        47
       ],
       "status": "live",
       "gameId": "0042500115",
-      "clock": "PT05M13.00S",
+      "clock": "PT03M32.00S",
       "period": 2
     },
     {
