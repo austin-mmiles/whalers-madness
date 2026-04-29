@@ -7,12 +7,12 @@
         "NYK"
       ],
       "scores": [
-        47,
-        62
+        48,
+        64
       ],
       "status": "live",
       "gameId": "0042500125",
-      "clock": "PT00M28.40S",
+      "clock": "PT00M00.00S",
       "period": 2
     },
     {
@@ -21,12 +21,12 @@
         "BOS"
       ],
       "scores": [
-        103,
+        106,
         94
       ],
       "status": "live",
       "gameId": "0042500115",
-      "clock": "PT04M52.00S",
+      "clock": "PT02M42.00S",
       "period": 4
     },
     {
