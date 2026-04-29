@@ -3,16 +3,30 @@
   "games": [
     {
       "teams": [
+        "POR",
+        "SAS"
+      ],
+      "scores": [
+        0,
+        2
+      ],
+      "status": "live",
+      "gameId": "0042500155",
+      "clock": "PT10M53.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "ATL",
         "NYK"
       ],
       "scores": [
         57,
-        73
+        75
       ],
       "status": "live",
       "gameId": "0042500125",
-      "clock": "PT07M54.00S",
+      "clock": "PT07M15.00S",
       "period": 3
     },
     {
@@ -28,17 +42,6 @@
       "gameId": "0042500115",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "POR",
-        "SAS"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500155",
-      "clock": "",
-      "period": 0
     }
   ]
 }
