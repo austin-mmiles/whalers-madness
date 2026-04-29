@@ -21,12 +21,12 @@
         "BOS"
       ],
       "scores": [
-        111,
-        96
+        113,
+        97
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500115",
-      "clock": "PT01M33.00S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
