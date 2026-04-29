@@ -7,12 +7,12 @@
         "SAS"
       ],
       "scores": [
-        37,
-        64
+        44,
+        65
       ],
       "status": "live",
       "gameId": "0042500155",
-      "clock": "PT01M56.00S",
+      "clock": "PT00M15.30S",
       "period": 2
     },
     {
@@ -21,12 +21,12 @@
         "NYK"
       ],
       "scores": [
-        89,
-        116
+        94,
+        123
       ],
       "status": "live",
       "gameId": "0042500125",
-      "clock": "PT03M28.00S",
+      "clock": "PT00M40.20S",
       "period": 4
     },
     {
