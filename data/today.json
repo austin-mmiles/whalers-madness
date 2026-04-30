@@ -7,27 +7,13 @@
         "LAL"
       ],
       "scores": [
-        2,
-        3
+        6,
+        7
       ],
       "status": "live",
       "gameId": "0042500175",
-      "clock": "PT10M41.00S",
+      "clock": "PT07M47.00S",
       "period": 1
-    },
-    {
-      "teams": [
-        "TOR",
-        "CLE"
-      ],
-      "scores": [
-        120,
-        125
-      ],
-      "status": "final",
-      "gameId": "0042500135",
-      "clock": "PT00M00.00S",
-      "period": 4
     },
     {
       "teams": [
@@ -40,6 +26,20 @@
       ],
       "status": "final",
       "gameId": "0042500105",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "TOR",
+        "CLE"
+      ],
+      "scores": [
+        120,
+        125
+      ],
+      "status": "final",
+      "gameId": "0042500135",
       "clock": "",
       "period": 4
     }
