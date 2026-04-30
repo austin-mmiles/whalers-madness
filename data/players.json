@@ -1032,7 +1032,7 @@
       "pos": "G",
       "team": "HOU",
       "G": 5,
-      "MP": 196,
+      "MP": 197,
       "PTS": 91,
       "ORB": 13,
       "DRB": 16,
@@ -1044,7 +1044,7 @@
       "TD": 0,
       "FP": 231.25,
       "FPPG": 46.25,
-      "MPPG": 39.2,
+      "MPPG": 39.4,
       "active": true,
       "ownedBy": [
         "Jameson"
@@ -1126,7 +1126,7 @@
           "team": "HOU",
           "opp": "LAL",
           "home": false,
-          "MP": 22.1,
+          "MP": 22.3,
           "PTS": 9,
           "ORB": 1,
           "DRB": 1,
@@ -1244,7 +1244,7 @@
           "team": "LAL",
           "opp": "HOU",
           "home": true,
-          "MP": 17.2,
+          "MP": 17.5,
           "PTS": 8,
           "ORB": 0,
           "DRB": 1,
@@ -2921,7 +2921,7 @@
           "team": "HOU",
           "opp": "LAL",
           "home": false,
-          "MP": 18.3,
+          "MP": 18.6,
           "PTS": 10,
           "ORB": 0,
           "DRB": 2,
@@ -4092,7 +4092,7 @@
       "pos": "C",
       "team": "LAL",
       "G": 5,
-      "MP": 138,
+      "MP": 139,
       "PTS": 54,
       "ORB": 13,
       "DRB": 26,
@@ -4104,7 +4104,7 @@
       "TD": 0,
       "FP": 125.25,
       "FPPG": 25.05,
-      "MPPG": 27.6,
+      "MPPG": 27.8,
       "active": true,
       "ownedBy": [
         "Garrett T"
@@ -4186,7 +4186,7 @@
           "team": "LAL",
           "opp": "HOU",
           "home": true,
-          "MP": 18.6,
+          "MP": 18.9,
           "PTS": 8,
           "ORB": 5,
           "DRB": 2,
@@ -8021,9 +8021,9 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8040,10 +8040,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -8075,9 +8075,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8094,10 +8094,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
