@@ -7,12 +7,12 @@
         "CLE"
       ],
       "scores": [
-        92,
-        90
+        102,
+        95
       ],
       "status": "live",
       "gameId": "0042500135",
-      "clock": "PT03M47.00S",
+      "clock": "PT01M51.00S",
       "period": 3
     },
     {
@@ -21,12 +21,12 @@
         "DET"
       ],
       "scores": [
-        101,
+        104,
         110
       ],
       "status": "live",
       "gameId": "0042500105",
-      "clock": "PT03M52.00S",
+      "clock": "PT02M36.00S",
       "period": 4
     },
     {
