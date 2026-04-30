@@ -7,12 +7,12 @@
         "CLE"
       ],
       "scores": [
-        106,
-        110
+        111,
+        113
       ],
       "status": "live",
       "gameId": "0042500135",
-      "clock": "PT07M11.00S",
+      "clock": "PT06M19.00S",
       "period": 4
     },
     {
@@ -26,7 +26,7 @@
       ],
       "status": "final",
       "gameId": "0042500105",
-      "clock": "PT00M00.00S",
+      "clock": "",
       "period": 4
     },
     {
