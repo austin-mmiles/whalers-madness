@@ -8021,7 +8021,7 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -8040,10 +8040,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -8075,7 +8075,7 @@
       "gameLog": []
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -8094,10 +8094,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Vincent"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
