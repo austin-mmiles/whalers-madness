@@ -3,6 +3,20 @@
   "games": [
     {
       "teams": [
+        "HOU",
+        "LAL"
+      ],
+      "scores": [
+        2,
+        3
+      ],
+      "status": "live",
+      "gameId": "0042500175",
+      "clock": "PT10M41.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "TOR",
         "CLE"
       ],
@@ -10,9 +24,9 @@
         120,
         125
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500135",
-      "clock": "PT00M02.40S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
@@ -28,17 +42,6 @@
       "gameId": "0042500105",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "HOU",
-        "LAL"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500175",
-      "clock": "",
-      "period": 0
     }
   ]
 }
