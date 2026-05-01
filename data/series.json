@@ -4,6 +4,24 @@
     {
       "round": "First Round",
       "teams": [
+        "ATL",
+        "NYK"
+      ],
+      "leader": "NYK",
+      "trailer": "ATL",
+      "wins": [
+        2,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "NYK",
+      "seriesText": "NYK wins 4-2",
+      "gamesPlayed": 6
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "POR",
         "SAS"
       ],
@@ -36,24 +54,6 @@
       "winner": "OKC",
       "seriesText": "OKC wins 4-0",
       "gamesPlayed": 4
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "ATL",
-        "NYK"
-      ],
-      "leader": "NYK",
-      "trailer": "ATL",
-      "wins": [
-        2,
-        3
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "NYK leads 3-2",
-      "gamesPlayed": 5
     },
     {
       "round": "First Round",

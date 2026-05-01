@@ -17,6 +17,20 @@
     },
     {
       "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "scores": [
+        4,
+        2
+      ],
+      "status": "live",
+      "gameId": "0042500166",
+      "clock": "PT09M15.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "BOS",
         "PHI"
       ],
@@ -26,19 +40,8 @@
       ],
       "status": "live",
       "gameId": "0042500116",
-      "clock": "PT03M55.00S",
+      "clock": "PT03M01.00S",
       "period": 3
-    },
-    {
-      "teams": [
-        "DEN",
-        "MIN"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500166",
-      "clock": "",
-      "period": 0
     }
   ]
 }
