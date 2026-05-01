@@ -22,6 +22,24 @@
     {
       "round": "First Round",
       "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "leader": "MIN",
+      "trailer": "DEN",
+      "wins": [
+        2,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "MIN",
+      "seriesText": "MIN wins 4-2",
+      "gamesPlayed": 6
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "POR",
         "SAS"
       ],
@@ -89,24 +107,6 @@
       "over": false,
       "winner": "",
       "seriesText": "CLE leads 3-2",
-      "gamesPlayed": 5
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "DEN",
-        "MIN"
-      ],
-      "leader": "MIN",
-      "trailer": "DEN",
-      "wins": [
-        2,
-        3
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "MIN leads 3-2",
       "gamesPlayed": 5
     },
     {

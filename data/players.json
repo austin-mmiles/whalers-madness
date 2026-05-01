@@ -19,7 +19,7 @@
       "FP": 424.75,
       "FPPG": 70.79,
       "MPPG": 39.5,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Jameson",
         "John"
@@ -884,7 +884,7 @@
       "FP": 264.5,
       "FPPG": 44.08,
       "MPPG": 39.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Eric",
         "Mitchell"
@@ -3480,7 +3480,7 @@
       "FP": 158.25,
       "FPPG": 26.38,
       "MPPG": 31.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Ronnie"
       ],
@@ -5090,7 +5090,7 @@
       "FP": 125.75,
       "FPPG": 20.96,
       "MPPG": 31.2,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Austin"
       ],
@@ -5559,7 +5559,7 @@
       "FP": 118.0,
       "FPPG": 19.67,
       "MPPG": 23.3,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Jameson"
       ],
@@ -7148,7 +7148,7 @@
       "FP": 72.0,
       "FPPG": 24.0,
       "MPPG": 29.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Eric",
         "Garrett M",
@@ -8480,33 +8480,6 @@
       ]
     },
     {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.31,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -8557,6 +8530,33 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": true,
+      "ownedBy": [
+        "Sivaji"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },

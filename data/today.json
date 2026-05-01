@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "DEN",
-        "MIN"
-      ],
-      "scores": [
-        98,
-        110
-      ],
-      "status": "final",
-      "gameId": "0042500166",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "NYK",
         "ATL"
       ],
@@ -40,6 +26,20 @@
       ],
       "status": "final",
       "gameId": "0042500116",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "DEN",
+        "MIN"
+      ],
+      "scores": [
+        98,
+        110
+      ],
+      "status": "final",
+      "gameId": "0042500166",
       "clock": "",
       "period": 4
     }
