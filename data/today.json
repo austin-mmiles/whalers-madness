@@ -7,27 +7,13 @@
         "MIN"
       ],
       "scores": [
-        39,
-        40
+        42,
+        48
       ],
       "status": "live",
       "gameId": "0042500166",
-      "clock": "PT06M34.00S",
+      "clock": "PT03M57.00S",
       "period": 2
-    },
-    {
-      "teams": [
-        "BOS",
-        "PHI"
-      ],
-      "scores": [
-        93,
-        106
-      ],
-      "status": "live",
-      "gameId": "0042500116",
-      "clock": "PT00M18.10S",
-      "period": 4
     },
     {
       "teams": [
@@ -40,6 +26,20 @@
       ],
       "status": "final",
       "gameId": "0042500126",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "BOS",
+        "PHI"
+      ],
+      "scores": [
+        93,
+        106
+      ],
+      "status": "final",
+      "gameId": "0042500116",
       "clock": "",
       "period": 4
     }
