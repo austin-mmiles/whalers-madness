@@ -7,13 +7,13 @@
         "ATL"
       ],
       "scores": [
-        116,
+        119,
         64
       ],
       "status": "live",
       "gameId": "0042500126",
-      "clock": "PT00M05.40S",
-      "period": 3
+      "clock": "PT11M26.00S",
+      "period": 4
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "PHI"
       ],
       "scores": [
-        44,
-        53
+        49,
+        58
       ],
       "status": "live",
       "gameId": "0042500116",
-      "clock": "PT01M35.00S",
+      "clock": "PT00M00.00S",
       "period": 2
     },
     {
