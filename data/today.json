@@ -7,13 +7,13 @@
         "MIN"
       ],
       "scores": [
-        30,
-        29
+        37,
+        36
       ],
       "status": "live",
       "gameId": "0042500166",
-      "clock": "PT00M00.00S",
-      "period": 1
+      "clock": "PT10M00.00S",
+      "period": 2
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "PHI"
       ],
       "scores": [
-        78,
-        94
+        83,
+        98
       ],
       "status": "live",
       "gameId": "0042500116",
-      "clock": "PT05M24.00S",
+      "clock": "PT03M31.00S",
       "period": 4
     },
     {
