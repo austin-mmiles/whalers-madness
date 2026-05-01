@@ -3,28 +3,31 @@
   "games": [
     {
       "teams": [
+        "CLE",
+        "TOR"
+      ],
+      "scores": [
+        6,
+        3
+      ],
+      "status": "live",
+      "gameId": "0042500136",
+      "clock": "PT10M33.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "DET",
         "ORL"
       ],
       "scores": [
-        26,
-        27
+        28,
+        35
       ],
       "status": "live",
       "gameId": "0042500106",
-      "clock": "PT11M41.00S",
+      "clock": "PT08M19.00S",
       "period": 2
-    },
-    {
-      "teams": [
-        "CLE",
-        "TOR"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500136",
-      "clock": "",
-      "period": 0
     },
     {
       "teams": [
