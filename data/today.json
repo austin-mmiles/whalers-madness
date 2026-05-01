@@ -6,11 +6,14 @@
         "DET",
         "ORL"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        0,
+        0
+      ],
+      "status": "live",
       "gameId": "0042500106",
-      "clock": "",
-      "period": 0
+      "clock": "PT11M36.00S",
+      "period": 1
     },
     {
       "teams": [

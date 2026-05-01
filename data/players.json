@@ -529,8 +529,8 @@
       "name": "Paolo Banchero",
       "pos": "F",
       "team": "ORL",
-      "G": 5,
-      "MP": 190,
+      "G": 6,
+      "MP": 191,
       "PTS": 129,
       "ORB": 6,
       "DRB": 38,
@@ -541,8 +541,8 @@
       "TOV": 18,
       "TD": 0,
       "FP": 276.0,
-      "FPPG": 55.2,
-      "MPPG": 38.0,
+      "FPPG": 46.0,
+      "MPPG": 31.8,
       "active": true,
       "ownedBy": [
         "Vincent"
@@ -635,6 +635,23 @@
           "TOV": 6,
           "TD": 0,
           "FP": 74.25
+        },
+        {
+          "date": "2026-05-01",
+          "team": "ORL",
+          "opp": "DET",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -756,8 +773,8 @@
       "name": "Cade Cunningham",
       "pos": "G",
       "team": "DET",
-      "G": 5,
-      "MP": 201,
+      "G": 6,
+      "MP": 202,
       "PTS": 163,
       "ORB": 5,
       "DRB": 24,
@@ -768,8 +785,8 @@
       "TOV": 33,
       "TD": 0,
       "FP": 268.75,
-      "FPPG": 53.75,
-      "MPPG": 40.2,
+      "FPPG": 44.79,
+      "MPPG": 33.7,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -863,6 +880,23 @@
           "TOV": 6,
           "TD": 0,
           "FP": 61.5
+        },
+        {
+          "date": "2026-05-01",
+          "team": "DET",
+          "opp": "ORL",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -2310,8 +2344,8 @@
       "name": "Tobias Harris",
       "pos": "F",
       "team": "DET",
-      "G": 5,
-      "MP": 173,
+      "G": 6,
+      "MP": 174,
       "PTS": 99,
       "ORB": 6,
       "DRB": 32,
@@ -2322,8 +2356,8 @@
       "TOV": 7,
       "TD": 0,
       "FP": 196.5,
-      "FPPG": 39.3,
-      "MPPG": 34.6,
+      "FPPG": 32.75,
+      "MPPG": 29.0,
       "active": true,
       "ownedBy": [
         "Jameson",
@@ -2417,6 +2451,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 41.0
+        },
+        {
+          "date": "2026-05-01",
+          "team": "DET",
+          "opp": "ORL",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -3257,8 +3308,8 @@
       "name": "Desmond Bane",
       "pos": "G",
       "team": "ORL",
-      "G": 5,
-      "MP": 177,
+      "G": 6,
+      "MP": 178,
       "PTS": 94,
       "ORB": 9,
       "DRB": 18,
@@ -3269,8 +3320,8 @@
       "TOV": 11,
       "TD": 0,
       "FP": 174.25,
-      "FPPG": 34.85,
-      "MPPG": 35.4,
+      "FPPG": 29.04,
+      "MPPG": 29.7,
       "active": true,
       "ownedBy": [
         "Austin"
@@ -3363,6 +3414,23 @@
           "TOV": 2,
           "TD": 0,
           "FP": 34.75
+        },
+        {
+          "date": "2026-05-01",
+          "team": "ORL",
+          "opp": "DET",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -3902,8 +3970,8 @@
       "name": "Jalen Duren",
       "pos": "C",
       "team": "DET",
-      "G": 5,
-      "MP": 150,
+      "G": 6,
+      "MP": 151,
       "PTS": 51,
       "ORB": 17,
       "DRB": 25,
@@ -3914,8 +3982,8 @@
       "TOV": 15,
       "TD": 0,
       "FP": 155.0,
-      "FPPG": 31.0,
-      "MPPG": 30.0,
+      "FPPG": 25.83,
+      "MPPG": 25.2,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -4011,6 +4079,23 @@
           "TOV": 3,
           "TD": 0,
           "FP": 33.25
+        },
+        {
+          "date": "2026-05-01",
+          "team": "DET",
+          "opp": "ORL",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -6275,7 +6360,7 @@
       "name": "Duncan Robinson",
       "pos": "F",
       "team": "DET",
-      "G": 5,
+      "G": 6,
       "MP": 140,
       "PTS": 48,
       "ORB": 3,
@@ -6287,8 +6372,8 @@
       "TOV": 5,
       "TD": 0,
       "FP": 95.5,
-      "FPPG": 19.1,
-      "MPPG": 28.0,
+      "FPPG": 15.92,
+      "MPPG": 23.3,
       "active": true,
       "ownedBy": [
         "Taiga"
@@ -6381,6 +6466,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 17.75
+        },
+        {
+          "date": "2026-05-01",
+          "team": "DET",
+          "opp": "ORL",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -8480,33 +8582,6 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -8530,6 +8605,33 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.69,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
