@@ -4410,8 +4410,8 @@
       "pos": "F",
       "team": "ATL",
       "G": 6,
-      "MP": 153,
-      "PTS": 80,
+      "MP": 156,
+      "PTS": 82,
       "ORB": 6,
       "DRB": 14,
       "TRB": 20,
@@ -4420,16 +4420,16 @@
       "BLK": 3,
       "TOV": 6,
       "TD": 0,
-      "FP": 133.5,
-      "FPPG": 22.25,
-      "MPPG": 25.5,
+      "FP": 135.5,
+      "FPPG": 22.58,
+      "MPPG": 26.0,
       "active": true,
       "ownedBy": [
         "Garrett T"
       ],
       "ownership": 0.07142857142857142,
       "salary": 4.46,
-      "FPperDollar": 29.9327,
+      "FPperDollar": 30.3812,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -4521,8 +4521,8 @@
           "team": "ATL",
           "opp": "NYK",
           "home": true,
-          "MP": 20.4,
-          "PTS": 9,
+          "MP": 22.8,
+          "PTS": 11,
           "ORB": 1,
           "DRB": 1,
           "TRB": 2,
@@ -4531,7 +4531,7 @@
           "BLK": 1,
           "TOV": 1,
           "TD": 0,
-          "FP": 20.0
+          "FP": 22.0
         }
       ]
     },
@@ -8327,9 +8327,9 @@
       ]
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8346,10 +8346,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Sivaji"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -8381,9 +8381,9 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8400,10 +8400,10 @@
       "MPPG": 0.0,
       "active": true,
       "ownedBy": [
-        "Noah"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
