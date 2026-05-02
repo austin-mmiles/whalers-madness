@@ -7,13 +7,27 @@
         "TOR"
       ],
       "scores": [
-        88,
+        93,
         96
       ],
       "status": "live",
       "gameId": "0042500136",
-      "clock": "PT07M52.00S",
+      "clock": "PT06M54.00S",
       "period": 4
+    },
+    {
+      "teams": [
+        "LAL",
+        "HOU"
+      ],
+      "scores": [
+        2,
+        3
+      ],
+      "status": "live",
+      "gameId": "0042500176",
+      "clock": "PT10M45.00S",
+      "period": 1
     },
     {
       "teams": [
@@ -28,17 +42,6 @@
       "gameId": "0042500106",
       "clock": "",
       "period": 4
-    },
-    {
-      "teams": [
-        "LAL",
-        "HOU"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500176",
-      "clock": "",
-      "period": 0
     }
   ]
 }
