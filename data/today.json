@@ -3,45 +3,14 @@
   "games": [
     {
       "teams": [
-        "DET",
-        "ORL"
+        "PHI",
+        "BOS"
       ],
-      "scores": [
-        93,
-        79
-      ],
-      "status": "final",
-      "gameId": "0042500106",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500117",
       "clock": "",
-      "period": 4
-    },
-    {
-      "teams": [
-        "CLE",
-        "TOR"
-      ],
-      "scores": [
-        110,
-        112
-      ],
-      "status": "final",
-      "gameId": "0042500136",
-      "clock": "",
-      "period": 5
-    },
-    {
-      "teams": [
-        "LAL",
-        "HOU"
-      ],
-      "scores": [
-        98,
-        78
-      ],
-      "status": "final",
-      "gameId": "0042500176",
-      "clock": "",
-      "period": 4
+      "period": 0
     }
   ]
 }
