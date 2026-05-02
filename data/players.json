@@ -941,7 +941,7 @@
       "FP": 308.75,
       "FPPG": 51.46,
       "MPPG": 38.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Eric",
         "Mitchell"
@@ -1202,7 +1202,7 @@
       "FP": 289.0,
       "FPPG": 48.17,
       "MPPG": 44.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Jameson"
       ],
@@ -2215,7 +2215,7 @@
       "FP": 221.75,
       "FPPG": 36.96,
       "MPPG": 42.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Ronnie"
       ],
@@ -8295,7 +8295,7 @@
       "FP": 40.5,
       "FPPG": 40.5,
       "MPPG": 41.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Austin",
         "Garrett M",
@@ -8884,7 +8884,7 @@
       "FP": -0.5,
       "FPPG": -0.25,
       "MPPG": 5.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Jameson"
       ],
