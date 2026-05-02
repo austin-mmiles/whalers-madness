@@ -143,8 +143,8 @@
         }
       ],
       "rank": 1,
-      "prevRank": 2,
-      "rankDelta": 1
+      "prevRank": 1,
+      "rankDelta": 0
     },
     {
       "owner": "John",
@@ -288,14 +288,14 @@
         }
       ],
       "rank": 2,
-      "prevRank": 1,
-      "rankDelta": -1
+      "prevRank": 2,
+      "rankDelta": 0
     },
     {
       "owner": "Eric",
-      "FP": 2006.25,
-      "G": 52,
-      "MP": 1705,
+      "FP": 2010.25,
+      "G": 53,
+      "MP": 1708,
       "playersLeft": 5,
       "salaryLeftPct": 0.5022,
       "salaryLeft": 50.06,
@@ -333,10 +333,10 @@
           "team": "PHI",
           "position": "G",
           "salary": 8.52,
-          "G": 6,
-          "MP": 241,
-          "FP": 293.25,
-          "FPPG": 48.88,
+          "G": 7,
+          "MP": 244,
+          "FP": 297.25,
+          "FPPG": 42.46,
           "active": true,
           "TD": 0
         },
@@ -873,9 +873,9 @@
     },
     {
       "owner": "Garrett T",
-      "FP": 1688.0,
-      "G": 55,
-      "MP": 1476,
+      "FP": 1688.25,
+      "G": 56,
+      "MP": 1478,
       "playersLeft": 9,
       "salaryLeftPct": 0.9553,
       "salaryLeft": 95.29,
@@ -939,10 +939,10 @@
           "team": "BOS",
           "position": "F",
           "salary": 18.6,
-          "G": 6,
-          "MP": 209,
-          "FP": 248.25,
-          "FPPG": 41.38,
+          "G": 7,
+          "MP": 211,
+          "FP": 248.5,
+          "FPPG": 35.5,
           "active": true,
           "TD": 0
         },
@@ -1019,8 +1019,8 @@
     {
       "owner": "Vincent",
       "FP": 1559.25,
-      "G": 41,
-      "MP": 1304,
+      "G": 42,
+      "MP": 1306,
       "playersLeft": 7,
       "salaryLeftPct": 0.8568,
       "salaryLeft": 85.66,
@@ -1032,10 +1032,10 @@
           "team": "BOS",
           "position": "G",
           "salary": 14.45,
-          "G": 6,
-          "MP": 206,
+          "G": 7,
+          "MP": 208,
           "FP": 143.25,
-          "FPPG": 23.88,
+          "FPPG": 20.46,
           "active": true,
           "TD": 0
         },
@@ -1164,8 +1164,8 @@
     {
       "owner": "Garrett M",
       "FP": 1528.0,
-      "G": 46,
-      "MP": 1413,
+      "G": 47,
+      "MP": 1415,
       "playersLeft": 7,
       "salaryLeftPct": 0.7558,
       "salaryLeft": 75.4,
@@ -1177,10 +1177,10 @@
           "team": "BOS",
           "position": "G",
           "salary": 14.45,
-          "G": 6,
-          "MP": 206,
+          "G": 7,
+          "MP": 208,
           "FP": 143.25,
-          "FPPG": 23.88,
+          "FPPG": 20.46,
           "active": true,
           "TD": 0
         },
@@ -1593,14 +1593,14 @@
         }
       ],
       "rank": 11,
-      "prevRank": 12,
-      "rankDelta": 1
+      "prevRank": 11,
+      "rankDelta": 0
     },
     {
       "owner": "Noah",
       "FP": 1353.25,
-      "G": 45,
-      "MP": 1251,
+      "G": 46,
+      "MP": 1253,
       "playersLeft": 9,
       "salaryLeftPct": 0.9953,
       "salaryLeft": 99.49,
@@ -1729,17 +1729,17 @@
           "team": "BOS",
           "position": "C",
           "salary": 6.74,
-          "G": 6,
-          "MP": 51,
+          "G": 7,
+          "MP": 53,
           "FP": 61.5,
-          "FPPG": 10.25,
+          "FPPG": 8.79,
           "active": true,
           "TD": 0
         }
       ],
       "rank": 12,
-      "prevRank": 11,
-      "rankDelta": -1
+      "prevRank": 12,
+      "rankDelta": 0
     },
     {
       "owner": "Sivaji",
