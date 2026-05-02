@@ -7,12 +7,12 @@
         "TOR"
       ],
       "scores": [
-        102,
+        104,
         104
       ],
       "status": "live",
       "gameId": "0042500136",
-      "clock": "PT00M15.60S",
+      "clock": "PT00M11.60S",
       "period": 4
     },
     {
@@ -21,12 +21,12 @@
         "HOU"
       ],
       "scores": [
-        20,
-        16
+        23,
+        17
       ],
       "status": "live",
       "gameId": "0042500176",
-      "clock": "PT02M50.00S",
+      "clock": "PT02M18.00S",
       "period": 1
     },
     {
