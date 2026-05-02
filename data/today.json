@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "TOR"
       ],
       "scores": [
-        16,
-        15
+        26,
+        22
       ],
       "status": "live",
       "gameId": "0042500136",
-      "clock": "PT06M08.00S",
+      "clock": "PT03M39.00S",
       "period": 1
     },
     {
@@ -21,12 +21,12 @@
         "ORL"
       ],
       "scores": [
-        34,
-        47
+        38,
+        54
       ],
       "status": "live",
       "gameId": "0042500106",
-      "clock": "PT04M52.00S",
+      "clock": "PT02M31.00S",
       "period": 2
     },
     {
