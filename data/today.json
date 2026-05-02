@@ -7,13 +7,13 @@
         "TOR"
       ],
       "scores": [
-        81,
-        92
+        85,
+        94
       ],
       "status": "live",
       "gameId": "0042500136",
-      "clock": "PT00M00.00S",
-      "period": 3
+      "clock": "PT09M52.00S",
+      "period": 4
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "ORL"
       ],
       "scores": [
-        91,
-        77
+        93,
+        79
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500106",
-      "clock": "PT01M34.00S",
+      "clock": "PT00M00.00S",
       "period": 4
     },
     {
