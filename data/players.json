@@ -8786,9 +8786,9 @@
       ]
     },
     {
-      "name": "Tolu Smith",
+      "name": "Caleb Houstan",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8803,12 +8803,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
-        "Sivaji"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -8840,9 +8840,9 @@
       "gameLog": []
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8857,12 +8857,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": false,
+      "active": true,
       "ownedBy": [
-        "Vincent"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
