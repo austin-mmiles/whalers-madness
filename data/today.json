@@ -7,7 +7,7 @@
         "TOR"
       ],
       "scores": [
-        60,
+        61,
         71
       ],
       "status": "live",
@@ -21,12 +21,12 @@
         "ORL"
       ],
       "scores": [
-        68,
+        74,
         72
       ],
       "status": "live",
       "gameId": "0042500106",
-      "clock": "PT08M19.00S",
+      "clock": "PT06M04.00S",
       "period": 4
     },
     {
