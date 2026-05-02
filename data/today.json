@@ -3,30 +3,16 @@
   "games": [
     {
       "teams": [
-        "CLE",
-        "TOR"
-      ],
-      "scores": [
-        110,
-        112
-      ],
-      "status": "live",
-      "gameId": "0042500136",
-      "clock": "PT00M00.00S",
-      "period": 5
-    },
-    {
-      "teams": [
         "LAL",
         "HOU"
       ],
       "scores": [
         38,
-        19
+        25
       ],
       "status": "live",
       "gameId": "0042500176",
-      "clock": "PT07M50.00S",
+      "clock": "PT06M07.00S",
       "period": 2
     },
     {
@@ -42,6 +28,20 @@
       "gameId": "0042500106",
       "clock": "",
       "period": 4
+    },
+    {
+      "teams": [
+        "CLE",
+        "TOR"
+      ],
+      "scores": [
+        110,
+        112
+      ],
+      "status": "final",
+      "gameId": "0042500136",
+      "clock": "",
+      "period": 5
     }
   ]
 }
