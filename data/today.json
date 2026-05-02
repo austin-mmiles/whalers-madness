@@ -12,8 +12,8 @@
       ],
       "status": "live",
       "gameId": "0042500136",
-      "clock": "PT00M11.60S",
-      "period": 4
+      "clock": "PT04M30.00S",
+      "period": 5
     },
     {
       "teams": [
@@ -22,11 +22,11 @@
       ],
       "scores": [
         23,
-        17
+        18
       ],
       "status": "live",
       "gameId": "0042500176",
-      "clock": "PT02M18.00S",
+      "clock": "PT00M00.00S",
       "period": 1
     },
     {
