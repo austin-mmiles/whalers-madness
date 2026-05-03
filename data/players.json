@@ -268,17 +268,17 @@
       "team": "PHI",
       "G": 7,
       "MP": 286,
-      "PTS": 186,
+      "PTS": 188,
       "ORB": 3,
-      "DRB": 29,
-      "TRB": 32,
+      "DRB": 31,
+      "TRB": 34,
       "AST": 46,
       "STL": 7,
       "BLK": 4,
       "TOV": 9,
       "TD": 0,
-      "FP": 346.0,
-      "FPPG": 49.43,
+      "FP": 350.5,
+      "FPPG": 50.07,
       "MPPG": 40.9,
       "active": true,
       "ownedBy": [
@@ -286,7 +286,7 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.52,
-      "FPperDollar": 40.6103,
+      "FPperDollar": 41.1385,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -395,17 +395,17 @@
           "team": "PHI",
           "opp": "BOS",
           "home": false,
-          "MP": 44.9,
-          "PTS": 28,
+          "MP": 45.2,
+          "PTS": 30,
           "ORB": 0,
-          "DRB": 9,
-          "TRB": 9,
+          "DRB": 11,
+          "TRB": 11,
           "AST": 7,
           "STL": 0,
           "BLK": 0,
           "TOV": 1,
           "TD": 0,
-          "FP": 52.75
+          "FP": 57.25
         }
       ]
     },
@@ -1206,7 +1206,7 @@
       "pos": "F",
       "team": "BOS",
       "G": 7,
-      "MP": 248,
+      "MP": 249,
       "PTS": 180,
       "ORB": 11,
       "DRB": 29,
@@ -1218,7 +1218,7 @@
       "TD": 0,
       "FP": 307.0,
       "FPPG": 43.86,
-      "MPPG": 35.4,
+      "MPPG": 35.6,
       "active": true,
       "ownedBy": [
         "Garrett T"
@@ -1334,7 +1334,7 @@
           "team": "BOS",
           "opp": "PHI",
           "home": true,
-          "MP": 39.7,
+          "MP": 40.0,
           "PTS": 33,
           "ORB": 1,
           "DRB": 8,
@@ -2366,8 +2366,8 @@
       "pos": "G",
       "team": "BOS",
       "G": 7,
-      "MP": 230,
-      "PTS": 100,
+      "MP": 231,
+      "PTS": 102,
       "ORB": 9,
       "DRB": 17,
       "TRB": 26,
@@ -2376,9 +2376,9 @@
       "BLK": 0,
       "TOV": 5,
       "TD": 0,
-      "FP": 215.5,
-      "FPPG": 30.79,
-      "MPPG": 32.9,
+      "FP": 217.5,
+      "FPPG": 31.07,
+      "MPPG": 33.0,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -2386,7 +2386,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 12.77,
-      "FPperDollar": 16.8755,
+      "FPperDollar": 17.0321,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -2495,8 +2495,8 @@
           "team": "BOS",
           "opp": "PHI",
           "home": true,
-          "MP": 39.0,
-          "PTS": 11,
+          "MP": 39.4,
+          "PTS": 13,
           "ORB": 2,
           "DRB": 3,
           "TRB": 5,
@@ -2505,7 +2505,7 @@
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 35.25
+          "FP": 37.25
         }
       ]
     },
@@ -3246,7 +3246,7 @@
           "team": "BOS",
           "opp": "PHI",
           "home": true,
-          "MP": 45.0,
+          "MP": 45.4,
           "PTS": 26,
           "ORB": 2,
           "DRB": 4,
@@ -4131,7 +4131,7 @@
           "team": "BOS",
           "opp": "PHI",
           "home": true,
-          "MP": 32.3,
+          "MP": 32.6,
           "PTS": 17,
           "ORB": 1,
           "DRB": 11,
@@ -6452,7 +6452,7 @@
           "team": "BOS",
           "opp": "PHI",
           "home": true,
-          "MP": 29.5,
+          "MP": 29.8,
           "PTS": 11,
           "ORB": 1,
           "DRB": 2,
@@ -8905,9 +8905,9 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8922,12 +8922,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": false,
+      "active": true,
       "ownedBy": [
-        "Noah"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -8959,9 +8959,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -8976,12 +8976,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
-        "Sivaji"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
