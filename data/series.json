@@ -4,6 +4,24 @@
     {
       "round": "First Round",
       "teams": [
+        "BOS",
+        "PHI"
+      ],
+      "leader": "PHI",
+      "trailer": "BOS",
+      "wins": [
+        3,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "PHI",
+      "seriesText": "PHI wins 4-3",
+      "gamesPlayed": 7
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "ATL",
         "NYK"
       ],
@@ -117,24 +135,6 @@
       ],
       "leader": "DET",
       "trailer": "ORL",
-      "wins": [
-        3,
-        3
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 3-3",
-      "gamesPlayed": 6
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "BOS",
-        "PHI"
-      ],
-      "leader": "BOS",
-      "trailer": "PHI",
       "wins": [
         3,
         3
