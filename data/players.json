@@ -415,7 +415,7 @@
       "pos": "F",
       "team": "ORL",
       "G": 7,
-      "MP": 246,
+      "MP": 247,
       "PTS": 165,
       "ORB": 7,
       "DRB": 52,
@@ -427,7 +427,7 @@
       "TD": 0,
       "FP": 351.75,
       "FPPG": 50.25,
-      "MPPG": 35.1,
+      "MPPG": 35.3,
       "active": true,
       "ownedBy": [
         "Vincent"
@@ -543,7 +543,7 @@
           "team": "ORL",
           "opp": "DET",
           "home": false,
-          "MP": 14.7,
+          "MP": 15.4,
           "PTS": 19,
           "ORB": 0,
           "DRB": 5,
@@ -1911,19 +1911,19 @@
       "pos": "F",
       "team": "DET",
       "G": 7,
-      "MP": 223,
+      "MP": 224,
       "PTS": 127,
       "ORB": 6,
       "DRB": 45,
       "TRB": 51,
       "AST": 7,
       "STL": 8,
-      "BLK": 5,
+      "BLK": 6,
       "TOV": 7,
       "TD": 0,
-      "FP": 240.75,
-      "FPPG": 34.39,
-      "MPPG": 31.9,
+      "FP": 243.25,
+      "FPPG": 34.75,
+      "MPPG": 32.0,
       "active": true,
       "ownedBy": [
         "Jameson",
@@ -1931,7 +1931,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 8.25,
-      "FPperDollar": 29.1818,
+      "FPperDollar": 29.4848,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -2040,17 +2040,17 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 11.9,
+          "MP": 12.7,
           "PTS": 6,
           "ORB": 0,
           "DRB": 3,
           "TRB": 3,
           "AST": 0,
           "STL": 0,
-          "BLK": 0,
+          "BLK": 1,
           "TOV": 0,
           "TD": 0,
-          "FP": 9.75
+          "FP": 12.25
         }
       ]
     },
@@ -5363,10 +5363,10 @@
       "AST": 15,
       "STL": 4,
       "BLK": 2,
-      "TOV": 8,
+      "TOV": 7,
       "TD": 0,
-      "FP": 135.0,
-      "FPPG": 19.29,
+      "FP": 135.5,
+      "FPPG": 19.36,
       "MPPG": 27.3,
       "active": true,
       "ownedBy": [
@@ -5374,7 +5374,7 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.43,
-      "FPperDollar": 20.9953,
+      "FPperDollar": 21.0731,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -5483,7 +5483,7 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 14.4,
+          "MP": 15.2,
           "PTS": 3,
           "ORB": 1,
           "DRB": 4,
@@ -5491,9 +5491,9 @@
           "AST": 1,
           "STL": 1,
           "BLK": 0,
-          "TOV": 1,
+          "TOV": 0,
           "TD": 0,
-          "FP": 14.25
+          "FP": 14.75
         }
       ]
     },
@@ -7174,7 +7174,7 @@
       "pos": "G",
       "team": "DET",
       "G": 7,
-      "MP": 97,
+      "MP": 98,
       "PTS": 34,
       "ORB": 3,
       "DRB": 7,
@@ -7186,7 +7186,7 @@
       "TD": 0,
       "FP": 87.5,
       "FPPG": 12.5,
-      "MPPG": 13.9,
+      "MPPG": 14.0,
       "active": true,
       "ownedBy": [
         "John"
@@ -7302,7 +7302,7 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 8.0,
+          "MP": 8.7,
           "PTS": 3,
           "ORB": 0,
           "DRB": 1,
@@ -9024,9 +9024,9 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Tolu Smith",
       "pos": "F",
-      "team": "ATL",
+      "team": "DET",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -9041,12 +9041,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": false,
+      "active": true,
       "ownedBy": [
-        "Noah"
+        "Sivaji"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 3.31,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -9078,9 +9078,9 @@
       "gameLog": []
     },
     {
-      "name": "Tolu Smith",
+      "name": "Jacob Toppin",
       "pos": "F",
-      "team": "DET",
+      "team": "ATL",
       "G": 0,
       "MP": 0,
       "PTS": 0,
@@ -9095,12 +9095,12 @@
       "FP": 0.0,
       "FPPG": 0.0,
       "MPPG": 0.0,
-      "active": true,
+      "active": false,
       "ownedBy": [
-        "Sivaji"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 3.31,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
