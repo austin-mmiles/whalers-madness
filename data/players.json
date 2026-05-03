@@ -708,9 +708,9 @@
       "name": "Scottie Barnes",
       "pos": "F",
       "team": "TOR",
-      "G": 6,
-      "MP": 236,
-      "PTS": 145,
+      "G": 7,
+      "MP": 237,
+      "PTS": 150,
       "ORB": 10,
       "DRB": 24,
       "TRB": 34,
@@ -719,9 +719,9 @@
       "BLK": 11,
       "TOV": 21,
       "TD": 0,
-      "FP": 341.5,
-      "FPPG": 56.92,
-      "MPPG": 39.3,
+      "FP": 346.5,
+      "FPPG": 49.5,
+      "MPPG": 33.9,
       "active": true,
       "ownedBy": [
         "Garrett T",
@@ -730,7 +730,7 @@
       ],
       "ownership": 0.21428571428571427,
       "salary": 7.03,
-      "FPperDollar": 48.5775,
+      "FPperDollar": 49.2888,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -833,6 +833,23 @@
           "TOV": 3,
           "TD": 0,
           "FP": 77.75
+        },
+        {
+          "date": "2026-05-03",
+          "team": "TOR",
+          "opp": "CLE",
+          "home": false,
+          "MP": 1.5,
+          "PTS": 5,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 5.0
         }
       ]
     },
@@ -2205,8 +2222,8 @@
       "name": "Donovan Mitchell",
       "pos": "G",
       "team": "CLE",
-      "G": 6,
-      "MP": 210,
+      "G": 7,
+      "MP": 212,
       "PTS": 140,
       "ORB": 5,
       "DRB": 26,
@@ -2217,8 +2234,8 @@
       "TOV": 17,
       "TD": 0,
       "FP": 232.75,
-      "FPPG": 38.79,
-      "MPPG": 35.0,
+      "FPPG": 33.25,
+      "MPPG": 30.3,
       "active": true,
       "ownedBy": [
         "Eric",
@@ -2329,6 +2346,23 @@
           "TOV": 3,
           "TD": 0,
           "FP": 35.25
+        },
+        {
+          "date": "2026-05-03",
+          "team": "CLE",
+          "opp": "TOR",
+          "home": true,
+          "MP": 1.5,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -5501,8 +5535,8 @@
       "name": "Jakob Poeltl",
       "pos": "C",
       "team": "TOR",
-      "G": 6,
-      "MP": 112,
+      "G": 7,
+      "MP": 113,
       "PTS": 40,
       "ORB": 10,
       "DRB": 25,
@@ -5510,18 +5544,18 @@
       "AST": 10,
       "STL": 4,
       "BLK": 6,
-      "TOV": 4,
+      "TOV": 5,
       "TD": 0,
-      "FP": 133.75,
-      "FPPG": 22.29,
-      "MPPG": 18.7,
+      "FP": 133.25,
+      "FPPG": 19.04,
+      "MPPG": 16.1,
       "active": true,
       "ownedBy": [
         "Eric"
       ],
       "ownership": 0.07142857142857142,
       "salary": 4.28,
-      "FPperDollar": 31.25,
+      "FPperDollar": 31.1332,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -5624,6 +5658,23 @@
           "TOV": 0,
           "TD": 0,
           "FP": 18.5
+        },
+        {
+          "date": "2026-05-03",
+          "team": "TOR",
+          "opp": "CLE",
+          "home": false,
+          "MP": 1.5,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 1,
+          "TD": 0,
+          "FP": -0.5
         }
       ]
     },
@@ -9024,6 +9075,33 @@
       ]
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -9094,33 +9172,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Jeff Green",
