@@ -414,7 +414,7 @@
       "pos": "G",
       "team": "DET",
       "G": 7,
-      "MP": 252,
+      "MP": 254,
       "PTS": 200,
       "ORB": 6,
       "DRB": 33,
@@ -426,7 +426,7 @@
       "TD": 0,
       "FP": 342.75,
       "FPPG": 48.96,
-      "MPPG": 36.0,
+      "MPPG": 36.3,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -543,7 +543,7 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 8.5,
+          "MP": 10.2,
           "PTS": 5,
           "ORB": 0,
           "DRB": 0,
@@ -694,26 +694,26 @@
       "pos": "F",
       "team": "ORL",
       "G": 7,
-      "MP": 238,
+      "MP": 240,
       "PTS": 157,
       "ORB": 7,
-      "DRB": 48,
-      "TRB": 55,
+      "DRB": 50,
+      "TRB": 57,
       "AST": 39,
       "STL": 10,
       "BLK": 4,
       "TOV": 20,
       "TD": 0,
-      "FP": 337.25,
-      "FPPG": 48.18,
-      "MPPG": 34.0,
+      "FP": 339.75,
+      "FPPG": 48.54,
+      "MPPG": 34.3,
       "active": true,
       "ownedBy": [
         "Vincent"
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.41,
-      "FPperDollar": 52.6131,
+      "FPperDollar": 53.0031,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -822,17 +822,17 @@
           "team": "ORL",
           "opp": "DET",
           "home": false,
-          "MP": 7.2,
+          "MP": 8.9,
           "PTS": 11,
           "ORB": 0,
-          "DRB": 1,
-          "TRB": 1,
+          "DRB": 3,
+          "TRB": 3,
           "AST": 1,
           "STL": 0,
           "BLK": 0,
           "TOV": 1,
           "TD": 0,
-          "FP": 13.75
+          "FP": 16.25
         }
       ]
     },
@@ -5485,26 +5485,26 @@
       "pos": "F",
       "team": "DET",
       "G": 7,
-      "MP": 185,
+      "MP": 186,
       "PTS": 65,
       "ORB": 4,
-      "DRB": 15,
-      "TRB": 19,
+      "DRB": 16,
+      "TRB": 20,
       "AST": 14,
-      "STL": 3,
+      "STL": 4,
       "BLK": 2,
       "TOV": 7,
       "TD": 0,
-      "FP": 129.25,
-      "FPPG": 18.46,
-      "MPPG": 26.4,
+      "FP": 133.5,
+      "FPPG": 19.07,
+      "MPPG": 26.6,
       "active": true,
       "ownedBy": [
         "Taiga"
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.43,
-      "FPperDollar": 20.1011,
+      "FPperDollar": 20.7621,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -5613,17 +5613,17 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 8.4,
+          "MP": 10.1,
           "PTS": 3,
           "ORB": 1,
-          "DRB": 3,
-          "TRB": 4,
+          "DRB": 4,
+          "TRB": 5,
           "AST": 0,
-          "STL": 0,
+          "STL": 1,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 8.5
+          "FP": 12.75
         }
       ]
     },
@@ -7548,7 +7548,7 @@
       "pos": "G",
       "team": "DET",
       "G": 7,
-      "MP": 94,
+      "MP": 95,
       "PTS": 34,
       "ORB": 3,
       "DRB": 7,
@@ -7560,7 +7560,7 @@
       "TD": 0,
       "FP": 83.0,
       "FPPG": 11.86,
-      "MPPG": 13.4,
+      "MPPG": 13.6,
       "active": true,
       "ownedBy": [
         "John"
@@ -7676,7 +7676,7 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 4.6,
+          "MP": 6.3,
           "PTS": 3,
           "ORB": 0,
           "DRB": 1,
@@ -9024,7 +9024,7 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -9043,10 +9043,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Vincent"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -9078,7 +9078,7 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -9097,10 +9097,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Noah"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
