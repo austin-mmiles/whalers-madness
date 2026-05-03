@@ -285,8 +285,8 @@
       "pos": "F",
       "team": "ORL",
       "G": 7,
-      "MP": 272,
-      "PTS": 182,
+      "MP": 273,
+      "PTS": 184,
       "ORB": 9,
       "DRB": 54,
       "TRB": 63,
@@ -295,16 +295,16 @@
       "BLK": 5,
       "TOV": 24,
       "TD": 0,
-      "FP": 383.75,
-      "FPPG": 54.82,
-      "MPPG": 38.9,
+      "FP": 385.75,
+      "FPPG": 55.11,
+      "MPPG": 39.0,
       "active": true,
       "ownedBy": [
         "Vincent"
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.41,
-      "FPperDollar": 59.8674,
+      "FPperDollar": 60.1794,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -413,8 +413,8 @@
           "team": "ORL",
           "opp": "DET",
           "home": false,
-          "MP": 40.7,
-          "PTS": 36,
+          "MP": 41.9,
+          "PTS": 38,
           "ORB": 2,
           "DRB": 7,
           "TRB": 9,
@@ -423,7 +423,7 @@
           "BLK": 1,
           "TOV": 5,
           "TD": 0,
-          "FP": 60.25
+          "FP": 62.25
         }
       ]
     },
@@ -2059,7 +2059,7 @@
       "pos": "G",
       "team": "ORL",
       "G": 7,
-      "MP": 252,
+      "MP": 253,
       "PTS": 127,
       "ORB": 10,
       "DRB": 23,
@@ -2071,7 +2071,7 @@
       "TD": 0,
       "FP": 237.75,
       "FPPG": 33.96,
-      "MPPG": 36.0,
+      "MPPG": 36.1,
       "active": true,
       "ownedBy": [
         "Austin"
@@ -2187,7 +2187,7 @@
           "team": "ORL",
           "opp": "DET",
           "home": false,
-          "MP": 37.0,
+          "MP": 38.2,
           "PTS": 16,
           "ORB": 0,
           "DRB": 3,
@@ -6831,7 +6831,7 @@
           "team": "DET",
           "opp": "ORL",
           "home": true,
-          "MP": 28.7,
+          "MP": 28.9,
           "PTS": 16,
           "ORB": 0,
           "DRB": 3,
@@ -9024,51 +9024,6 @@
       ]
     },
     {
-      "name": "Tolu Smith",
-      "pos": "F",
-      "team": "DET",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": true,
-      "ownedBy": [
-        "Sivaji"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 3.31,
-      "FPperDollar": 0.0,
-      "gameLog": [
-        {
-          "date": "2026-05-03",
-          "team": "DET",
-          "opp": "ORL",
-          "home": true,
-          "MP": 0.0,
-          "PTS": 0,
-          "ORB": 0,
-          "DRB": 0,
-          "TRB": 0,
-          "AST": 0,
-          "STL": 0,
-          "BLK": 0,
-          "TOV": 0,
-          "TD": 0,
-          "FP": 0.0
-        }
-      ]
-    },
-    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -9094,6 +9049,51 @@
       "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
+    },
+    {
+      "name": "Tolu Smith",
+      "pos": "F",
+      "team": "DET",
+      "G": 1,
+      "MP": 1,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 1.0,
+      "active": true,
+      "ownedBy": [
+        "Sivaji"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 3.31,
+      "FPperDollar": 0.0,
+      "gameLog": [
+        {
+          "date": "2026-05-03",
+          "team": "DET",
+          "opp": "ORL",
+          "home": true,
+          "MP": 1.2,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
+        }
+      ]
     },
     {
       "name": "Jacob Toppin",
