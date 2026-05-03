@@ -4,6 +4,24 @@
     {
       "round": "First Round",
       "teams": [
+        "DET",
+        "ORL"
+      ],
+      "leader": "DET",
+      "trailer": "ORL",
+      "wins": [
+        4,
+        3
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "DET",
+      "seriesText": "DET wins 4-3",
+      "gamesPlayed": 7
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "BOS",
         "PHI"
       ],
@@ -117,24 +135,6 @@
       ],
       "leader": "CLE",
       "trailer": "TOR",
-      "wins": [
-        3,
-        3
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 3-3",
-      "gamesPlayed": 6
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "DET",
-        "ORL"
-      ],
-      "leader": "DET",
-      "trailer": "ORL",
       "wins": [
         3,
         3
