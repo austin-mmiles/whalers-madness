@@ -692,7 +692,7 @@
           "team": "TOR",
           "opp": "CLE",
           "home": false,
-          "MP": 4.3,
+          "MP": 4.7,
           "PTS": 5,
           "ORB": 0,
           "DRB": 0,
@@ -2352,7 +2352,7 @@
           "team": "CLE",
           "opp": "TOR",
           "home": true,
-          "MP": 4.3,
+          "MP": 4.7,
           "PTS": 0,
           "ORB": 1,
           "DRB": 0,
@@ -5536,7 +5536,7 @@
       "pos": "C",
       "team": "TOR",
       "G": 7,
-      "MP": 116,
+      "MP": 117,
       "PTS": 40,
       "ORB": 10,
       "DRB": 26,
@@ -5548,7 +5548,7 @@
       "TD": 0,
       "FP": 134.5,
       "FPPG": 19.21,
-      "MPPG": 16.6,
+      "MPPG": 16.7,
       "active": true,
       "ownedBy": [
         "Eric"
@@ -5664,7 +5664,7 @@
           "team": "TOR",
           "opp": "CLE",
           "home": false,
-          "MP": 4.3,
+          "MP": 4.7,
           "PTS": 0,
           "ORB": 0,
           "DRB": 1,
@@ -9102,33 +9102,6 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -9172,6 +9145,33 @@
           "FP": 0.0
         }
       ]
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
     },
     {
       "name": "Jeff Green",
