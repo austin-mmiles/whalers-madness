@@ -3,31 +3,25 @@
   "games": [
     {
       "teams": [
-        "ORL",
-        "DET"
+        "PHI",
+        "NYK"
       ],
-      "scores": [
-        94,
-        116
-      ],
-      "status": "final",
-      "gameId": "0042500107",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500211",
       "clock": "",
-      "period": 4
+      "period": 0
     },
     {
       "teams": [
-        "TOR",
-        "CLE"
+        "MIN",
+        "SAS"
       ],
-      "scores": [
-        102,
-        114
-      ],
-      "status": "final",
-      "gameId": "0042500137",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500231",
       "clock": "",
-      "period": 4
+      "period": 0
     }
   ]
 }
