@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "ORL",
-        "DET"
-      ],
-      "scores": [
-        94,
-        116
-      ],
-      "status": "final",
-      "gameId": "0042500107",
-      "clock": "",
-      "period": 4
-    },
-    {
-      "teams": [
         "TOR",
         "CLE"
       ],
@@ -26,7 +12,21 @@
       ],
       "status": "final",
       "gameId": "0042500137",
-      "clock": "",
+      "clock": "PT00M00.00S",
+      "period": 4
+    },
+    {
+      "teams": [
+        "ORL",
+        "DET"
+      ],
+      "scores": [
+        94,
+        116
+      ],
+      "status": "final",
+      "gameId": "0042500107",
+      "clock": "PT00M00.00S",
       "period": 4
     }
   ]
