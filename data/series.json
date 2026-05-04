@@ -4,6 +4,24 @@
     {
       "round": "First Round",
       "teams": [
+        "CLE",
+        "TOR"
+      ],
+      "leader": "CLE",
+      "trailer": "TOR",
+      "wins": [
+        4,
+        3
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "CLE",
+      "seriesText": "Series tied 3-3",
+      "gamesPlayed": 7
+    },
+    {
+      "round": "First Round",
+      "teams": [
         "DET",
         "ORL"
       ],
@@ -126,24 +144,6 @@
       "winner": "OKC",
       "seriesText": "OKC wins 4-0",
       "gamesPlayed": 4
-    },
-    {
-      "round": "First Round",
-      "teams": [
-        "CLE",
-        "TOR"
-      ],
-      "leader": "CLE",
-      "trailer": "TOR",
-      "wins": [
-        3,
-        3
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 3-3",
-      "gamesPlayed": 6
     }
   ]
 }
