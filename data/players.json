@@ -432,19 +432,19 @@
       "pos": "F",
       "team": "TOR",
       "G": 7,
-      "MP": 258,
+      "MP": 259,
       "PTS": 159,
       "ORB": 11,
-      "DRB": 27,
-      "TRB": 38,
-      "AST": 58,
+      "DRB": 28,
+      "TRB": 39,
+      "AST": 59,
       "STL": 8,
       "BLK": 11,
       "TOV": 23,
       "TD": 0,
-      "FP": 368.0,
-      "FPPG": 52.57,
-      "MPPG": 36.9,
+      "FP": 371.25,
+      "FPPG": 53.04,
+      "MPPG": 37.0,
       "active": true,
       "ownedBy": [
         "Garrett T",
@@ -453,7 +453,7 @@
       ],
       "ownership": 0.21428571428571427,
       "salary": 7.03,
-      "FPperDollar": 52.3471,
+      "FPperDollar": 52.8094,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -562,17 +562,17 @@
           "team": "TOR",
           "opp": "CLE",
           "home": false,
-          "MP": 22.3,
+          "MP": 23.2,
           "PTS": 14,
           "ORB": 1,
-          "DRB": 3,
-          "TRB": 4,
-          "AST": 4,
+          "DRB": 4,
+          "TRB": 5,
+          "AST": 5,
           "STL": 0,
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 26.5
+          "FP": 29.75
         }
       ]
     },
@@ -2205,7 +2205,7 @@
           "team": "CLE",
           "opp": "TOR",
           "home": true,
-          "MP": 22.8,
+          "MP": 22.9,
           "PTS": 14,
           "ORB": 2,
           "DRB": 0,
@@ -9092,33 +9092,6 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -9189,6 +9162,33 @@
           "FP": 0.0
         }
       ]
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
     },
     {
       "name": "Jeff Green",
