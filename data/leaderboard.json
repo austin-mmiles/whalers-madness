@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Mitchell",
-      "FP": 2182.5,
+      "FP": 2180.5,
       "G": 56,
       "MP": 1901,
       "playersLeft": 4,
@@ -32,8 +32,8 @@
           "salary": 15.23,
           "G": 7,
           "MP": 229,
-          "FP": 242.5,
-          "FPPG": 34.64,
+          "FP": 240.5,
+          "FPPG": 34.36,
           "active": true,
           "TD": 0
         },
@@ -293,7 +293,7 @@
     },
     {
       "owner": "Eric",
-      "FP": 2081.25,
+      "FP": 2079.25,
       "G": 55,
       "MP": 1779,
       "playersLeft": 4,
@@ -322,8 +322,8 @@
           "salary": 15.23,
           "G": 7,
           "MP": 229,
-          "FP": 242.5,
-          "FPPG": 34.64,
+          "FP": 240.5,
+          "FPPG": 34.36,
           "active": true,
           "TD": 0
         },

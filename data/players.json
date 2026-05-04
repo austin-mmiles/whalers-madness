@@ -2081,13 +2081,13 @@
       "ORB": 6,
       "DRB": 26,
       "TRB": 32,
-      "AST": 21,
+      "AST": 20,
       "STL": 5,
       "BLK": 2,
       "TOV": 19,
       "TD": 0,
-      "FP": 242.5,
-      "FPPG": 34.64,
+      "FP": 240.5,
+      "FPPG": 34.36,
       "MPPG": 32.7,
       "active": true,
       "ownedBy": [
@@ -2096,7 +2096,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.23,
-      "FPperDollar": 15.9225,
+      "FPperDollar": 15.7912,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -2210,12 +2210,12 @@
           "ORB": 1,
           "DRB": 0,
           "TRB": 1,
-          "AST": 1,
+          "AST": 0,
           "STL": 0,
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 9.75
+          "FP": 7.75
         }
       ]
     },
@@ -9119,6 +9119,33 @@
       "gameLog": []
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -9162,33 +9189,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Jeff Green",
