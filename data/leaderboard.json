@@ -295,7 +295,7 @@
       "owner": "Eric",
       "FP": 2118.75,
       "G": 56,
-      "MP": 1816,
+      "MP": 1817,
       "playersLeft": 3,
       "salaryLeftPct": 0.4074,
       "salaryLeft": 40.61,
@@ -334,7 +334,7 @@
           "position": "G",
           "salary": 8.52,
           "G": 8,
-          "MP": 295,
+          "MP": 296,
           "FP": 354.25,
           "FPPG": 44.28,
           "active": true,
@@ -1163,7 +1163,7 @@
     },
     {
       "owner": "Adam",
-      "FP": 1633.0,
+      "FP": 1634.25,
       "G": 57,
       "MP": 1592,
       "playersLeft": 7,
@@ -1296,8 +1296,8 @@
           "salary": 7.79,
           "G": 7,
           "MP": 87,
-          "FP": 112.0,
-          "FPPG": 16.0,
+          "FP": 113.25,
+          "FPPG": 16.18,
           "active": true,
           "TD": 0
         }
