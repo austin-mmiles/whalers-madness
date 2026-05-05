@@ -581,8 +581,8 @@
       "pos": "C",
       "team": "NYK",
       "G": 7,
-      "MP": 200,
-      "PTS": 117,
+      "MP": 202,
+      "PTS": 120,
       "ORB": 18,
       "DRB": 53,
       "TRB": 71,
@@ -591,16 +591,16 @@
       "BLK": 11,
       "TOV": 21,
       "TD": 2,
-      "FP": 373.25,
-      "FPPG": 53.32,
-      "MPPG": 28.6,
+      "FP": 376.25,
+      "FPPG": 53.75,
+      "MPPG": 28.9,
       "active": true,
       "ownedBy": [
         "Vincent"
       ],
       "ownership": 0.07142857142857142,
       "salary": 13.53,
-      "FPperDollar": 27.5868,
+      "FPperDollar": 27.8086,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -709,8 +709,8 @@
           "team": "NYK",
           "opp": "PHI",
           "home": true,
-          "MP": 8.4,
-          "PTS": 5,
+          "MP": 11.1,
+          "PTS": 8,
           "ORB": 1,
           "DRB": 2,
           "TRB": 3,
@@ -719,7 +719,7 @@
           "BLK": 1,
           "TOV": 2,
           "TD": 0,
-          "FP": 16.75
+          "FP": 19.75
         }
       ]
     },
@@ -728,8 +728,8 @@
       "pos": "G",
       "team": "PHI",
       "G": 8,
-      "MP": 298,
-      "PTS": 192,
+      "MP": 301,
+      "PTS": 196,
       "ORB": 4,
       "DRB": 33,
       "TRB": 37,
@@ -738,16 +738,16 @@
       "BLK": 4,
       "TOV": 11,
       "TD": 0,
-      "FP": 357.75,
-      "FPPG": 44.72,
-      "MPPG": 37.2,
+      "FP": 361.75,
+      "FPPG": 45.22,
+      "MPPG": 37.6,
       "active": true,
       "ownedBy": [
         "Eric"
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.52,
-      "FPperDollar": 41.9894,
+      "FPperDollar": 42.4589,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -873,8 +873,8 @@
           "team": "PHI",
           "opp": "NYK",
           "home": false,
-          "MP": 12.0,
-          "PTS": 4,
+          "MP": 14.7,
+          "PTS": 8,
           "ORB": 1,
           "DRB": 2,
           "TRB": 3,
@@ -883,7 +883,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 7.25
+          "FP": 11.25
         }
       ]
     },
@@ -1716,7 +1716,7 @@
       "pos": "G",
       "team": "NYK",
       "G": 7,
-      "MP": 221,
+      "MP": 222,
       "PTS": 172,
       "ORB": 2,
       "DRB": 14,
@@ -1728,7 +1728,7 @@
       "TD": 0,
       "FP": 281.5,
       "FPPG": 40.21,
-      "MPPG": 31.6,
+      "MPPG": 31.7,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -1846,7 +1846,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": true,
-          "MP": 12.0,
+          "MP": 12.7,
           "PTS": 14,
           "ORB": 0,
           "DRB": 1,
@@ -6429,7 +6429,7 @@
       "pos": "C",
       "team": "NYK",
       "G": 7,
-      "MP": 90,
+      "MP": 91,
       "PTS": 39,
       "ORB": 15,
       "DRB": 20,
@@ -6441,7 +6441,7 @@
       "TD": 0,
       "FP": 115.75,
       "FPPG": 16.54,
-      "MPPG": 12.9,
+      "MPPG": 13.0,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -6557,7 +6557,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": true,
-          "MP": 7.0,
+          "MP": 7.8,
           "PTS": 2,
           "ORB": 0,
           "DRB": 3,
@@ -6970,19 +6970,19 @@
       "pos": "F",
       "team": "NYK",
       "G": 7,
-      "MP": 173,
-      "PTS": 64,
+      "MP": 176,
+      "PTS": 66,
       "ORB": 1,
       "DRB": 11,
       "TRB": 12,
-      "AST": 10,
+      "AST": 11,
       "STL": 3,
       "BLK": 1,
       "TOV": 6,
       "TD": 0,
-      "FP": 108.0,
-      "FPPG": 15.43,
-      "MPPG": 24.7,
+      "FP": 112.0,
+      "FPPG": 16.0,
+      "MPPG": 25.1,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -6990,7 +6990,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 9.74,
-      "FPperDollar": 11.0883,
+      "FPperDollar": 11.499,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -7099,17 +7099,17 @@
           "team": "NYK",
           "opp": "PHI",
           "home": true,
-          "MP": 10.4,
-          "PTS": 4,
+          "MP": 13.1,
+          "PTS": 6,
           "ORB": 0,
           "DRB": 0,
           "TRB": 0,
-          "AST": 0,
+          "AST": 1,
           "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 4.0
+          "FP": 8.0
         }
       ]
     },
