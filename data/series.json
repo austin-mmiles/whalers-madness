@@ -144,6 +144,24 @@
       "winner": "OKC",
       "seriesText": "OKC wins 4-0",
       "gamesPlayed": 4
+    },
+    {
+      "round": "finals",
+      "teams": [
+        "NYK",
+        "PHI"
+      ],
+      "leader": "NYK",
+      "trailer": "PHI",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "NYK leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
