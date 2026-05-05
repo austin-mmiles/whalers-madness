@@ -162,6 +162,24 @@
       "winner": "",
       "seriesText": "NYK leads 1-0",
       "gamesPlayed": 1
+    },
+    {
+      "round": "finals",
+      "teams": [
+        "MIN",
+        "SAS"
+      ],
+      "leader": "MIN",
+      "trailer": "SAS",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "MIN leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
