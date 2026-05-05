@@ -151,9 +151,9 @@
       "FP": 2173.0,
       "G": 55,
       "MP": 1656,
-      "playersLeft": 4,
-      "salaryLeftPct": 0.3641,
-      "salaryLeft": 36.28,
+      "playersLeft": 5,
+      "salaryLeftPct": 0.4229,
+      "salaryLeft": 42.13,
       "salaryTotal": 99.63,
       "roster": [
         {
@@ -205,7 +205,7 @@
           "MP": 153,
           "FP": 146.75,
           "FPPG": 36.69,
-          "active": false,
+          "active": true,
           "TD": 0
         },
         {
@@ -731,9 +731,9 @@
       "FP": 1964.75,
       "G": 50,
       "MP": 1532,
-      "playersLeft": 5,
-      "salaryLeftPct": 0.542,
-      "salaryLeft": 54.12,
+      "playersLeft": 6,
+      "salaryLeftPct": 0.5822,
+      "salaryLeft": 58.13,
       "salaryTotal": 99.85,
       "roster": [
         {
@@ -759,7 +759,7 @@
           "MP": 114,
           "FP": 115.5,
           "FPPG": 28.88,
-          "active": false,
+          "active": true,
           "TD": 0
         },
         {
@@ -876,9 +876,9 @@
       "FP": 1861.75,
       "G": 47,
       "MP": 1503,
-      "playersLeft": 5,
-      "salaryLeftPct": 0.6481,
-      "salaryLeft": 64.8,
+      "playersLeft": 6,
+      "salaryLeftPct": 0.6885,
+      "salaryLeft": 68.84,
       "salaryTotal": 99.98,
       "roster": [
         {
@@ -930,7 +930,7 @@
           "MP": 151,
           "FP": 163.75,
           "FPPG": 40.94,
-          "active": false,
+          "active": true,
           "TD": 0
         },
         {
@@ -1311,9 +1311,9 @@
       "FP": 1676.75,
       "G": 58,
       "MP": 1637,
-      "playersLeft": 7,
-      "salaryLeftPct": 0.7416,
-      "salaryLeft": 74.0,
+      "playersLeft": 8,
+      "salaryLeftPct": 0.8003,
+      "salaryLeft": 79.85,
       "salaryTotal": 99.78,
       "roster": [
         {
@@ -1365,7 +1365,7 @@
           "MP": 153,
           "FP": 146.75,
           "FPPG": 36.69,
-          "active": false,
+          "active": true,
           "TD": 0
         },
         {

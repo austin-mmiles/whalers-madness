@@ -136,14 +136,14 @@
       "leader": "OKC",
       "trailer": "PHO",
       "wins": [
-        4,
+        3,
         0
       ],
-      "status": "defeated",
-      "over": true,
-      "winner": "OKC",
+      "status": "lead",
+      "over": false,
+      "winner": "",
       "seriesText": "OKC wins 4-0",
-      "gamesPlayed": 4
+      "gamesPlayed": 3
     },
     {
       "round": "finals",
