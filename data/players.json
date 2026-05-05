@@ -580,8 +580,8 @@
       "name": "Karl-Anthony Towns",
       "pos": "C",
       "team": "NYK",
-      "G": 6,
-      "MP": 191,
+      "G": 7,
+      "MP": 192,
       "PTS": 112,
       "ORB": 17,
       "DRB": 51,
@@ -592,8 +592,8 @@
       "TOV": 19,
       "TD": 2,
       "FP": 356.5,
-      "FPPG": 59.42,
-      "MPPG": 31.8,
+      "FPPG": 50.93,
+      "MPPG": 27.4,
       "active": true,
       "ownedBy": [
         "Vincent"
@@ -703,6 +703,23 @@
           "TOV": 3,
           "TD": 1,
           "FP": 74.5
+        },
+        {
+          "date": "2026-05-04",
+          "team": "NYK",
+          "opp": "PHI",
+          "home": true,
+          "MP": 0.5,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -710,27 +727,27 @@
       "name": "Tyrese Maxey",
       "pos": "G",
       "team": "PHI",
-      "G": 7,
-      "MP": 286,
+      "G": 8,
+      "MP": 287,
       "PTS": 188,
-      "ORB": 3,
+      "ORB": 4,
       "DRB": 31,
-      "TRB": 34,
+      "TRB": 35,
       "AST": 46,
       "STL": 7,
       "BLK": 4,
       "TOV": 9,
       "TD": 0,
-      "FP": 350.5,
-      "FPPG": 50.07,
-      "MPPG": 40.9,
+      "FP": 352.25,
+      "FPPG": 44.03,
+      "MPPG": 35.9,
       "active": true,
       "ownedBy": [
         "Eric"
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.52,
-      "FPperDollar": 41.1385,
+      "FPperDollar": 41.3439,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -850,6 +867,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 57.25
+        },
+        {
+          "date": "2026-05-04",
+          "team": "PHI",
+          "opp": "NYK",
+          "home": false,
+          "MP": 0.5,
+          "PTS": 0,
+          "ORB": 1,
+          "DRB": 0,
+          "TRB": 1,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 1.75
         }
       ]
     },
@@ -1812,8 +1846,8 @@
       "name": "Jalen Brunson",
       "pos": "G",
       "team": "NYK",
-      "G": 6,
-      "MP": 209,
+      "G": 7,
+      "MP": 210,
       "PTS": 158,
       "ORB": 2,
       "DRB": 13,
@@ -1824,8 +1858,8 @@
       "TOV": 15,
       "TD": 0,
       "FP": 262.25,
-      "FPPG": 43.71,
-      "MPPG": 34.8,
+      "FPPG": 37.46,
+      "MPPG": 30.0,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -1937,6 +1971,23 @@
           "TOV": 0,
           "TD": 0,
           "FP": 41.5
+        },
+        {
+          "date": "2026-05-04",
+          "team": "NYK",
+          "opp": "PHI",
+          "home": true,
+          "MP": 0.5,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -7178,7 +7229,7 @@
       "name": "Mikal Bridges",
       "pos": "F",
       "team": "NYK",
-      "G": 6,
+      "G": 7,
       "MP": 163,
       "PTS": 60,
       "ORB": 1,
@@ -7190,8 +7241,8 @@
       "TOV": 6,
       "TD": 0,
       "FP": 104.0,
-      "FPPG": 17.33,
-      "MPPG": 27.2,
+      "FPPG": 14.86,
+      "MPPG": 23.3,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -7302,6 +7353,23 @@
           "TOV": 0,
           "TD": 0,
           "FP": 39.25
+        },
+        {
+          "date": "2026-05-04",
+          "team": "NYK",
+          "opp": "PHI",
+          "home": true,
+          "MP": 0.5,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
