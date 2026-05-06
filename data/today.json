@@ -7,12 +7,12 @@
         "OKC"
       ],
       "scores": [
-        42,
-        52
+        46,
+        58
       ],
       "status": "live",
       "gameId": "0042500221",
-      "clock": "PT04M14.00S",
+      "clock": "PT01M50.00S",
       "period": 2
     },
     {
@@ -22,11 +22,11 @@
       ],
       "scores": [
         101,
-        109
+        111
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500201",
-      "clock": "PT00M26.00S",
+      "clock": "PT00M00.00S",
       "period": 4
     }
   ]
