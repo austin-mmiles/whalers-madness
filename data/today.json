@@ -8,12 +8,12 @@
       ],
       "scores": [
         26,
-        31
+        32
       ],
       "status": "live",
       "gameId": "0042500221",
-      "clock": "PT00M00.00S",
-      "period": 1
+      "clock": "PT11M05.00S",
+      "period": 2
     },
     {
       "teams": [
@@ -21,12 +21,12 @@
         "DET"
       ],
       "scores": [
-        82,
+        88,
         93
       ],
       "status": "live",
       "gameId": "0042500201",
-      "clock": "PT09M05.00S",
+      "clock": "PT06M32.00S",
       "period": 4
     }
   ]
