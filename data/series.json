@@ -180,6 +180,24 @@
       "winner": "",
       "seriesText": "MIN leads 1-0",
       "gamesPlayed": 1
+    },
+    {
+      "round": "finals",
+      "teams": [
+        "CLE",
+        "DET"
+      ],
+      "leader": "DET",
+      "trailer": "CLE",
+      "wins": [
+        0,
+        1
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "DET leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
