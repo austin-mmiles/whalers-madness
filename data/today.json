@@ -7,12 +7,12 @@
         "OKC"
       ],
       "scores": [
-        14,
-        14
+        16,
+        16
       ],
       "status": "live",
       "gameId": "0042500221",
-      "clock": "PT07M13.00S",
+      "clock": "PT06M56.00S",
       "period": 1
     },
     {
@@ -21,12 +21,12 @@
         "DET"
       ],
       "scores": [
-        67,
-        75
+        74,
+        77
       ],
       "status": "live",
       "gameId": "0042500201",
-      "clock": "PT03M10.00S",
+      "clock": "PT00M50.60S",
       "period": 3
     }
   ]
