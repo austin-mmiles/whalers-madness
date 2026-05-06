@@ -6,11 +6,14 @@
         "PHI",
         "NYK"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        4,
+        2
+      ],
+      "status": "live",
       "gameId": "0042500212",
-      "clock": "",
-      "period": 0
+      "clock": "PT10M51.00S",
+      "period": 1
     },
     {
       "teams": [
