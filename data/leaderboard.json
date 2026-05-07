@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Mitchell",
-      "FP": 2373.25,
+      "FP": 2374.25,
       "G": 60,
       "MP": 2058,
       "playersLeft": 3,
@@ -45,8 +45,8 @@
           "salary": 13.61,
           "G": 8,
           "MP": 260,
-          "FP": 335.0,
-          "FPPG": 41.88,
+          "FP": 336.0,
+          "FPPG": 42.0,
           "active": true,
           "TD": 0
         },
@@ -1308,7 +1308,7 @@
     },
     {
       "owner": "Garrett M",
-      "FP": 1783.0,
+      "FP": 1784.0,
       "G": 54,
       "MP": 1635,
       "playersLeft": 5,
@@ -1337,8 +1337,8 @@
           "salary": 13.61,
           "G": 8,
           "MP": 260,
-          "FP": 335.0,
-          "FPPG": 41.88,
+          "FP": 336.0,
+          "FPPG": 42.0,
           "active": true,
           "TD": 0
         },
@@ -1743,7 +1743,7 @@
     },
     {
       "owner": "Sivaji",
-      "FP": 1549.25,
+      "FP": 1550.25,
       "G": 42,
       "MP": 1224,
       "playersLeft": 7,
@@ -1772,8 +1772,8 @@
           "salary": 13.61,
           "G": 8,
           "MP": 260,
-          "FP": 335.0,
-          "FPPG": 41.88,
+          "FP": 336.0,
+          "FPPG": 42.0,
           "active": true,
           "TD": 0
         },
