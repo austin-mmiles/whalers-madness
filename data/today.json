@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "NYK"
       ],
       "scores": [
-        35,
-        33
+        43,
+        40
       ],
       "status": "live",
       "gameId": "0042500212",
-      "clock": "PT11M23.00S",
+      "clock": "PT09M06.00S",
       "period": 2
     },
     {
