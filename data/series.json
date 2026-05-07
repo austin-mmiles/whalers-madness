@@ -173,13 +173,13 @@
       "trailer": "SAS",
       "wins": [
         1,
-        0
+        1
       ],
-      "status": "lead",
+      "status": "vs",
       "over": false,
       "winner": "",
-      "seriesText": "MIN leads 1-0",
-      "gamesPlayed": 1
+      "seriesText": "Series tied 1-1",
+      "gamesPlayed": 2
     },
     {
       "round": "finals",
