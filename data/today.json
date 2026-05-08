@@ -20,11 +20,14 @@
         "LAL",
         "OKC"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        0,
+        7
+      ],
+      "status": "live",
       "gameId": "0042500222",
-      "clock": "",
-      "period": 0
+      "clock": "PT08M52.00S",
+      "period": 1
     }
   ]
 }
