@@ -209,13 +209,13 @@
       "trailer": "LAL",
       "wins": [
         0,
-        1
+        2
       ],
       "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "OKC leads 1-0",
-      "gamesPlayed": 1
+      "seriesText": "OKC leads 2-0",
+      "gamesPlayed": 2
     }
   ]
 }

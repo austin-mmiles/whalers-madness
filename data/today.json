@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "LAL",
-        "OKC"
-      ],
-      "scores": [
-        107,
-        125
-      ],
-      "status": "final",
-      "gameId": "0042500222",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "CLE",
         "DET"
       ],
@@ -26,6 +12,20 @@
       ],
       "status": "final",
       "gameId": "0042500202",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "LAL",
+        "OKC"
+      ],
+      "scores": [
+        107,
+        125
+      ],
+      "status": "final",
+      "gameId": "0042500222",
       "clock": "",
       "period": 4
     }
