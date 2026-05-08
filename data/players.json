@@ -548,7 +548,7 @@
           "team": "PHI",
           "opp": "NYK",
           "home": true,
-          "MP": 13.7,
+          "MP": 14.0,
           "PTS": 6,
           "ORB": 0,
           "DRB": 1,
@@ -5683,7 +5683,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": false,
-          "MP": 12.0,
+          "MP": 12.4,
           "PTS": 5,
           "ORB": 0,
           "DRB": 1,
@@ -7853,7 +7853,7 @@
       "pos": "C",
       "team": "NYK",
       "G": 8,
-      "MP": 100,
+      "MP": 101,
       "PTS": 39,
       "ORB": 16,
       "DRB": 23,
@@ -7865,7 +7865,7 @@
       "TD": 0,
       "FP": 121.25,
       "FPPG": 15.16,
-      "MPPG": 12.5,
+      "MPPG": 12.6,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -7998,7 +7998,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": false,
-          "MP": 5.5,
+          "MP": 5.8,
           "PTS": 0,
           "ORB": 1,
           "DRB": 2,
@@ -10401,33 +10401,6 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -10471,6 +10444,33 @@
           "FP": 0.0
         }
       ]
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
     },
     {
       "name": "Caleb Houstan",
