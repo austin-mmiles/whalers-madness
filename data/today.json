@@ -7,13 +7,13 @@
         "DET"
       ],
       "scores": [
-        71,
-        76
+        81,
+        79
       ],
       "status": "live",
       "gameId": "0042500202",
-      "clock": "PT00M40.60S",
-      "period": 3
+      "clock": "PT10M19.00S",
+      "period": 4
     },
     {
       "teams": [
