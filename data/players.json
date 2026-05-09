@@ -1529,7 +1529,7 @@
       "team": "SAS",
       "G": 7,
       "MP": 191,
-      "PTS": 128,
+      "PTS": 129,
       "ORB": 9,
       "DRB": 65,
       "TRB": 74,
@@ -1538,8 +1538,8 @@
       "BLK": 32,
       "TOV": 17,
       "TD": 1,
-      "FP": 358.25,
-      "FPPG": 51.18,
+      "FP": 359.25,
+      "FPPG": 51.32,
       "MPPG": 27.3,
       "active": true,
       "ownedBy": [
@@ -1552,7 +1552,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 21.33,
-      "FPperDollar": 16.7956,
+      "FPperDollar": 16.8425,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -1661,8 +1661,8 @@
           "team": "SAS",
           "opp": "MIN",
           "home": false,
-          "MP": 12.4,
-          "PTS": 14,
+          "MP": 12.8,
+          "PTS": 15,
           "ORB": 0,
           "DRB": 9,
           "TRB": 9,
@@ -1671,7 +1671,7 @@
           "BLK": 2,
           "TOV": 1,
           "TD": 0,
-          "FP": 29.75
+          "FP": 30.75
         }
       ]
     },
@@ -2718,26 +2718,26 @@
       "pos": "F",
       "team": "MIN",
       "G": 9,
-      "MP": 285,
+      "MP": 286,
       "PTS": 138,
-      "ORB": 21,
+      "ORB": 22,
       "DRB": 31,
-      "TRB": 52,
+      "TRB": 53,
       "AST": 23,
       "STL": 4,
       "BLK": 7,
       "TOV": 13,
       "TD": 0,
-      "FP": 282.5,
-      "FPPG": 31.39,
-      "MPPG": 31.7,
+      "FP": 284.25,
+      "FPPG": 31.58,
+      "MPPG": 31.8,
       "active": true,
       "ownedBy": [
         "Noah"
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.17,
-      "FPperDollar": 45.7861,
+      "FPperDollar": 46.0697,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -2880,17 +2880,17 @@
           "team": "MIN",
           "opp": "SAS",
           "home": true,
-          "MP": 13.4,
+          "MP": 13.8,
           "PTS": 3,
-          "ORB": 1,
+          "ORB": 2,
           "DRB": 2,
-          "TRB": 3,
+          "TRB": 4,
           "AST": 1,
           "STL": 0,
           "BLK": 1,
           "TOV": 0,
           "TD": 0,
-          "FP": 11.75
+          "FP": 13.5
         }
       ]
     },
@@ -2904,13 +2904,13 @@
       "ORB": 5,
       "DRB": 25,
       "TRB": 30,
-      "AST": 44,
+      "AST": 45,
       "STL": 6,
       "BLK": 2,
       "TOV": 23,
       "TD": 0,
-      "FP": 281.5,
-      "FPPG": 35.19,
+      "FP": 283.5,
+      "FPPG": 35.44,
       "MPPG": 28.9,
       "active": true,
       "ownedBy": [
@@ -2919,7 +2919,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.68,
-      "FPperDollar": 17.9528,
+      "FPperDollar": 18.0804,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -3045,17 +3045,17 @@
           "team": "SAS",
           "opp": "MIN",
           "home": false,
-          "MP": 14.2,
+          "MP": 14.6,
           "PTS": 5,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
-          "AST": 5,
+          "AST": 6,
           "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 16.25
+          "FP": 18.25
         }
       ]
     },
@@ -4553,7 +4553,7 @@
           "team": "MIN",
           "opp": "SAS",
           "home": true,
-          "MP": 11.3,
+          "MP": 11.7,
           "PTS": 7,
           "ORB": 2,
           "DRB": 3,
@@ -4580,10 +4580,10 @@
       "AST": 16,
       "STL": 1,
       "BLK": 6,
-      "TOV": 13,
+      "TOV": 14,
       "TD": 0,
-      "FP": 213.5,
-      "FPPG": 30.5,
+      "FP": 213.0,
+      "FPPG": 30.43,
       "MPPG": 26.3,
       "active": true,
       "ownedBy": [
@@ -4596,7 +4596,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 9.5,
-      "FPperDollar": 22.4737,
+      "FPperDollar": 22.4211,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -4713,9 +4713,9 @@
           "AST": 1,
           "STL": 0,
           "BLK": 0,
-          "TOV": 1,
+          "TOV": 2,
           "TD": 0,
-          "FP": 25.25
+          "FP": 24.75
         }
       ]
     },
@@ -5671,7 +5671,7 @@
           "team": "MIN",
           "opp": "SAS",
           "home": true,
-          "MP": 9.9,
+          "MP": 10.3,
           "PTS": 0,
           "ORB": 0,
           "DRB": 3,
@@ -10571,6 +10571,33 @@
       ]
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -10641,33 +10668,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Jeff Green",
