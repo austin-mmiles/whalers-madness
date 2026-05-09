@@ -369,7 +369,7 @@
       "pos": "G",
       "team": "PHI",
       "G": 10,
-      "MP": 393,
+      "MP": 394,
       "PTS": 239,
       "ORB": 4,
       "DRB": 38,
@@ -381,7 +381,7 @@
       "TD": 0,
       "FP": 438.0,
       "FPPG": 43.8,
-      "MPPG": 39.3,
+      "MPPG": 39.4,
       "active": true,
       "ownedBy": [
         "Eric"
@@ -548,7 +548,7 @@
           "team": "PHI",
           "opp": "NYK",
           "home": true,
-          "MP": 33.4,
+          "MP": 34.0,
           "PTS": 12,
           "ORB": 0,
           "DRB": 2,
@@ -1031,7 +1031,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": false,
-          "MP": 30.8,
+          "MP": 31.4,
           "PTS": 24,
           "ORB": 0,
           "DRB": 4,
@@ -4994,7 +4994,7 @@
       "pos": "F",
       "team": "NYK",
       "G": 9,
-      "MP": 256,
+      "MP": 257,
       "PTS": 112,
       "ORB": 3,
       "DRB": 17,
@@ -5006,7 +5006,7 @@
       "TD": 0,
       "FP": 192.5,
       "FPPG": 21.39,
-      "MPPG": 28.4,
+      "MPPG": 28.6,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -5157,7 +5157,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": false,
-          "MP": 29.5,
+          "MP": 30.1,
           "PTS": 17,
           "ORB": 0,
           "DRB": 1,
@@ -7333,7 +7333,7 @@
       "pos": "C",
       "team": "NYK",
       "G": 8,
-      "MP": 113,
+      "MP": 114,
       "PTS": 45,
       "ORB": 17,
       "DRB": 25,
@@ -7345,7 +7345,7 @@
       "TD": 0,
       "FP": 137.0,
       "FPPG": 17.12,
-      "MPPG": 14.1,
+      "MPPG": 14.2,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -7478,7 +7478,7 @@
           "team": "NYK",
           "opp": "PHI",
           "home": false,
-          "MP": 18.3,
+          "MP": 18.9,
           "PTS": 6,
           "ORB": 2,
           "DRB": 4,
@@ -10401,6 +10401,33 @@
       ]
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -10444,33 +10471,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Caleb Houstan",
