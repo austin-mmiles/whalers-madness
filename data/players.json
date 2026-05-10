@@ -403,8 +403,8 @@
       "pos": "G",
       "team": "PHI",
       "G": 11,
-      "MP": 436,
-      "PTS": 257,
+      "MP": 437,
+      "PTS": 261,
       "ORB": 4,
       "DRB": 40,
       "TRB": 44,
@@ -413,16 +413,16 @@
       "BLK": 4,
       "TOV": 23,
       "TD": 0,
-      "FP": 469.5,
-      "FPPG": 42.68,
-      "MPPG": 39.6,
+      "FP": 473.5,
+      "FPPG": 43.05,
+      "MPPG": 39.7,
       "active": true,
       "ownedBy": [
         "Eric"
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.52,
-      "FPperDollar": 55.1056,
+      "FPperDollar": 55.5751,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -599,8 +599,8 @@
           "team": "PHI",
           "opp": "NYK",
           "home": true,
-          "MP": 32.3,
-          "PTS": 13,
+          "MP": 33.0,
+          "PTS": 17,
           "ORB": 0,
           "DRB": 2,
           "TRB": 2,
@@ -609,7 +609,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 22.5
+          "FP": 26.5
         }
       ]
     },
