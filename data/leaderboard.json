@@ -873,9 +873,9 @@
     },
     {
       "owner": "Vincent",
-      "FP": 2326.0,
+      "FP": 2331.5,
       "G": 60,
-      "MP": 1852,
+      "MP": 1855,
       "playersLeft": 5,
       "salaryLeftPct": 0.6481,
       "salaryLeft": 64.8,
@@ -1005,9 +1005,9 @@
           "position": "C",
           "salary": 13.53,
           "G": 10,
-          "MP": 274,
-          "FP": 509.25,
-          "FPPG": 50.92,
+          "MP": 277,
+          "FP": 514.75,
+          "FPPG": 51.48,
           "active": true,
           "TD": 2
         }
