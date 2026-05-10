@@ -441,9 +441,9 @@
       "FP": 2520.5,
       "G": 65,
       "MP": 2164,
-      "playersLeft": 3,
-      "salaryLeftPct": 0.4074,
-      "salaryLeft": 40.61,
+      "playersLeft": 2,
+      "salaryLeftPct": 0.3219,
+      "salaryLeft": 32.09,
       "salaryTotal": 99.69,
       "roster": [
         {
@@ -482,7 +482,7 @@
           "MP": 437,
           "FP": 473.5,
           "FPPG": 43.05,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
