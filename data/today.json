@@ -7,13 +7,13 @@
         "MIN"
       ],
       "scores": [
-        56,
+        60,
         60
       ],
       "status": "live",
       "gameId": "0042500234",
-      "clock": "PT00M00.00S",
-      "period": 2
+      "clock": "PT10M35.00S",
+      "period": 3
     },
     {
       "teams": [
