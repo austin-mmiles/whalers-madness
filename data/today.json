@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "MIN"
       ],
       "scores": [
-        16,
-        12
+        18,
+        16
       ],
       "status": "live",
       "gameId": "0042500234",
-      "clock": "PT05M53.00S",
+      "clock": "PT04M08.00S",
       "period": 1
     },
     {
