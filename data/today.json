@@ -7,13 +7,13 @@
         "LAL"
       ],
       "scores": [
-        80,
-        84
+        82,
+        85
       ],
       "status": "live",
       "gameId": "0042500224",
-      "clock": "PT00M00.00S",
-      "period": 3
+      "clock": "PT10M06.00S",
+      "period": 4
     },
     {
       "teams": [
