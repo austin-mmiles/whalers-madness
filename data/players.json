@@ -635,8 +635,8 @@
       "pos": "F",
       "team": "LAL",
       "G": 10,
-      "MP": 359,
-      "PTS": 214,
+      "MP": 360,
+      "PTS": 216,
       "ORB": 4,
       "DRB": 57,
       "TRB": 61,
@@ -645,9 +645,9 @@
       "BLK": 3,
       "TOV": 36,
       "TD": 0,
-      "FP": 462.75,
-      "FPPG": 46.27,
-      "MPPG": 35.9,
+      "FP": 464.75,
+      "FPPG": 46.48,
+      "MPPG": 36.0,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -659,7 +659,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 7.03,
-      "FPperDollar": 65.825,
+      "FPperDollar": 66.1095,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -819,8 +819,8 @@
           "team": "LAL",
           "opp": "OKC",
           "home": true,
-          "MP": 15.8,
-          "PTS": 6,
+          "MP": 16.8,
+          "PTS": 8,
           "ORB": 0,
           "DRB": 6,
           "TRB": 6,
@@ -829,7 +829,7 @@
           "BLK": 1,
           "TOV": 2,
           "TD": 0,
-          "FP": 17.0
+          "FP": 19.0
         }
       ]
     },
@@ -2066,8 +2066,8 @@
       "pos": "G",
       "team": "OKC",
       "G": 8,
-      "MP": 252,
-      "PTS": 206,
+      "MP": 253,
+      "PTS": 208,
       "ORB": 5,
       "DRB": 19,
       "TRB": 24,
@@ -2076,9 +2076,9 @@
       "BLK": 7,
       "TOV": 22,
       "TD": 0,
-      "FP": 362.0,
-      "FPPG": 45.25,
-      "MPPG": 31.5,
+      "FP": 364.0,
+      "FPPG": 45.5,
+      "MPPG": 31.6,
       "active": true,
       "ownedBy": [
         "Ronnie",
@@ -2086,7 +2086,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 24.23,
-      "FPperDollar": 14.9402,
+      "FPperDollar": 15.0227,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -2212,8 +2212,8 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 12.7,
-          "PTS": 8,
+          "MP": 13.9,
+          "PTS": 10,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -2222,7 +2222,7 @@
           "BLK": 0,
           "TOV": 1,
           "TD": 0,
-          "FP": 12.75
+          "FP": 14.75
         }
       ]
     },
@@ -3386,7 +3386,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 12.5,
+          "MP": 12.8,
           "PTS": 0,
           "ORB": 0,
           "DRB": 4,
@@ -4083,7 +4083,7 @@
       "pos": "C",
       "team": "LAL",
       "G": 10,
-      "MP": 276,
+      "MP": 277,
       "PTS": 98,
       "ORB": 37,
       "DRB": 58,
@@ -4095,7 +4095,7 @@
       "TD": 0,
       "FP": 270.75,
       "FPPG": 27.07,
-      "MPPG": 27.6,
+      "MPPG": 27.7,
       "active": true,
       "ownedBy": [
         "Garrett T"
@@ -4262,7 +4262,7 @@
           "team": "LAL",
           "opp": "OKC",
           "home": true,
-          "MP": 12.7,
+          "MP": 13.1,
           "PTS": 4,
           "ORB": 1,
           "DRB": 1,
@@ -5268,7 +5268,7 @@
       "pos": "C",
       "team": "OKC",
       "G": 8,
-      "MP": 189,
+      "MP": 190,
       "PTS": 76,
       "ORB": 27,
       "DRB": 39,
@@ -5280,7 +5280,7 @@
       "TD": 0,
       "FP": 237.0,
       "FPPG": 29.62,
-      "MPPG": 23.6,
+      "MPPG": 23.8,
       "active": true,
       "ownedBy": [
         "Garrett M"
@@ -5413,7 +5413,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 12.6,
+          "MP": 13.5,
           "PTS": 2,
           "ORB": 1,
           "DRB": 5,
@@ -6925,7 +6925,7 @@
       "pos": "G",
       "team": "OKC",
       "G": 8,
-      "MP": 172,
+      "MP": 174,
       "PTS": 55,
       "ORB": 9,
       "DRB": 15,
@@ -6937,7 +6937,7 @@
       "TD": 0,
       "FP": 172.5,
       "FPPG": 21.56,
-      "MPPG": 21.5,
+      "MPPG": 21.8,
       "active": true,
       "ownedBy": [
         "Sivaji",
@@ -7071,7 +7071,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 7.2,
+          "MP": 8.4,
           "PTS": 0,
           "ORB": 0,
           "DRB": 2,
@@ -8284,19 +8284,19 @@
       "pos": "G",
       "team": "OKC",
       "G": 8,
-      "MP": 156,
+      "MP": 157,
       "PTS": 61,
       "ORB": 3,
       "DRB": 22,
       "TRB": 25,
       "AST": 12,
-      "STL": 10,
+      "STL": 11,
       "BLK": 1,
       "TOV": 5,
       "TD": 0,
-      "FP": 147.75,
-      "FPPG": 18.47,
-      "MPPG": 19.5,
+      "FP": 150.75,
+      "FPPG": 18.84,
+      "MPPG": 19.6,
       "active": true,
       "ownedBy": [
         "Jameson",
@@ -8304,7 +8304,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 7.99,
-      "FPperDollar": 18.4919,
+      "FPperDollar": 18.8673,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -8430,17 +8430,17 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 9.2,
+          "MP": 9.4,
           "PTS": 9,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
           "AST": 0,
-          "STL": 0,
+          "STL": 1,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 10.25
+          "FP": 13.25
         }
       ]
     },
@@ -9049,8 +9049,8 @@
       "pos": "C",
       "team": "LAL",
       "G": 10,
-      "MP": 141,
-      "PTS": 43,
+      "MP": 142,
+      "PTS": 45,
       "ORB": 13,
       "DRB": 15,
       "TRB": 28,
@@ -9059,16 +9059,16 @@
       "BLK": 7,
       "TOV": 10,
       "TD": 0,
-      "FP": 118.0,
-      "FPPG": 11.8,
-      "MPPG": 14.1,
+      "FP": 120.0,
+      "FPPG": 12.0,
+      "MPPG": 14.2,
       "active": true,
       "ownedBy": [
         "Taiga"
       ],
       "ownership": 0.07142857142857142,
       "salary": 2.72,
-      "FPperDollar": 43.3824,
+      "FPperDollar": 44.1176,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -9228,8 +9228,8 @@
           "team": "LAL",
           "opp": "OKC",
           "home": true,
-          "MP": 5.3,
-          "PTS": 4,
+          "MP": 6.1,
+          "PTS": 6,
           "ORB": 1,
           "DRB": 0,
           "TRB": 1,
@@ -9238,7 +9238,7 @@
           "BLK": 0,
           "TOV": 1,
           "TD": 0,
-          "FP": 5.25
+          "FP": 7.25
         }
       ]
     },
@@ -9623,7 +9623,7 @@
       "pos": "F",
       "team": "OKC",
       "G": 8,
-      "MP": 178,
+      "MP": 179,
       "PTS": 52,
       "ORB": 3,
       "DRB": 14,
@@ -9635,7 +9635,7 @@
       "TD": 0,
       "FP": 109.25,
       "FPPG": 13.66,
-      "MPPG": 22.2,
+      "MPPG": 22.4,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -9769,7 +9769,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 9.3,
+          "MP": 10.2,
           "PTS": 6,
           "ORB": 0,
           "DRB": 0,
@@ -10374,7 +10374,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 3.4,
+          "MP": 3.7,
           "PTS": 0,
           "ORB": 0,
           "DRB": 0,
@@ -10651,7 +10651,7 @@
       "pos": "G",
       "team": "OKC",
       "G": 8,
-      "MP": 70,
+      "MP": 71,
       "PTS": 50,
       "ORB": 3,
       "DRB": 5,
@@ -10663,7 +10663,7 @@
       "TD": 0,
       "FP": 69.0,
       "FPPG": 8.62,
-      "MPPG": 8.8,
+      "MPPG": 8.9,
       "active": true,
       "ownedBy": [
         "Austin",
@@ -10798,7 +10798,7 @@
           "team": "OKC",
           "opp": "LAL",
           "home": false,
-          "MP": 6.3,
+          "MP": 7.3,
           "PTS": 5,
           "ORB": 1,
           "DRB": 1,
@@ -11550,33 +11550,6 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -11620,6 +11593,33 @@
           "FP": 0.0
         }
       ]
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
     },
     {
       "name": "Jeff Green",
