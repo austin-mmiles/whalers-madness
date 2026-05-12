@@ -433,7 +433,7 @@
       "FP": 491.25,
       "FPPG": 49.12,
       "MPPG": 38.4,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Garrett M",
         "Jameson",
@@ -4096,7 +4096,7 @@
       "FP": 276.0,
       "FPPG": 27.6,
       "MPPG": 28.5,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Garrett T"
       ],
@@ -8689,7 +8689,7 @@
       "FP": 142.5,
       "FPPG": 14.25,
       "MPPG": 16.3,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Taiga"
       ],
@@ -10977,7 +10977,7 @@
       "FP": 62.0,
       "FPPG": 8.86,
       "MPPG": 10.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Adam"
       ],

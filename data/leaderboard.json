@@ -6,9 +6,9 @@
       "FP": 2787.75,
       "G": 74,
       "MP": 2202,
-      "playersLeft": 6,
-      "salaryLeftPct": 0.588,
-      "salaryLeft": 58.6,
+      "playersLeft": 5,
+      "salaryLeftPct": 0.5175,
+      "salaryLeft": 51.57,
       "salaryTotal": 99.66,
       "roster": [
         {
@@ -99,7 +99,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -151,9 +151,9 @@
       "FP": 2715.25,
       "G": 71,
       "MP": 2122,
-      "playersLeft": 4,
-      "salaryLeftPct": 0.3641,
-      "salaryLeft": 36.28,
+      "playersLeft": 3,
+      "salaryLeftPct": 0.2936,
+      "salaryLeft": 29.25,
       "salaryTotal": 99.63,
       "roster": [
         {
@@ -244,7 +244,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -586,9 +586,9 @@
       "FP": 2557.25,
       "G": 69,
       "MP": 2052,
-      "playersLeft": 5,
-      "salaryLeftPct": 0.542,
-      "salaryLeft": 54.12,
+      "playersLeft": 4,
+      "salaryLeftPct": 0.4716,
+      "salaryLeft": 47.09,
       "salaryTotal": 99.85,
       "roster": [
         {
@@ -679,7 +679,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -731,9 +731,9 @@
       "FP": 2455.75,
       "G": 81,
       "MP": 2119,
-      "playersLeft": 6,
-      "salaryLeftPct": 0.5703,
-      "salaryLeft": 56.89,
+      "playersLeft": 5,
+      "salaryLeftPct": 0.5265,
+      "salaryLeft": 52.52,
       "salaryTotal": 99.75,
       "roster": [
         {
@@ -863,7 +863,7 @@
           "MP": 285,
           "FP": 276.0,
           "FPPG": 27.6,
-          "active": true,
+          "active": false,
           "TD": 0
         }
       ],
@@ -1021,9 +1021,9 @@
       "FP": 2378.5,
       "G": 74,
       "MP": 2201,
-      "playersLeft": 5,
-      "salaryLeftPct": 0.4899,
-      "salaryLeft": 48.4,
+      "playersLeft": 3,
+      "salaryLeftPct": 0.3912,
+      "salaryLeft": 38.65,
       "salaryTotal": 98.79,
       "roster": [
         {
@@ -1114,7 +1114,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -1153,7 +1153,7 @@
           "MP": 163,
           "FP": 142.5,
           "FPPG": 14.25,
-          "active": true,
+          "active": false,
           "TD": 0
         }
       ],
@@ -1166,9 +1166,9 @@
       "FP": 2349.75,
       "G": 81,
       "MP": 2290,
-      "playersLeft": 7,
-      "salaryLeftPct": 0.7416,
-      "salaryLeft": 74.0,
+      "playersLeft": 6,
+      "salaryLeftPct": 0.7177,
+      "salaryLeft": 71.61,
       "salaryTotal": 99.78,
       "roster": [
         {
@@ -1272,7 +1272,7 @@
           "MP": 75,
           "FP": 62.0,
           "FPPG": 8.86,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -1311,9 +1311,9 @@
       "FP": 2315.25,
       "G": 68,
       "MP": 2078,
-      "playersLeft": 5,
-      "salaryLeftPct": 0.5392,
-      "salaryLeft": 53.79,
+      "playersLeft": 4,
+      "salaryLeftPct": 0.4687,
+      "salaryLeft": 46.76,
       "salaryTotal": 99.76,
       "roster": [
         {
@@ -1417,7 +1417,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {
@@ -1601,9 +1601,9 @@
       "FP": 2110.5,
       "G": 57,
       "MP": 1677,
-      "playersLeft": 7,
-      "salaryLeftPct": 0.7537,
-      "salaryLeft": 75.14,
+      "playersLeft": 6,
+      "salaryLeftPct": 0.6831,
+      "salaryLeft": 68.11,
       "salaryTotal": 99.7,
       "roster": [
         {
@@ -1694,7 +1694,7 @@
           "MP": 384,
           "FP": 491.25,
           "FPPG": 49.12,
-          "active": true,
+          "active": false,
           "TD": 0
         },
         {

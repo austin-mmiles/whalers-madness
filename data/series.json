@@ -166,6 +166,24 @@
     {
       "round": "finals",
       "teams": [
+        "LAL",
+        "OKC"
+      ],
+      "leader": "OKC",
+      "trailer": "LAL",
+      "wins": [
+        0,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "OKC",
+      "seriesText": "OKC wins 4-0",
+      "gamesPlayed": 4
+    },
+    {
+      "round": "finals",
+      "teams": [
         "MIN",
         "SAS"
       ],
@@ -198,24 +216,6 @@
       "winner": "",
       "seriesText": "Series tied 2-2",
       "gamesPlayed": 4
-    },
-    {
-      "round": "finals",
-      "teams": [
-        "LAL",
-        "OKC"
-      ],
-      "leader": "OKC",
-      "trailer": "LAL",
-      "wins": [
-        0,
-        3
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "OKC leads 3-0",
-      "gamesPlayed": 3
     }
   ]
 }
