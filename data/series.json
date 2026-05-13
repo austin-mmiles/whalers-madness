@@ -187,17 +187,17 @@
         "MIN",
         "SAS"
       ],
-      "leader": "MIN",
-      "trailer": "SAS",
+      "leader": "SAS",
+      "trailer": "MIN",
       "wins": [
         2,
-        2
+        3
       ],
-      "status": "vs",
+      "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "Series tied 2-2",
-      "gamesPlayed": 4
+      "seriesText": "SAS leads 3-2",
+      "gamesPlayed": 5
     },
     {
       "round": "finals",
