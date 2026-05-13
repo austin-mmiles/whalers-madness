@@ -3,17 +3,14 @@
   "games": [
     {
       "teams": [
-        "MIN",
-        "SAS"
+        "CLE",
+        "DET"
       ],
-      "scores": [
-        97,
-        126
-      ],
-      "status": "final",
-      "gameId": "0042500235",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500205",
       "clock": "",
-      "period": 4
+      "period": 0
     }
   ]
 }
