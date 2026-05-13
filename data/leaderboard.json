@@ -4,8 +4,8 @@
     {
       "owner": "Josh K",
       "FP": 2787.75,
-      "G": 74,
-      "MP": 2202,
+      "G": 76,
+      "MP": 2203,
       "playersLeft": 5,
       "salaryLeftPct": 0.5175,
       "salaryLeft": 51.57,
@@ -17,10 +17,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -121,10 +121,10 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         },
@@ -288,8 +288,8 @@
         }
       ],
       "rank": 2,
-      "prevRank": 3,
-      "rankDelta": 1
+      "prevRank": 2,
+      "rankDelta": 0
     },
     {
       "owner": "Mitchell",
@@ -433,8 +433,8 @@
         }
       ],
       "rank": 3,
-      "prevRank": 2,
-      "rankDelta": -1
+      "prevRank": 3,
+      "rankDelta": 0
     },
     {
       "owner": "Eric",
@@ -584,7 +584,7 @@
     {
       "owner": "Jameson",
       "FP": 2557.25,
-      "G": 69,
+      "G": 70,
       "MP": 2052,
       "playersLeft": 4,
       "salaryLeftPct": 0.4716,
@@ -714,23 +714,23 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         }
       ],
       "rank": 5,
-      "prevRank": 6,
-      "rankDelta": 1
+      "prevRank": 5,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett T",
       "FP": 2455.75,
-      "G": 81,
-      "MP": 2119,
+      "G": 83,
+      "MP": 2120,
       "playersLeft": 5,
       "salaryLeftPct": 0.5265,
       "salaryLeft": 52.52,
@@ -755,10 +755,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -846,10 +846,10 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         },
@@ -868,14 +868,14 @@
         }
       ],
       "rank": 6,
-      "prevRank": 7,
-      "rankDelta": 1
+      "prevRank": 6,
+      "rankDelta": 0
     },
     {
       "owner": "Vincent",
       "FP": 2452.25,
-      "G": 63,
-      "MP": 1954,
+      "G": 65,
+      "MP": 1955,
       "playersLeft": 5,
       "salaryLeftPct": 0.6481,
       "salaryLeft": 64.8,
@@ -913,10 +913,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -991,10 +991,10 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         },
@@ -1013,8 +1013,8 @@
         }
       ],
       "rank": 7,
-      "prevRank": 5,
-      "rankDelta": -2
+      "prevRank": 7,
+      "rankDelta": 0
     },
     {
       "owner": "Taiga",
@@ -1158,13 +1158,13 @@
         }
       ],
       "rank": 8,
-      "prevRank": 10,
-      "rankDelta": 2
+      "prevRank": 8,
+      "rankDelta": 0
     },
     {
       "owner": "Adam",
       "FP": 2349.75,
-      "G": 81,
+      "G": 82,
       "MP": 2290,
       "playersLeft": 6,
       "salaryLeftPct": 0.7177,
@@ -1203,10 +1203,10 @@
           "team": "SAS",
           "position": "G",
           "salary": 10.43,
-          "G": 9,
+          "G": 10,
           "MP": 297,
           "FP": 280.0,
-          "FPPG": 31.11,
+          "FPPG": 28.0,
           "active": true,
           "TD": 0
         },
@@ -1303,14 +1303,14 @@
         }
       ],
       "rank": 9,
-      "prevRank": 8,
-      "rankDelta": -1
+      "prevRank": 9,
+      "rankDelta": 0
     },
     {
       "owner": "Garrett M",
       "FP": 2315.25,
-      "G": 68,
-      "MP": 2078,
+      "G": 69,
+      "MP": 2079,
       "playersLeft": 4,
       "salaryLeftPct": 0.4687,
       "salaryLeft": 46.76,
@@ -1348,10 +1348,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -1448,14 +1448,14 @@
         }
       ],
       "rank": 10,
-      "prevRank": 9,
-      "rankDelta": -1
+      "prevRank": 10,
+      "rankDelta": 0
     },
     {
       "owner": "Ronnie",
       "FP": 2170.75,
-      "G": 74,
-      "MP": 2037,
+      "G": 75,
+      "MP": 2038,
       "playersLeft": 7,
       "salaryLeftPct": 0.7757,
       "salaryLeft": 77.57,
@@ -1493,10 +1493,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -1599,7 +1599,7 @@
     {
       "owner": "Sivaji",
       "FP": 2110.5,
-      "G": 57,
+      "G": 59,
       "MP": 1677,
       "playersLeft": 6,
       "salaryLeftPct": 0.6831,
@@ -1612,10 +1612,10 @@
           "team": "SAS",
           "position": "G",
           "salary": 15.68,
-          "G": 9,
+          "G": 10,
           "MP": 293,
           "FP": 347.25,
-          "FPPG": 38.58,
+          "FPPG": 34.73,
           "active": true,
           "TD": 0
         },
@@ -1716,10 +1716,10 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         },
@@ -1744,8 +1744,8 @@
     {
       "owner": "Noah",
       "FP": 2036.0,
-      "G": 70,
-      "MP": 1934,
+      "G": 73,
+      "MP": 1935,
       "playersLeft": 7,
       "salaryLeftPct": 0.7478,
       "salaryLeft": 74.75,
@@ -1770,10 +1770,10 @@
           "team": "SAS",
           "position": "G",
           "salary": 15.68,
-          "G": 9,
+          "G": 10,
           "MP": 293,
           "FP": 347.25,
-          "FPPG": 38.58,
+          "FPPG": 34.73,
           "active": true,
           "TD": 0
         },
@@ -1796,10 +1796,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 5.84,
-          "G": 8,
-          "MP": 235,
+          "G": 9,
+          "MP": 236,
           "FP": 238.5,
-          "FPPG": 29.81,
+          "FPPG": 26.5,
           "active": true,
           "TD": 0
         },
@@ -1835,10 +1835,10 @@
           "team": "MIN",
           "position": "F",
           "salary": 6.17,
-          "G": 10,
+          "G": 11,
           "MP": 353,
           "FP": 329.5,
-          "FPPG": 32.95,
+          "FPPG": 29.95,
           "active": true,
           "TD": 0
         },
@@ -1889,8 +1889,8 @@
     {
       "owner": "Austin",
       "FP": 1762.25,
-      "G": 68,
-      "MP": 1771,
+      "G": 71,
+      "MP": 1773,
       "playersLeft": 5,
       "salaryLeftPct": 0.5551,
       "salaryLeft": 55.17,
@@ -1902,10 +1902,10 @@
           "team": "MIN",
           "position": "G",
           "salary": 9.5,
-          "G": 8,
-          "MP": 249,
+          "G": 9,
+          "MP": 250,
           "FP": 300.75,
-          "FPPG": 37.59,
+          "FPPG": 33.42,
           "active": true,
           "TD": 0
         },
@@ -1967,10 +1967,10 @@
           "team": "SAS",
           "position": "F",
           "salary": 9.52,
-          "G": 9,
-          "MP": 255,
+          "G": 10,
+          "MP": 256,
           "FP": 235.5,
-          "FPPG": 26.17,
+          "FPPG": 23.55,
           "active": true,
           "TD": 0
         },
@@ -2006,10 +2006,10 @@
           "team": "SAS",
           "position": "C",
           "salary": 21.33,
-          "G": 8,
+          "G": 9,
           "MP": 228,
           "FP": 414.25,
-          "FPPG": 51.78,
+          "FPPG": 46.03,
           "active": true,
           "TD": 1
         },

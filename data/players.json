@@ -1600,7 +1600,7 @@
       "name": "Victor Wembanyama",
       "pos": "C",
       "team": "SAS",
-      "G": 8,
+      "G": 9,
       "MP": 228,
       "PTS": 157,
       "ORB": 11,
@@ -1612,8 +1612,8 @@
       "TOV": 19,
       "TD": 1,
       "FP": 414.25,
-      "FPPG": 51.78,
-      "MPPG": 28.5,
+      "FPPG": 46.03,
+      "MPPG": 25.3,
       "active": true,
       "ownedBy": [
         "Austin",
@@ -1762,6 +1762,23 @@
           "TOV": 2,
           "TD": 0,
           "FP": 10.5
+        },
+        {
+          "date": "2026-05-12",
+          "team": "SAS",
+          "opp": "MIN",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -2230,7 +2247,7 @@
       "name": "Stephon Castle",
       "pos": "G",
       "team": "SAS",
-      "G": 9,
+      "G": 10,
       "MP": 293,
       "PTS": 170,
       "ORB": 8,
@@ -2242,8 +2259,8 @@
       "TOV": 28,
       "TD": 0,
       "FP": 347.25,
-      "FPPG": 38.58,
-      "MPPG": 32.6,
+      "FPPG": 34.73,
+      "MPPG": 29.3,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -2405,6 +2422,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 42.0
+        },
+        {
+          "date": "2026-05-12",
+          "team": "SAS",
+          "opp": "MIN",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -2795,7 +2829,7 @@
       "name": "Jaden McDaniels",
       "pos": "F",
       "team": "MIN",
-      "G": 10,
+      "G": 11,
       "MP": 353,
       "PTS": 166,
       "ORB": 26,
@@ -2807,8 +2841,8 @@
       "TOV": 15,
       "TD": 0,
       "FP": 329.5,
-      "FPPG": 32.95,
-      "MPPG": 35.3,
+      "FPPG": 29.95,
+      "MPPG": 32.1,
       "active": true,
       "ownedBy": [
         "Noah"
@@ -2986,6 +3020,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 22.0
+        },
+        {
+          "date": "2026-05-12",
+          "team": "MIN",
+          "opp": "SAS",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -3404,8 +3455,8 @@
       "name": "Anthony Edwards",
       "pos": "G",
       "team": "MIN",
-      "G": 8,
-      "MP": 249,
+      "G": 9,
+      "MP": 250,
       "PTS": 172,
       "ORB": 4,
       "DRB": 49,
@@ -3416,8 +3467,8 @@
       "TOV": 18,
       "TD": 0,
       "FP": 300.75,
-      "FPPG": 37.59,
-      "MPPG": 31.1,
+      "FPPG": 33.42,
+      "MPPG": 27.8,
       "active": true,
       "ownedBy": [
         "Austin",
@@ -3566,6 +3617,23 @@
           "TOV": 4,
           "TD": 0,
           "FP": 49.0
+        },
+        {
+          "date": "2026-05-12",
+          "team": "MIN",
+          "opp": "SAS",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -3901,7 +3969,7 @@
       "name": "Devin Vassell",
       "pos": "G",
       "team": "SAS",
-      "G": 9,
+      "G": 10,
       "MP": 297,
       "PTS": 114,
       "ORB": 8,
@@ -3913,8 +3981,8 @@
       "TOV": 10,
       "TD": 0,
       "FP": 280.0,
-      "FPPG": 31.11,
-      "MPPG": 33.0,
+      "FPPG": 28.0,
+      "MPPG": 29.7,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -4075,6 +4143,23 @@
           "TOV": 1,
           "TD": 0,
           "FP": 26.75
+        },
+        {
+          "date": "2026-05-12",
+          "team": "SAS",
+          "opp": "MIN",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -5120,8 +5205,8 @@
       "name": "Ayo Dosunmu",
       "pos": "G",
       "team": "MIN",
-      "G": 8,
-      "MP": 235,
+      "G": 9,
+      "MP": 236,
       "PTS": 130,
       "ORB": 7,
       "DRB": 19,
@@ -5132,8 +5217,8 @@
       "TOV": 13,
       "TD": 0,
       "FP": 238.5,
-      "FPPG": 29.81,
-      "MPPG": 29.4,
+      "FPPG": 26.5,
+      "MPPG": 26.2,
       "active": true,
       "ownedBy": [
         "Noah"
@@ -5277,6 +5362,23 @@
           "TOV": 2,
           "TD": 0,
           "FP": 27.25
+        },
+        {
+          "date": "2026-05-12",
+          "team": "MIN",
+          "opp": "SAS",
+          "home": false,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -5431,8 +5533,8 @@
       "name": "Julian Champagnie",
       "pos": "F",
       "team": "SAS",
-      "G": 9,
-      "MP": 255,
+      "G": 10,
+      "MP": 256,
       "PTS": 94,
       "ORB": 9,
       "DRB": 43,
@@ -5443,8 +5545,8 @@
       "TOV": 4,
       "TD": 0,
       "FP": 235.5,
-      "FPPG": 26.17,
-      "MPPG": 28.3,
+      "FPPG": 23.55,
+      "MPPG": 25.6,
       "active": true,
       "ownedBy": [
         "Austin"
@@ -5605,6 +5707,23 @@
           "TOV": 0,
           "TD": 0,
           "FP": 26.75
+        },
+        {
+          "date": "2026-05-12",
+          "team": "SAS",
+          "opp": "MIN",
+          "home": true,
+          "MP": 0.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -11523,6 +11642,33 @@
       ]
     },
     {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
@@ -11593,33 +11739,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Jeff Green",
