@@ -1,19 +1,4 @@
 {
   "date": "2026-05-14",
-  "games": [
-    {
-      "teams": [
-        "CLE",
-        "DET"
-      ],
-      "scores": [
-        117,
-        113
-      ],
-      "status": "final",
-      "gameId": "0042500205",
-      "clock": "",
-      "period": 5
-    }
-  ]
+  "games": []
 }
