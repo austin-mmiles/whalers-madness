@@ -6,7 +6,7 @@
       "pos": "G",
       "team": "DET",
       "G": 12,
-      "MP": 488,
+      "MP": 489,
       "PTS": 358,
       "ORB": 12,
       "DRB": 51,
@@ -18,7 +18,7 @@
       "TD": 1,
       "FP": 668.5,
       "FPPG": 55.71,
-      "MPPG": 40.7,
+      "MPPG": 40.8,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -220,7 +220,7 @@
           "team": "DET",
           "opp": "CLE",
           "home": true,
-          "MP": 43.1,
+          "MP": 44.9,
           "PTS": 37,
           "ORB": 0,
           "DRB": 4,
@@ -640,8 +640,8 @@
       "pos": "G",
       "team": "CLE",
       "G": 12,
-      "MP": 430,
-      "PTS": 308,
+      "MP": 432,
+      "PTS": 310,
       "ORB": 11,
       "DRB": 52,
       "TRB": 63,
@@ -650,9 +650,9 @@
       "BLK": 2,
       "TOV": 30,
       "TD": 0,
-      "FP": 479.25,
-      "FPPG": 39.94,
-      "MPPG": 35.8,
+      "FP": 481.25,
+      "FPPG": 40.1,
+      "MPPG": 36.0,
       "active": true,
       "ownedBy": [
         "Eric",
@@ -660,7 +660,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.23,
-      "FPperDollar": 31.4675,
+      "FPperDollar": 31.5988,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -854,8 +854,8 @@
           "team": "CLE",
           "opp": "DET",
           "home": false,
-          "MP": 37.0,
-          "PTS": 14,
+          "MP": 38.8,
+          "PTS": 16,
           "ORB": 0,
           "DRB": 4,
           "TRB": 4,
@@ -864,7 +864,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 24.0
+          "FP": 26.0
         }
       ]
     },
@@ -1274,7 +1274,7 @@
       "pos": "F",
       "team": "DET",
       "G": 12,
-      "MP": 433,
+      "MP": 434,
       "PTS": 242,
       "ORB": 15,
       "DRB": 76,
@@ -1286,7 +1286,7 @@
       "TD": 0,
       "FP": 470.25,
       "FPPG": 39.19,
-      "MPPG": 36.1,
+      "MPPG": 36.2,
       "active": true,
       "ownedBy": [
         "Jameson",
@@ -1488,7 +1488,7 @@
           "team": "DET",
           "opp": "CLE",
           "home": true,
-          "MP": 34.7,
+          "MP": 36.5,
           "PTS": 13,
           "ORB": 2,
           "DRB": 4,
@@ -5817,7 +5817,7 @@
       "pos": "G",
       "team": "DET",
       "G": 12,
-      "MP": 248,
+      "MP": 250,
       "PTS": 94,
       "ORB": 11,
       "DRB": 20,
@@ -5829,7 +5829,7 @@
       "TD": 0,
       "FP": 228.25,
       "FPPG": 19.02,
-      "MPPG": 20.7,
+      "MPPG": 20.8,
       "active": true,
       "ownedBy": [
         "John"
@@ -6030,7 +6030,7 @@
           "team": "DET",
           "opp": "CLE",
           "home": true,
-          "MP": 35.9,
+          "MP": 37.6,
           "PTS": 17,
           "ORB": 1,
           "DRB": 1,
@@ -11829,7 +11829,7 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -11848,10 +11848,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Vincent"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -11901,7 +11901,7 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -11920,10 +11920,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Noah"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
