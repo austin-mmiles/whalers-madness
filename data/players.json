@@ -6,8 +6,8 @@
       "pos": "G",
       "team": "DET",
       "G": 12,
-      "MP": 450,
-      "PTS": 324,
+      "MP": 452,
+      "PTS": 327,
       "ORB": 12,
       "DRB": 48,
       "TRB": 60,
@@ -16,9 +16,9 @@
       "BLK": 8,
       "TOV": 65,
       "TD": 1,
-      "FP": 610.25,
-      "FPPG": 50.85,
-      "MPPG": 37.5,
+      "FP": 613.25,
+      "FPPG": 51.1,
+      "MPPG": 37.7,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -26,7 +26,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 16.1,
-      "FPperDollar": 37.9037,
+      "FPperDollar": 38.0901,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -220,8 +220,8 @@
           "team": "DET",
           "opp": "CLE",
           "home": true,
-          "MP": 5.9,
-          "PTS": 3,
+          "MP": 7.4,
+          "PTS": 6,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -230,7 +230,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 5.25
+          "FP": 8.25
         }
       ]
     },
@@ -2713,7 +2713,7 @@
       "pos": "C",
       "team": "DET",
       "G": 12,
-      "MP": 352,
+      "MP": 353,
       "PTS": 112,
       "ORB": 39,
       "DRB": 57,
@@ -2725,7 +2725,7 @@
       "TD": 0,
       "FP": 336.0,
       "FPPG": 28.0,
-      "MPPG": 29.3,
+      "MPPG": 29.4,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -2929,7 +2929,7 @@
           "team": "DET",
           "opp": "CLE",
           "home": true,
-          "MP": 7.6,
+          "MP": 9.1,
           "PTS": 0,
           "ORB": 0,
           "DRB": 2,
@@ -11812,6 +11812,33 @@
       ]
     },
     {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.69,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -11880,33 +11907,6 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
