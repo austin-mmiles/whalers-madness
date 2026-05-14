@@ -208,14 +208,14 @@
       "leader": "CLE",
       "trailer": "DET",
       "wins": [
-        2,
+        3,
         2
       ],
-      "status": "vs",
+      "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "Series tied 2-2",
-      "gamesPlayed": 4
+      "seriesText": "CLE leads 3-2",
+      "gamesPlayed": 5
     }
   ]
 }
