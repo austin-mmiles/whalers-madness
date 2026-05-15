@@ -1,4 +1,27 @@
 {
   "date": "2026-05-15",
-  "games": []
+  "games": [
+    {
+      "teams": [
+        "DET",
+        "CLE"
+      ],
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500206",
+      "clock": "",
+      "period": 0
+    },
+    {
+      "teams": [
+        "SAS",
+        "MIN"
+      ],
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500236",
+      "clock": "",
+      "period": 0
+    }
+  ]
 }
