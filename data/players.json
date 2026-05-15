@@ -6,19 +6,19 @@
       "pos": "G",
       "team": "DET",
       "G": 13,
-      "MP": 504,
-      "PTS": 365,
+      "MP": 506,
+      "PTS": 367,
       "ORB": 13,
       "DRB": 53,
       "TRB": 66,
       "AST": 95,
       "STL": 13,
       "BLK": 8,
-      "TOV": 70,
+      "TOV": 71,
       "TD": 1,
-      "FP": 684.75,
-      "FPPG": 52.67,
-      "MPPG": 38.8,
+      "FP": 686.25,
+      "FPPG": 52.79,
+      "MPPG": 38.9,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -26,7 +26,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 16.1,
-      "FPperDollar": 42.5311,
+      "FPperDollar": 42.6242,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -237,17 +237,17 @@
           "team": "DET",
           "opp": "CLE",
           "home": false,
-          "MP": 11.0,
-          "PTS": 5,
+          "MP": 12.9,
+          "PTS": 7,
           "ORB": 0,
           "DRB": 0,
           "TRB": 0,
           "AST": 3,
           "STL": 0,
           "BLK": 0,
-          "TOV": 1,
+          "TOV": 2,
           "TD": 0,
-          "FP": 10.5
+          "FP": 12.0
         }
       ]
     },
@@ -454,8 +454,8 @@
       "pos": "G",
       "team": "CLE",
       "G": 13,
-      "MP": 446,
-      "PTS": 322,
+      "MP": 448,
+      "PTS": 324,
       "ORB": 11,
       "DRB": 53,
       "TRB": 64,
@@ -464,9 +464,9 @@
       "BLK": 2,
       "TOV": 32,
       "TD": 0,
-      "FP": 493.5,
-      "FPPG": 37.96,
-      "MPPG": 34.3,
+      "FP": 495.5,
+      "FPPG": 38.12,
+      "MPPG": 34.5,
       "active": true,
       "ownedBy": [
         "Eric",
@@ -474,7 +474,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.23,
-      "FPperDollar": 32.4032,
+      "FPperDollar": 32.5345,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -685,8 +685,8 @@
           "team": "CLE",
           "opp": "DET",
           "home": true,
-          "MP": 10.7,
-          "PTS": 7,
+          "MP": 12.6,
+          "PTS": 9,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -695,7 +695,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 7.25
+          "FP": 9.25
         }
       ]
     },
@@ -4700,8 +4700,8 @@
       "pos": "F",
       "team": "DET",
       "G": 12,
-      "MP": 346,
-      "PTS": 130,
+      "MP": 348,
+      "PTS": 132,
       "ORB": 4,
       "DRB": 24,
       "TRB": 28,
@@ -4710,16 +4710,16 @@
       "BLK": 3,
       "TOV": 10,
       "TD": 0,
-      "FP": 271.5,
-      "FPPG": 22.62,
-      "MPPG": 28.8,
+      "FP": 273.5,
+      "FPPG": 22.79,
+      "MPPG": 29.0,
       "active": true,
       "ownedBy": [
         "Taiga"
       ],
       "ownership": 0.07142857142857142,
       "salary": 6.43,
-      "FPperDollar": 42.224,
+      "FPperDollar": 42.535,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -4913,8 +4913,8 @@
           "team": "DET",
           "opp": "CLE",
           "home": false,
-          "MP": 4.9,
-          "PTS": 3,
+          "MP": 6.8,
+          "PTS": 5,
           "ORB": 0,
           "DRB": 0,
           "TRB": 0,
@@ -4923,7 +4923,7 @@
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 3.0
+          "FP": 5.0
         }
       ]
     },
@@ -11931,7 +11931,7 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
+      "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -11950,10 +11950,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Vincent"
+        "Noah"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.69,
+      "salary": 0.47,
       "FPperDollar": 0.0,
       "gameLog": []
     },
@@ -12003,7 +12003,7 @@
       ]
     },
     {
-      "name": "Jacob Toppin",
+      "name": "Caleb Houstan",
       "pos": "F",
       "team": "ATL",
       "G": 0,
@@ -12022,10 +12022,10 @@
       "MPPG": 0.0,
       "active": false,
       "ownedBy": [
-        "Noah"
+        "Vincent"
       ],
       "ownership": 0.07142857142857142,
-      "salary": 0.47,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
