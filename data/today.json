@@ -6,11 +6,14 @@
         "DET",
         "CLE"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        2,
+        4
+      ],
+      "status": "live",
       "gameId": "0042500206",
-      "clock": "",
-      "period": 0
+      "clock": "PT09M29.00S",
+      "period": 1
     },
     {
       "teams": [
