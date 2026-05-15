@@ -7,7 +7,7 @@
       "team": "DET",
       "G": 13,
       "MP": 506,
-      "PTS": 367,
+      "PTS": 370,
       "ORB": 13,
       "DRB": 53,
       "TRB": 66,
@@ -16,8 +16,8 @@
       "BLK": 8,
       "TOV": 71,
       "TD": 1,
-      "FP": 686.25,
-      "FPPG": 52.79,
+      "FP": 689.25,
+      "FPPG": 53.02,
       "MPPG": 38.9,
       "active": true,
       "ownedBy": [
@@ -26,7 +26,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 16.1,
-      "FPperDollar": 42.6242,
+      "FPperDollar": 42.8106,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -237,8 +237,8 @@
           "team": "DET",
           "opp": "CLE",
           "home": false,
-          "MP": 12.9,
-          "PTS": 7,
+          "MP": 13.3,
+          "PTS": 10,
           "ORB": 0,
           "DRB": 0,
           "TRB": 0,
@@ -247,7 +247,7 @@
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 12.0
+          "FP": 15.0
         }
       ]
     },
@@ -685,7 +685,7 @@
           "team": "CLE",
           "opp": "DET",
           "home": true,
-          "MP": 12.6,
+          "MP": 13.0,
           "PTS": 9,
           "ORB": 0,
           "DRB": 1,
@@ -4700,7 +4700,7 @@
       "pos": "F",
       "team": "DET",
       "G": 12,
-      "MP": 348,
+      "MP": 349,
       "PTS": 132,
       "ORB": 4,
       "DRB": 24,
@@ -4712,7 +4712,7 @@
       "TD": 0,
       "FP": 273.5,
       "FPPG": 22.79,
-      "MPPG": 29.0,
+      "MPPG": 29.1,
       "active": true,
       "ownedBy": [
         "Taiga"
@@ -4913,7 +4913,7 @@
           "team": "DET",
           "opp": "CLE",
           "home": false,
-          "MP": 6.8,
+          "MP": 7.2,
           "PTS": 5,
           "ORB": 0,
           "DRB": 0,
@@ -11931,6 +11931,33 @@
       ]
     },
     {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.69,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
       "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
@@ -12001,33 +12028,6 @@
           "FP": 0.0
         }
       ]
-    },
-    {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
     },
     {
       "name": "Jeff Green",
