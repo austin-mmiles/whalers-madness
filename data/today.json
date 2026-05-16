@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "games": [
     {
       "teams": [
@@ -7,12 +7,12 @@
         "CLE"
       ],
       "scores": [
-        38,
-        27
+        41,
+        29
       ],
       "status": "live",
       "gameId": "0042500206",
-      "clock": "PT09M09.00S",
+      "clock": "PT08M04.00S",
       "period": 2
     },
     {
