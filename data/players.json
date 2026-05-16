@@ -6287,7 +6287,7 @@
       "pos": "C",
       "team": "SAS",
       "G": 11,
-      "MP": 180,
+      "MP": 181,
       "PTS": 62,
       "ORB": 26,
       "DRB": 29,
@@ -6295,18 +6295,18 @@
       "AST": 11,
       "STL": 9,
       "BLK": 13,
-      "TOV": 6,
+      "TOV": 7,
       "TD": 0,
-      "FP": 222.25,
-      "FPPG": 20.2,
-      "MPPG": 16.4,
+      "FP": 221.75,
+      "FPPG": 20.16,
+      "MPPG": 16.5,
       "active": true,
       "ownedBy": [
         "Garrett M"
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.77,
-      "FPperDollar": 25.3421,
+      "FPperDollar": 25.2851,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -6483,7 +6483,7 @@
           "team": "SAS",
           "opp": "MIN",
           "home": false,
-          "MP": 13.7,
+          "MP": 14.2,
           "PTS": 6,
           "ORB": 2,
           "DRB": 4,
@@ -6491,9 +6491,9 @@
           "AST": 1,
           "STL": 0,
           "BLK": 4,
-          "TOV": 0,
+          "TOV": 1,
           "TD": 0,
-          "FP": 26.5
+          "FP": 26.0
         }
       ]
     },
@@ -10643,26 +10643,26 @@
       "pos": "G",
       "team": "MIN",
       "G": 10,
-      "MP": 109,
-      "PTS": 43,
-      "ORB": 2,
+      "MP": 112,
+      "PTS": 46,
+      "ORB": 3,
       "DRB": 10,
-      "TRB": 12,
+      "TRB": 13,
       "AST": 15,
       "STL": 4,
       "BLK": 1,
       "TOV": 8,
       "TD": 0,
-      "FP": 99.5,
-      "FPPG": 9.95,
-      "MPPG": 10.9,
+      "FP": 104.25,
+      "FPPG": 10.43,
+      "MPPG": 11.2,
       "active": true,
       "ownedBy": [
         "Garrett T"
       ],
       "ownership": 0.07142857142857142,
       "salary": 3.58,
-      "FPperDollar": 27.7933,
+      "FPperDollar": 29.1201,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -10822,17 +10822,17 @@
           "team": "MIN",
           "opp": "SAS",
           "home": true,
-          "MP": 1.1,
-          "PTS": 0,
-          "ORB": 0,
+          "MP": 4.5,
+          "PTS": 3,
+          "ORB": 1,
           "DRB": 0,
-          "TRB": 0,
+          "TRB": 1,
           "AST": 0,
           "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 0.0
+          "FP": 4.75
         }
       ]
     },
@@ -11755,26 +11755,26 @@
       "pos": "G",
       "team": "MIN",
       "G": 6,
-      "MP": 50,
-      "PTS": 8,
+      "MP": 53,
+      "PTS": 10,
       "ORB": 2,
-      "DRB": 3,
-      "TRB": 5,
+      "DRB": 4,
+      "TRB": 6,
       "AST": 3,
       "STL": 1,
       "BLK": 1,
       "TOV": 0,
       "TD": 0,
-      "FP": 26.75,
-      "FPPG": 4.46,
-      "MPPG": 8.3,
+      "FP": 30.0,
+      "FPPG": 5.0,
+      "MPPG": 8.8,
       "active": true,
       "ownedBy": [
         "Josh K"
       ],
       "ownership": 0.07142857142857142,
       "salary": 2.01,
-      "FPperDollar": 13.3085,
+      "FPperDollar": 14.9254,
       "gameLog": [
         {
           "date": "2026-04-27",
@@ -11866,17 +11866,17 @@
           "team": "MIN",
           "opp": "SAS",
           "home": true,
-          "MP": 1.1,
-          "PTS": 0,
+          "MP": 4.5,
+          "PTS": 2,
           "ORB": 0,
-          "DRB": 1,
-          "TRB": 1,
+          "DRB": 2,
+          "TRB": 2,
           "AST": 0,
           "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 1.25
+          "FP": 4.5
         }
       ]
     },
@@ -12196,33 +12196,6 @@
       "gameLog": []
     },
     {
-      "name": "Jacob Toppin",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Noah"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.47,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Tolu Smith",
       "pos": "F",
       "team": "DET",
@@ -12283,6 +12256,33 @@
           "FP": 0.0
         }
       ]
+    },
+    {
+      "name": "Jacob Toppin",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Noah"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
     },
     {
       "name": "Jeff Green",
