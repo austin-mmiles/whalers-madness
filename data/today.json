@@ -3,6 +3,20 @@
   "games": [
     {
       "teams": [
+        "SAS",
+        "MIN"
+      ],
+      "scores": [
+        3,
+        0
+      ],
+      "status": "live",
+      "gameId": "0042500236",
+      "clock": "PT10M38.00S",
+      "period": 1
+    },
+    {
+      "teams": [
         "DET",
         "CLE"
       ],
@@ -14,17 +28,6 @@
       "gameId": "0042500206",
       "clock": "PT00M00.00S",
       "period": 4
-    },
-    {
-      "teams": [
-        "SAS",
-        "MIN"
-      ],
-      "scores": null,
-      "status": "scheduled",
-      "gameId": "0042500236",
-      "clock": "",
-      "period": 0
     }
   ]
 }

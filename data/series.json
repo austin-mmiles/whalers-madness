@@ -184,6 +184,24 @@
     {
       "round": "finals",
       "teams": [
+        "CLE",
+        "DET"
+      ],
+      "leader": "CLE",
+      "trailer": "DET",
+      "wins": [
+        3,
+        3
+      ],
+      "status": "vs",
+      "over": false,
+      "winner": "",
+      "seriesText": "Series tied 3-3",
+      "gamesPlayed": 6
+    },
+    {
+      "round": "finals",
+      "teams": [
         "MIN",
         "SAS"
       ],
@@ -197,24 +215,6 @@
       "over": false,
       "winner": "",
       "seriesText": "SAS leads 3-2",
-      "gamesPlayed": 5
-    },
-    {
-      "round": "finals",
-      "teams": [
-        "CLE",
-        "DET"
-      ],
-      "leader": "CLE",
-      "trailer": "DET",
-      "wins": [
-        3,
-        2
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "CLE leads 3-2",
       "gamesPlayed": 5
     }
   ]
