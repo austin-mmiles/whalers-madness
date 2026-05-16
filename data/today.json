@@ -3,20 +3,6 @@
   "games": [
     {
       "teams": [
-        "SAS",
-        "MIN"
-      ],
-      "scores": [
-        139,
-        109
-      ],
-      "status": "final",
-      "gameId": "0042500236",
-      "clock": "PT00M00.00S",
-      "period": 4
-    },
-    {
-      "teams": [
         "DET",
         "CLE"
       ],
@@ -26,6 +12,20 @@
       ],
       "status": "final",
       "gameId": "0042500206",
+      "clock": "",
+      "period": 4
+    },
+    {
+      "teams": [
+        "SAS",
+        "MIN"
+      ],
+      "scores": [
+        139,
+        109
+      ],
+      "status": "final",
+      "gameId": "0042500236",
       "clock": "",
       "period": 4
     }

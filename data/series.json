@@ -110,6 +110,24 @@
       "gamesPlayed": 6
     },
     {
+      "round": "finals",
+      "teams": [
+        "MIN",
+        "SAS"
+      ],
+      "leader": "SAS",
+      "trailer": "MIN",
+      "wins": [
+        2,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "SAS",
+      "seriesText": "SAS leads 3-2",
+      "gamesPlayed": 6
+    },
+    {
       "round": "First Round",
       "teams": [
         "POR",
@@ -198,24 +216,6 @@
       "winner": "",
       "seriesText": "Series tied 3-3",
       "gamesPlayed": 6
-    },
-    {
-      "round": "finals",
-      "teams": [
-        "MIN",
-        "SAS"
-      ],
-      "leader": "SAS",
-      "trailer": "MIN",
-      "wins": [
-        2,
-        3
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "SAS leads 3-2",
-      "gamesPlayed": 5
     }
   ]
 }
