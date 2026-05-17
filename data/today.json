@@ -3,12 +3,12 @@
   "games": [
     {
       "teams": [
-        "OKC",
-        "LAL"
+        "CLE",
+        "DET"
       ],
       "scores": null,
       "status": "scheduled",
-      "gameId": "0042500226",
+      "gameId": "0042500207",
       "clock": "",
       "period": 0
     }
