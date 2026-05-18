@@ -7,13 +7,13 @@
         "DET"
       ],
       "scores": [
-        28,
-        19
+        31,
+        24
       ],
       "status": "live",
       "gameId": "0042500207",
-      "clock": "PT00M23.70S",
-      "period": 1
+      "clock": "PT11M29.00S",
+      "period": 2
     }
   ]
 }
