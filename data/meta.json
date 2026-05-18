@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "league": "Whalers Madness",
-  "lastUpdated": "2026-05-18T03:00:26+00:00",
+  "lastUpdated": "2026-05-18T03:05:26+00:00",
   "source": "nba.com",
   "scoring": {
     "PTS": 1.0,
@@ -17,6 +17,7 @@
     "ATL",
     "BOS",
     "DEN",
+    "DET",
     "HOU",
     "LAL",
     "MIN",

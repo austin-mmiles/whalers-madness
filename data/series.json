@@ -56,6 +56,24 @@
       "gamesPlayed": 7
     },
     {
+      "round": "finals",
+      "teams": [
+        "CLE",
+        "DET"
+      ],
+      "leader": "CLE",
+      "trailer": "DET",
+      "wins": [
+        4,
+        3
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "CLE",
+      "seriesText": "CLE wins 4-3",
+      "gamesPlayed": 7
+    },
+    {
       "round": "First Round",
       "teams": [
         "ATL",
@@ -198,24 +216,6 @@
       "winner": "OKC",
       "seriesText": "OKC wins 4-0",
       "gamesPlayed": 4
-    },
-    {
-      "round": "finals",
-      "teams": [
-        "CLE",
-        "DET"
-      ],
-      "leader": "CLE",
-      "trailer": "DET",
-      "wins": [
-        3,
-        3
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 3-3",
-      "gamesPlayed": 6
     }
   ]
 }
