@@ -216,6 +216,24 @@
       "winner": "OKC",
       "seriesText": "OKC wins 4-0",
       "gamesPlayed": 4
+    },
+    {
+      "round": "Finals",
+      "teams": [
+        "OKC",
+        "SAS"
+      ],
+      "leader": "SAS",
+      "trailer": "OKC",
+      "wins": [
+        0,
+        1
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "SAS leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
