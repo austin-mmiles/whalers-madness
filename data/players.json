@@ -2482,12 +2482,12 @@
       "DRB": 20,
       "TRB": 25,
       "AST": 62,
-      "STL": 7,
+      "STL": 8,
       "BLK": 7,
       "TOV": 26,
       "TD": 0,
-      "FP": 420.25,
-      "FPPG": 46.69,
+      "FP": 423.25,
+      "FPPG": 47.03,
       "MPPG": 33.1,
       "active": true,
       "ownedBy": [
@@ -2496,7 +2496,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 24.23,
-      "FPperDollar": 17.3442,
+      "FPperDollar": 17.468,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -2645,11 +2645,11 @@
           "DRB": 1,
           "TRB": 1,
           "AST": 5,
-          "STL": 1,
+          "STL": 2,
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 17.25
+          "FP": 20.25
         }
       ]
     },
@@ -3627,12 +3627,12 @@
       "DRB": 62,
       "TRB": 76,
       "AST": 10,
-      "STL": 12,
+      "STL": 11,
       "BLK": 14,
       "TOV": 10,
       "TD": 0,
-      "FP": 342.0,
-      "FPPG": 38.0,
+      "FP": 339.0,
+      "FPPG": 37.67,
       "MPPG": 29.7,
       "active": true,
       "ownedBy": [
@@ -3641,7 +3641,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 16.86,
-      "FPperDollar": 20.2847,
+      "FPperDollar": 20.1068,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -3790,11 +3790,11 @@
           "DRB": 3,
           "TRB": 3,
           "AST": 0,
-          "STL": 1,
+          "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 11.75
+          "FP": 8.75
         }
       ]
     },
