@@ -777,7 +777,7 @@
       "pos": "C",
       "team": "NYK",
       "G": 11,
-      "MP": 309,
+      "MP": 311,
       "PTS": 183,
       "ORB": 29,
       "DRB": 77,
@@ -785,18 +785,18 @@
       "AST": 70,
       "STL": 12,
       "BLK": 15,
-      "TOV": 32,
+      "TOV": 34,
       "TD": 2,
-      "FP": 561.0,
-      "FPPG": 51.0,
-      "MPPG": 28.1,
+      "FP": 560.0,
+      "FPPG": 50.91,
+      "MPPG": 28.3,
       "active": true,
       "ownedBy": [
         "Vincent"
       ],
       "ownership": 0.07142857142857142,
       "salary": 13.53,
-      "FPperDollar": 41.4634,
+      "FPperDollar": 41.3895,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -973,7 +973,7 @@
           "team": "NYK",
           "opp": "CLE",
           "home": true,
-          "MP": 24.0,
+          "MP": 26.0,
           "PTS": 9,
           "ORB": 2,
           "DRB": 4,
@@ -981,9 +981,9 @@
           "AST": 4,
           "STL": 1,
           "BLK": 0,
-          "TOV": 4,
+          "TOV": 6,
           "TD": 0,
-          "FP": 26.5
+          "FP": 25.5
         }
       ]
     },
