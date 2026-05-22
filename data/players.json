@@ -510,8 +510,8 @@
       "pos": "G",
       "team": "CLE",
       "G": 16,
-      "MP": 568,
-      "PTS": 397,
+      "MP": 570,
+      "PTS": 404,
       "ORB": 15,
       "DRB": 66,
       "TRB": 81,
@@ -520,9 +520,9 @@
       "BLK": 5,
       "TOV": 38,
       "TD": 0,
-      "FP": 650.25,
-      "FPPG": 40.64,
-      "MPPG": 35.5,
+      "FP": 657.25,
+      "FPPG": 41.08,
+      "MPPG": 35.6,
       "active": true,
       "ownedBy": [
         "Eric",
@@ -530,7 +530,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.23,
-      "FPperDollar": 42.6953,
+      "FPperDollar": 43.155,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -792,8 +792,8 @@
           "team": "CLE",
           "opp": "NYK",
           "home": false,
-          "MP": 24.5,
-          "PTS": 9,
+          "MP": 26.5,
+          "PTS": 16,
           "ORB": 0,
           "DRB": 3,
           "TRB": 3,
@@ -802,7 +802,7 @@
           "BLK": 1,
           "TOV": 1,
           "TD": 0,
-          "FP": 16.75
+          "FP": 23.75
         }
       ]
     },
@@ -811,8 +811,8 @@
       "pos": "C",
       "team": "NYK",
       "G": 12,
-      "MP": 350,
-      "PTS": 200,
+      "MP": 352,
+      "PTS": 205,
       "ORB": 31,
       "DRB": 93,
       "TRB": 124,
@@ -821,16 +821,16 @@
       "BLK": 16,
       "TOV": 35,
       "TD": 2,
-      "FP": 606.5,
-      "FPPG": 50.54,
-      "MPPG": 29.2,
+      "FP": 611.5,
+      "FPPG": 50.96,
+      "MPPG": 29.3,
       "active": true,
       "ownedBy": [
         "Vincent"
       ],
       "ownership": 0.07142857142857142,
       "salary": 13.53,
-      "FPperDollar": 44.8263,
+      "FPperDollar": 45.1959,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -1024,8 +1024,8 @@
           "team": "NYK",
           "opp": "CLE",
           "home": true,
-          "MP": 24.9,
-          "PTS": 13,
+          "MP": 26.9,
+          "PTS": 18,
           "ORB": 0,
           "DRB": 11,
           "TRB": 11,
@@ -1034,7 +1034,7 @@
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 28.75
+          "FP": 33.75
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       "pos": "G",
       "team": "NYK",
       "G": 12,
-      "MP": 422,
+      "MP": 424,
       "PTS": 321,
       "ORB": 4,
       "DRB": 28,
@@ -1055,7 +1055,7 @@
       "TD": 0,
       "FP": 538.0,
       "FPPG": 44.83,
-      "MPPG": 35.2,
+      "MPPG": 35.3,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -1258,7 +1258,7 @@
           "team": "NYK",
           "opp": "CLE",
           "home": true,
-          "MP": 27.9,
+          "MP": 30.0,
           "PTS": 9,
           "ORB": 0,
           "DRB": 1,
@@ -5527,7 +5527,7 @@
       "pos": "F",
       "team": "NYK",
       "G": 12,
-      "MP": 364,
+      "MP": 365,
       "PTS": 160,
       "ORB": 4,
       "DRB": 30,
@@ -5539,7 +5539,7 @@
       "TD": 0,
       "FP": 299.5,
       "FPPG": 24.96,
-      "MPPG": 30.3,
+      "MPPG": 30.4,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -5741,7 +5741,7 @@
           "team": "NYK",
           "opp": "CLE",
           "home": true,
-          "MP": 29.9,
+          "MP": 30.9,
           "PTS": 12,
           "ORB": 0,
           "DRB": 3,
