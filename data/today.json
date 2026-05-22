@@ -3,17 +3,14 @@
   "games": [
     {
       "teams": [
-        "CLE",
-        "NYK"
+        "OKC",
+        "SAS"
       ],
-      "scores": [
-        93,
-        109
-      ],
-      "status": "final",
-      "gameId": "0042500302",
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500313",
       "clock": "",
-      "period": 4
+      "period": 0
     }
   ]
 }
