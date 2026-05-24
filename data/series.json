@@ -245,13 +245,13 @@
       "trailer": "CLE",
       "wins": [
         0,
-        2
+        3
       ],
       "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "NYK leads 2-0",
-      "gamesPlayed": 2
+      "seriesText": "NYK leads 3-0",
+      "gamesPlayed": 3
     }
   ]
 }
