@@ -6,11 +6,14 @@
         "NYK",
         "CLE"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        5,
+        0
+      ],
+      "status": "live",
       "gameId": "0042500303",
-      "clock": "",
-      "period": 0
+      "clock": "PT10M46.00S",
+      "period": 1
     }
   ]
 }
