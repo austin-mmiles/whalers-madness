@@ -649,20 +649,20 @@
     {
       "date": "2026-05-24",
       "totals": {
-        "Adam": 2897.25,
-        "Austin": 2400.25,
+        "Adam": 2906.0,
+        "Austin": 2403.5,
         "Eric": 2930.25,
         "Garrett M": 2679.0,
-        "Garrett T": 2943.75,
-        "Jameson": 3112.75,
-        "John": 3020.0,
-        "Josh K": 3348.5,
+        "Garrett T": 2945.75,
+        "Jameson": 3114.25,
+        "John": 3021.25,
+        "Josh K": 3351.75,
         "Mitchell": 3221.0,
-        "Noah": 2676.25,
-        "Ronnie": 2637.75,
-        "Sivaji": 2934.5,
-        "Taiga": 2713.5,
-        "Vincent": 3172.25
+        "Noah": 2682.5,
+        "Ronnie": 2640.25,
+        "Sivaji": 2942.75,
+        "Taiga": 2716.0,
+        "Vincent": 3174.25
       }
     }
   ]
