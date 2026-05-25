@@ -14,10 +14,10 @@
       "AST": 39,
       "STL": 10,
       "BLK": 52,
-      "TOV": 36,
+      "TOV": 37,
       "TD": 1,
-      "FP": 762.0,
-      "FPPG": 54.43,
+      "FP": 761.5,
+      "FPPG": 54.39,
       "MPPG": 30.8,
       "active": true,
       "ownedBy": [
@@ -30,7 +30,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 21.33,
-      "FPperDollar": 35.7243,
+      "FPperDollar": 35.7009,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -266,9 +266,9 @@
           "AST": 3,
           "STL": 1,
           "BLK": 2,
-          "TOV": 0,
+          "TOV": 1,
           "TD": 0,
-          "FP": 44.25
+          "FP": 43.75
         }
       ]
     },
