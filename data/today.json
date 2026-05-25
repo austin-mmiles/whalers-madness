@@ -6,11 +6,14 @@
         "OKC",
         "SAS"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        4,
+        3
+      ],
+      "status": "live",
       "gameId": "0042500314",
-      "clock": "",
-      "period": 0
+      "clock": "PT10M06.00S",
+      "period": 1
     }
   ]
 }
