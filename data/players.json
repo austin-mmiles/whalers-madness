@@ -290,7 +290,7 @@
       "FP": 746.25,
       "FPPG": 41.46,
       "MPPG": 36.2,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Eric",
         "Mitchell"
@@ -9347,7 +9347,7 @@
       "FP": 184.25,
       "FPPG": 10.84,
       "MPPG": 12.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Garrett T",
         "Ronnie"
@@ -13283,7 +13283,7 @@
       "FP": 43.75,
       "FPPG": 4.86,
       "MPPG": 4.6,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Ronnie"
       ],
@@ -13722,7 +13722,7 @@
       "FP": 6.25,
       "FPPG": 1.56,
       "MPPG": 3.2,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Sivaji"
       ],
@@ -13897,33 +13897,6 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
@@ -13947,6 +13920,33 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },
