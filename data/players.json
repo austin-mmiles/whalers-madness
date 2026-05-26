@@ -543,9 +543,9 @@
       "name": "Donovan Mitchell",
       "pos": "G",
       "team": "CLE",
-      "G": 17,
-      "MP": 621,
-      "PTS": 437,
+      "G": 18,
+      "MP": 622,
+      "PTS": 440,
       "ORB": 15,
       "DRB": 68,
       "TRB": 83,
@@ -554,9 +554,9 @@
       "BLK": 5,
       "TOV": 43,
       "TD": 0,
-      "FP": 707.25,
-      "FPPG": 41.6,
-      "MPPG": 36.5,
+      "FP": 710.25,
+      "FPPG": 39.46,
+      "MPPG": 34.6,
       "active": true,
       "ownedBy": [
         "Eric",
@@ -564,7 +564,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.23,
-      "FPperDollar": 46.438,
+      "FPperDollar": 46.6349,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -854,6 +854,23 @@
           "TOV": 5,
           "TD": 0,
           "FP": 38.75
+        },
+        {
+          "date": "2026-05-25",
+          "team": "CLE",
+          "opp": "NYK",
+          "home": true,
+          "MP": 1.4,
+          "PTS": 3,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 3.0
         }
       ]
     },
@@ -861,8 +878,8 @@
       "name": "Karl-Anthony Towns",
       "pos": "C",
       "team": "NYK",
-      "G": 13,
-      "MP": 397,
+      "G": 14,
+      "MP": 398,
       "PTS": 218,
       "ORB": 34,
       "DRB": 100,
@@ -873,8 +890,8 @@
       "TOV": 35,
       "TD": 2,
       "FP": 664.0,
-      "FPPG": 51.08,
-      "MPPG": 30.5,
+      "FPPG": 47.43,
+      "MPPG": 28.4,
       "active": true,
       "ownedBy": [
         "Vincent"
@@ -1103,6 +1120,23 @@
           "TOV": 0,
           "TD": 0,
           "FP": 50.0
+        },
+        {
+          "date": "2026-05-25",
+          "team": "NYK",
+          "opp": "CLE",
+          "home": false,
+          "MP": 1.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 0.0
         }
       ]
     },
@@ -1627,20 +1661,20 @@
       "name": "Jalen Brunson",
       "pos": "G",
       "team": "NYK",
-      "G": 13,
-      "MP": 475,
+      "G": 14,
+      "MP": 476,
       "PTS": 361,
       "ORB": 4,
       "DRB": 33,
       "TRB": 37,
-      "AST": 87,
+      "AST": 88,
       "STL": 13,
       "BLK": 0,
       "TOV": 32,
       "TD": 0,
-      "FP": 606.25,
-      "FPPG": 46.63,
-      "MPPG": 36.5,
+      "FP": 608.25,
+      "FPPG": 43.45,
+      "MPPG": 34.0,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -1649,7 +1683,7 @@
       ],
       "ownership": 0.21428571428571427,
       "salary": 13.61,
-      "FPperDollar": 44.5445,
+      "FPperDollar": 44.6914,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -1871,6 +1905,23 @@
           "TOV": 4,
           "TD": 0,
           "FP": 46.75
+        },
+        {
+          "date": "2026-05-25",
+          "team": "NYK",
+          "opp": "CLE",
+          "home": false,
+          "MP": 1.4,
+          "PTS": 0,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 1,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 2.0
         }
       ]
     },
@@ -4725,9 +4776,9 @@
       "name": "Mikal Bridges",
       "pos": "F",
       "team": "NYK",
-      "G": 13,
-      "MP": 414,
-      "PTS": 189,
+      "G": 14,
+      "MP": 415,
+      "PTS": 191,
       "ORB": 5,
       "DRB": 35,
       "TRB": 40,
@@ -4736,9 +4787,9 @@
       "BLK": 4,
       "TOV": 12,
       "TD": 0,
-      "FP": 353.5,
-      "FPPG": 27.19,
-      "MPPG": 31.8,
+      "FP": 355.5,
+      "FPPG": 25.39,
+      "MPPG": 29.6,
       "active": true,
       "ownedBy": [
         "Noah",
@@ -4746,7 +4797,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 9.74,
-      "FPperDollar": 36.2936,
+      "FPperDollar": 36.499,
       "gameLog": [
         {
           "date": "2026-04-18",
@@ -4968,6 +5019,23 @@
           "TOV": 2,
           "TD": 0,
           "FP": 47.0
+        },
+        {
+          "date": "2026-05-25",
+          "team": "NYK",
+          "opp": "CLE",
+          "home": false,
+          "MP": 1.4,
+          "PTS": 2,
+          "ORB": 0,
+          "DRB": 0,
+          "TRB": 0,
+          "AST": 0,
+          "STL": 0,
+          "BLK": 0,
+          "TOV": 0,
+          "TD": 0,
+          "FP": 2.0
         }
       ]
     },
