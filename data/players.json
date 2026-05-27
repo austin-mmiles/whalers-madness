@@ -6,8 +6,8 @@
       "pos": "C",
       "team": "SAS",
       "G": 15,
-      "MP": 458,
-      "PTS": 330,
+      "MP": 459,
+      "PTS": 333,
       "ORB": 31,
       "DRB": 130,
       "TRB": 161,
@@ -16,9 +16,9 @@
       "BLK": 54,
       "TOV": 41,
       "TD": 1,
-      "FP": 796.0,
-      "FPPG": 53.07,
-      "MPPG": 30.5,
+      "FP": 799.0,
+      "FPPG": 53.27,
+      "MPPG": 30.6,
       "active": true,
       "ownedBy": [
         "Austin",
@@ -30,7 +30,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 21.33,
-      "FPperDollar": 37.3183,
+      "FPperDollar": 37.459,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -275,8 +275,8 @@
           "team": "SAS",
           "opp": "OKC",
           "home": false,
-          "MP": 14.5,
-          "PTS": 6,
+          "MP": 15.0,
+          "PTS": 9,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -285,7 +285,7 @@
           "BLK": 1,
           "TOV": 1,
           "TD": 0,
-          "FP": 12.25
+          "FP": 15.25
         }
       ]
     },
@@ -1162,7 +1162,7 @@
       "pos": "G",
       "team": "OKC",
       "G": 13,
-      "MP": 448,
+      "MP": 449,
       "PTS": 339,
       "ORB": 5,
       "DRB": 33,
@@ -1170,10 +1170,10 @@
       "AST": 99,
       "STL": 16,
       "BLK": 11,
-      "TOV": 38,
+      "TOV": 39,
       "TD": 0,
-      "FP": 643.5,
-      "FPPG": 49.5,
+      "FP": 643.0,
+      "FPPG": 49.46,
       "MPPG": 34.5,
       "active": true,
       "ownedBy": [
@@ -1182,7 +1182,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 24.23,
-      "FPperDollar": 26.558,
+      "FPperDollar": 26.5374,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -1393,7 +1393,7 @@
           "team": "OKC",
           "opp": "SAS",
           "home": true,
-          "MP": 12.5,
+          "MP": 13.0,
           "PTS": 7,
           "ORB": 0,
           "DRB": 1,
@@ -1401,9 +1401,9 @@
           "AST": 2,
           "STL": 2,
           "BLK": 0,
-          "TOV": 3,
+          "TOV": 4,
           "TD": 0,
-          "FP": 16.75
+          "FP": 16.25
         }
       ]
     },
@@ -1412,18 +1412,18 @@
       "pos": "G",
       "team": "SAS",
       "G": 16,
-      "MP": 515,
+      "MP": 516,
       "PTS": 294,
       "ORB": 20,
       "DRB": 58,
       "TRB": 78,
       "AST": 102,
-      "STL": 14,
+      "STL": 15,
       "BLK": 7,
       "TOV": 58,
       "TD": 0,
-      "FP": 636.0,
-      "FPPG": 39.75,
+      "FP": 639.0,
+      "FPPG": 39.94,
       "MPPG": 32.2,
       "active": true,
       "ownedBy": [
@@ -1432,7 +1432,7 @@
       ],
       "ownership": 0.14285714285714285,
       "salary": 15.68,
-      "FPperDollar": 40.5612,
+      "FPperDollar": 40.7526,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -1694,17 +1694,17 @@
           "team": "SAS",
           "opp": "OKC",
           "home": false,
-          "MP": 13.7,
+          "MP": 14.2,
           "PTS": 6,
           "ORB": 1,
           "DRB": 4,
           "TRB": 5,
           "AST": 3,
-          "STL": 1,
+          "STL": 2,
           "BLK": 0,
           "TOV": 2,
           "TD": 0,
-          "FP": 20.75
+          "FP": 23.75
         }
       ]
     },
@@ -2451,7 +2451,7 @@
       "pos": "G",
       "team": "SAS",
       "G": 16,
-      "MP": 525,
+      "MP": 526,
       "PTS": 205,
       "ORB": 12,
       "DRB": 67,
@@ -2463,7 +2463,7 @@
       "TD": 0,
       "FP": 475.25,
       "FPPG": 29.7,
-      "MPPG": 32.8,
+      "MPPG": 32.9,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -2732,7 +2732,7 @@
           "team": "SAS",
           "opp": "OKC",
           "home": false,
-          "MP": 11.1,
+          "MP": 11.6,
           "PTS": 0,
           "ORB": 0,
           "DRB": 2,
@@ -2966,7 +2966,7 @@
       "pos": "F",
       "team": "OKC",
       "G": 13,
-      "MP": 386,
+      "MP": 387,
       "PTS": 202,
       "ORB": 23,
       "DRB": 78,
@@ -2978,7 +2978,7 @@
       "TD": 0,
       "FP": 445.25,
       "FPPG": 34.25,
-      "MPPG": 29.7,
+      "MPPG": 29.8,
       "active": true,
       "ownedBy": [
         "Adam",
@@ -3197,7 +3197,7 @@
           "team": "OKC",
           "opp": "SAS",
           "home": true,
-          "MP": 14.2,
+          "MP": 14.8,
           "PTS": 8,
           "ORB": 1,
           "DRB": 3,
@@ -7778,8 +7778,8 @@
       "pos": "F",
       "team": "SAS",
       "G": 16,
-      "MP": 286,
-      "PTS": 123,
+      "MP": 287,
+      "PTS": 125,
       "ORB": 18,
       "DRB": 34,
       "TRB": 52,
@@ -7788,8 +7788,8 @@
       "BLK": 3,
       "TOV": 18,
       "TD": 0,
-      "FP": 255.5,
-      "FPPG": 15.97,
+      "FP": 257.5,
+      "FPPG": 16.09,
       "MPPG": 17.9,
       "active": true,
       "ownedBy": [
@@ -7797,7 +7797,7 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 9.58,
-      "FPperDollar": 26.6701,
+      "FPperDollar": 26.8789,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -8059,8 +8059,8 @@
           "team": "SAS",
           "opp": "OKC",
           "home": false,
-          "MP": 4.1,
-          "PTS": 2,
+          "MP": 4.6,
+          "PTS": 4,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -8069,7 +8069,7 @@
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 5.25
+          "FP": 7.25
         }
       ]
     },
@@ -9839,7 +9839,7 @@
       "pos": "F",
       "team": "OKC",
       "G": 13,
-      "MP": 181,
+      "MP": 182,
       "PTS": 59,
       "ORB": 4,
       "DRB": 38,
@@ -9851,7 +9851,7 @@
       "TD": 0,
       "FP": 174.0,
       "FPPG": 13.38,
-      "MPPG": 13.9,
+      "MPPG": 14.0,
       "active": true,
       "ownedBy": [
         "Jameson"
@@ -10069,7 +10069,7 @@
           "team": "OKC",
           "opp": "SAS",
           "home": true,
-          "MP": 9.1,
+          "MP": 9.6,
           "PTS": 3,
           "ORB": 1,
           "DRB": 2,
@@ -10319,7 +10319,7 @@
           "team": "OKC",
           "opp": "SAS",
           "home": true,
-          "MP": 7.0,
+          "MP": 7.5,
           "PTS": 2,
           "ORB": 0,
           "DRB": 1,
@@ -10581,7 +10581,7 @@
       "pos": "G",
       "team": "OKC",
       "G": 13,
-      "MP": 186,
+      "MP": 187,
       "PTS": 107,
       "ORB": 9,
       "DRB": 14,
@@ -10593,7 +10593,7 @@
       "TD": 0,
       "FP": 160.25,
       "FPPG": 12.33,
-      "MPPG": 14.3,
+      "MPPG": 14.4,
       "active": true,
       "ownedBy": [
         "Austin",
@@ -10813,7 +10813,7 @@
           "team": "OKC",
           "opp": "SAS",
           "home": true,
-          "MP": 11.6,
+          "MP": 12.1,
           "PTS": 2,
           "ORB": 0,
           "DRB": 1,
