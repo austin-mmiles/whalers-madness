@@ -7,12 +7,12 @@
         "OKC"
       ],
       "scores": [
-        112,
-        125
+        114,
+        127
       ],
-      "status": "live",
+      "status": "final",
       "gameId": "0042500315",
-      "clock": "PT00M37.30S",
+      "clock": "",
       "period": 4
     }
   ]
