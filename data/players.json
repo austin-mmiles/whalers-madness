@@ -7,7 +7,7 @@
       "team": "SAS",
       "G": 15,
       "MP": 463,
-      "PTS": 333,
+      "PTS": 335,
       "ORB": 31,
       "DRB": 130,
       "TRB": 161,
@@ -16,8 +16,8 @@
       "BLK": 54,
       "TOV": 41,
       "TD": 1,
-      "FP": 799.0,
-      "FPPG": 53.27,
+      "FP": 801.0,
+      "FPPG": 53.4,
       "MPPG": 30.9,
       "active": true,
       "ownedBy": [
@@ -30,7 +30,7 @@
       ],
       "ownership": 0.42857142857142855,
       "salary": 21.33,
-      "FPperDollar": 37.459,
+      "FPperDollar": 37.5527,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -276,7 +276,7 @@
           "opp": "OKC",
           "home": false,
           "MP": 19.1,
-          "PTS": 9,
+          "PTS": 11,
           "ORB": 0,
           "DRB": 1,
           "TRB": 1,
@@ -285,7 +285,7 @@
           "BLK": 1,
           "TOV": 1,
           "TD": 0,
-          "FP": 15.25
+          "FP": 17.25
         }
       ]
     },
@@ -2732,7 +2732,7 @@
           "team": "SAS",
           "opp": "OKC",
           "home": false,
-          "MP": 17.7,
+          "MP": 17.8,
           "PTS": 0,
           "ORB": 0,
           "DRB": 3,
