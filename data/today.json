@@ -1,4 +1,16 @@
 {
   "date": "2026-05-28",
-  "games": []
+  "games": [
+    {
+      "teams": [
+        "OKC",
+        "SAS"
+      ],
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500316",
+      "clock": "",
+      "period": 0
+    }
+  ]
 }
