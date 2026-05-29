@@ -245,13 +245,13 @@
       "trailer": "SAS",
       "wins": [
         3,
-        2
+        3
       ],
-      "status": "lead",
+      "status": "vs",
       "over": false,
       "winner": "",
-      "seriesText": "OKC leads 3-2",
-      "gamesPlayed": 5
+      "seriesText": "Series tied 3-3",
+      "gamesPlayed": 6
     }
   ]
 }
