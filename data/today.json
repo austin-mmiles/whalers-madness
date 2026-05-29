@@ -1,19 +1,4 @@
 {
   "date": "2026-05-29",
-  "games": [
-    {
-      "teams": [
-        "OKC",
-        "SAS"
-      ],
-      "scores": [
-        91,
-        118
-      ],
-      "status": "final",
-      "gameId": "0042500316",
-      "clock": "",
-      "period": 4
-    }
-  ]
+  "games": []
 }
