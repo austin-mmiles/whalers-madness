@@ -74,6 +74,24 @@
       "gamesPlayed": 7
     },
     {
+      "round": "Finals",
+      "teams": [
+        "OKC",
+        "SAS"
+      ],
+      "leader": "SAS",
+      "trailer": "OKC",
+      "wins": [
+        3,
+        4
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "SAS",
+      "seriesText": "SAS wins 4-3",
+      "gamesPlayed": 7
+    },
+    {
       "round": "First Round",
       "teams": [
         "ATL",
@@ -234,24 +252,6 @@
       "winner": "NYK",
       "seriesText": "NYK wins 4-0",
       "gamesPlayed": 4
-    },
-    {
-      "round": "Finals",
-      "teams": [
-        "OKC",
-        "SAS"
-      ],
-      "leader": "OKC",
-      "trailer": "SAS",
-      "wins": [
-        3,
-        3
-      ],
-      "status": "vs",
-      "over": false,
-      "winner": "",
-      "seriesText": "Series tied 3-3",
-      "gamesPlayed": 6
     }
   ]
 }
