@@ -1,4 +1,16 @@
 {
   "date": "2026-06-03",
-  "games": []
+  "games": [
+    {
+      "teams": [
+        "NYK",
+        "SAS"
+      ],
+      "scores": null,
+      "status": "scheduled",
+      "gameId": "0042500401",
+      "clock": "",
+      "period": 0
+    }
+  ]
 }
