@@ -252,6 +252,24 @@
       "winner": "NYK",
       "seriesText": "NYK wins 4-0",
       "gamesPlayed": 4
+    },
+    {
+      "round": "NBA Finals",
+      "teams": [
+        "NYK",
+        "SAS"
+      ],
+      "leader": "NYK",
+      "trailer": "SAS",
+      "wins": [
+        1,
+        0
+      ],
+      "status": "lead",
+      "over": false,
+      "winner": "",
+      "seriesText": "NYK leads 1-0",
+      "gamesPlayed": 1
     }
   ]
 }
