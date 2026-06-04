@@ -6,11 +6,14 @@
         "NYK",
         "SAS"
       ],
-      "scores": null,
-      "status": "scheduled",
+      "scores": [
+        3,
+        2
+      ],
+      "status": "live",
       "gameId": "0042500401",
-      "clock": "",
-      "period": 0
+      "clock": "PT11M20.00S",
+      "period": 1
     }
   ]
 }
