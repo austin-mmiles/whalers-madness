@@ -7,12 +7,12 @@
         "SAS"
       ],
       "scores": [
-        2,
-        4
+        10,
+        13
       ],
       "status": "live",
       "gameId": "0042500402",
-      "clock": "PT10M54.00S",
+      "clock": "PT08M34.00S",
       "period": 1
     }
   ]
