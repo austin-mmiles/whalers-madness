@@ -1917,7 +1917,7 @@
       "pos": "G",
       "team": "NYK",
       "G": 16,
-      "MP": 551,
+      "MP": 552,
       "PTS": 414,
       "ORB": 6,
       "DRB": 37,
@@ -1929,7 +1929,7 @@
       "TD": 0,
       "FP": 681.25,
       "FPPG": 42.58,
-      "MPPG": 34.4,
+      "MPPG": 34.5,
       "active": true,
       "ownedBy": [
         "Garrett M",
@@ -2200,7 +2200,7 @@
           "team": "NYK",
           "opp": "SAS",
           "home": false,
-          "MP": 8.6,
+          "MP": 9.1,
           "PTS": 8,
           "ORB": 0,
           "DRB": 1,
@@ -2219,8 +2219,8 @@
       "pos": "G",
       "team": "SAS",
       "G": 20,
-      "MP": 651,
-      "PTS": 246,
+      "MP": 652,
+      "PTS": 248,
       "ORB": 18,
       "DRB": 81,
       "TRB": 99,
@@ -2229,16 +2229,16 @@
       "BLK": 16,
       "TOV": 20,
       "TD": 0,
-      "FP": 590.75,
-      "FPPG": 29.54,
-      "MPPG": 32.5,
+      "FP": 592.75,
+      "FPPG": 29.64,
+      "MPPG": 32.6,
       "active": true,
       "ownedBy": [
         "Adam"
       ],
       "ownership": 0.07142857142857142,
       "salary": 10.43,
-      "FPperDollar": 56.6395,
+      "FPperDollar": 56.8313,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -2568,8 +2568,8 @@
           "team": "SAS",
           "opp": "NYK",
           "home": true,
-          "MP": 6.4,
-          "PTS": 3,
+          "MP": 6.8,
+          "PTS": 5,
           "ORB": 0,
           "DRB": 2,
           "TRB": 2,
@@ -2578,7 +2578,7 @@
           "BLK": 1,
           "TOV": 0,
           "TD": 0,
-          "FP": 10.0
+          "FP": 12.0
         }
       ]
     },
@@ -7668,15 +7668,15 @@
       "MP": 267,
       "PTS": 82,
       "ORB": 36,
-      "DRB": 45,
-      "TRB": 81,
+      "DRB": 46,
+      "TRB": 82,
       "AST": 14,
       "STL": 11,
       "BLK": 16,
       "TOV": 11,
       "TD": 0,
-      "FP": 296.75,
-      "FPPG": 14.84,
+      "FP": 298.0,
+      "FPPG": 14.9,
       "MPPG": 13.3,
       "active": true,
       "ownedBy": [
@@ -7684,7 +7684,7 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 8.77,
-      "FPperDollar": 33.8369,
+      "FPperDollar": 33.9795,
       "gameLog": [
         {
           "date": "2026-04-19",
@@ -8014,17 +8014,17 @@
           "team": "SAS",
           "opp": "NYK",
           "home": true,
-          "MP": 2.4,
+          "MP": 2.9,
           "PTS": 1,
           "ORB": 0,
-          "DRB": 1,
-          "TRB": 1,
+          "DRB": 2,
+          "TRB": 2,
           "AST": 0,
           "STL": 0,
           "BLK": 0,
           "TOV": 0,
           "TD": 0,
-          "FP": 2.25
+          "FP": 3.5
         }
       ]
     },
@@ -9321,7 +9321,7 @@
       "pos": "C",
       "team": "NYK",
       "G": 15,
-      "MP": 197,
+      "MP": 198,
       "PTS": 72,
       "ORB": 33,
       "DRB": 44,
@@ -9333,7 +9333,7 @@
       "TD": 0,
       "FP": 227.75,
       "FPPG": 15.18,
-      "MPPG": 13.1,
+      "MPPG": 13.2,
       "active": true,
       "ownedBy": [
         "Adam"
@@ -9585,7 +9585,7 @@
           "team": "NYK",
           "opp": "SAS",
           "home": false,
-          "MP": 0.6,
+          "MP": 1.0,
           "PTS": 1,
           "ORB": 0,
           "DRB": 0,
