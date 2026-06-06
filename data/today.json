@@ -1,19 +1,4 @@
 {
   "date": "2026-06-06",
-  "games": [
-    {
-      "teams": [
-        "NYK",
-        "SAS"
-      ],
-      "scores": [
-        105,
-        104
-      ],
-      "status": "final",
-      "gameId": "0042500402",
-      "clock": "",
-      "period": 4
-    }
-  ]
+  "games": []
 }
