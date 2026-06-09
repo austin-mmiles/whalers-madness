@@ -263,13 +263,13 @@
       "trailer": "SAS",
       "wins": [
         2,
-        0
+        1
       ],
       "status": "lead",
       "over": false,
       "winner": "",
-      "seriesText": "NYK leads 2-0",
-      "gamesPlayed": 2
+      "seriesText": "NYK leads 2-1",
+      "gamesPlayed": 3
     }
   ]
 }
