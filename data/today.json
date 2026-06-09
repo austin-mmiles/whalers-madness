@@ -7,13 +7,13 @@
         "NYK"
       ],
       "scores": [
-        33,
-        22
+        36,
+        27
       ],
       "status": "live",
       "gameId": "0042500403",
-      "clock": "PT00M00.00S",
-      "period": 1
+      "clock": "PT10M03.00S",
+      "period": 2
     }
   ]
 }
