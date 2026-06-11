@@ -801,20 +801,20 @@
     {
       "date": "2026-06-10",
       "totals": {
-        "Adam": 3355.0,
-        "Austin": 3138.0,
+        "Adam": 3356.25,
+        "Austin": 3141.25,
         "Eric": 3087.5,
-        "Garrett M": 3061.5,
-        "Garrett T": 3469.5,
-        "Jameson": 3683.0,
+        "Garrett M": 3064.5,
+        "Garrett T": 3470.75,
+        "Jameson": 3684.25,
         "John": 3097.0,
-        "Josh K": 3832.5,
-        "Mitchell": 3466.0,
-        "Noah": 3127.0,
+        "Josh K": 3833.75,
+        "Mitchell": 3469.0,
+        "Noah": 3129.0,
         "Ronnie": 2851.5,
-        "Sivaji": 3954.0,
+        "Sivaji": 3960.25,
         "Taiga": 2991.0,
-        "Vincent": 4019.5
+        "Vincent": 4023.75
       }
     }
   ]
