@@ -8,12 +8,12 @@
       ],
       "scores": [
         13,
-        20
+        23
       ],
       "status": "live",
       "gameId": "0042500405",
-      "clock": "PT00M38.90S",
-      "period": 1
+      "clock": "PT12M00.00S",
+      "period": 2
     }
   ]
 }
