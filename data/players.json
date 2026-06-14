@@ -19,7 +19,7 @@
       "FP": 1213.5,
       "FPPG": 55.16,
       "MPPG": 34.1,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Austin",
         "Garrett T",
@@ -777,7 +777,7 @@
       "FP": 904.5,
       "FPPG": 39.33,
       "MPPG": 33.1,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Noah",
         "Sivaji"
@@ -2436,7 +2436,7 @@
       "FP": 702.5,
       "FPPG": 30.54,
       "MPPG": 34.8,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Adam"
       ],
@@ -2855,7 +2855,7 @@
       "FP": 617.75,
       "FPPG": 26.86,
       "MPPG": 30.7,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Austin"
       ],
@@ -6090,7 +6090,7 @@
       "FP": 368.0,
       "FPPG": 16.0,
       "MPPG": 17.9,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Garrett T"
       ],
@@ -7228,7 +7228,7 @@
       "FP": 324.5,
       "FPPG": 14.11,
       "MPPG": 12.9,
-      "active": true,
+      "active": false,
       "ownedBy": [
         "Garrett M"
       ],
@@ -15512,33 +15512,6 @@
       ]
     },
     {
-      "name": "Caleb Houstan",
-      "pos": "F",
-      "team": "ATL",
-      "G": 0,
-      "MP": 0,
-      "PTS": 0,
-      "ORB": 0,
-      "DRB": 0,
-      "TRB": 0,
-      "AST": 0,
-      "STL": 0,
-      "BLK": 0,
-      "TOV": 0,
-      "TD": 0,
-      "FP": 0.0,
-      "FPPG": 0.0,
-      "MPPG": 0.0,
-      "active": false,
-      "ownedBy": [
-        "Vincent"
-      ],
-      "ownership": 0.07142857142857142,
-      "salary": 0.69,
-      "FPperDollar": 0.0,
-      "gameLog": []
-    },
-    {
       "name": "Jacob Toppin",
       "pos": "F",
       "team": "ATL",
@@ -15562,6 +15535,33 @@
       ],
       "ownership": 0.07142857142857142,
       "salary": 0.47,
+      "FPperDollar": 0.0,
+      "gameLog": []
+    },
+    {
+      "name": "Caleb Houstan",
+      "pos": "F",
+      "team": "ATL",
+      "G": 0,
+      "MP": 0,
+      "PTS": 0,
+      "ORB": 0,
+      "DRB": 0,
+      "TRB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "TD": 0,
+      "FP": 0.0,
+      "FPPG": 0.0,
+      "MPPG": 0.0,
+      "active": false,
+      "ownedBy": [
+        "Vincent"
+      ],
+      "ownership": 0.07142857142857142,
+      "salary": 0.69,
       "FPperDollar": 0.0,
       "gameLog": []
     },

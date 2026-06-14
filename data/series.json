@@ -182,6 +182,24 @@
       "gamesPlayed": 5
     },
     {
+      "round": "NBA Finals",
+      "teams": [
+        "NYK",
+        "SAS"
+      ],
+      "leader": "NYK",
+      "trailer": "SAS",
+      "wins": [
+        4,
+        1
+      ],
+      "status": "defeated",
+      "over": true,
+      "winner": "NYK",
+      "seriesText": "NYK wins 4-1",
+      "gamesPlayed": 5
+    },
+    {
       "round": "First Round",
       "teams": [
         "OKC",
@@ -251,24 +269,6 @@
       "over": true,
       "winner": "NYK",
       "seriesText": "NYK wins 4-0",
-      "gamesPlayed": 4
-    },
-    {
-      "round": "NBA Finals",
-      "teams": [
-        "NYK",
-        "SAS"
-      ],
-      "leader": "NYK",
-      "trailer": "SAS",
-      "wins": [
-        3,
-        1
-      ],
-      "status": "lead",
-      "over": false,
-      "winner": "",
-      "seriesText": "NYK leads 3-1",
       "gamesPlayed": 4
     }
   ]
