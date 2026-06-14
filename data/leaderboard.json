@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "owner": "Vincent",
-      "FP": 4158.75,
+      "FP": 4159.75,
       "G": 104,
       "MP": 3350,
       "playersLeft": 3,
@@ -71,8 +71,8 @@
           "salary": 9.74,
           "G": 19,
           "MP": 608,
-          "FP": 502.25,
-          "FPPG": 26.43,
+          "FP": 503.25,
+          "FPPG": 26.49,
           "active": true,
           "TD": 0
         },
@@ -148,7 +148,7 @@
     },
     {
       "owner": "Sivaji",
-      "FP": 4138.25,
+      "FP": 4142.0,
       "G": 105,
       "MP": 3227,
       "playersLeft": 3,
@@ -164,8 +164,8 @@
           "salary": 15.68,
           "G": 23,
           "MP": 760,
-          "FP": 900.75,
-          "FPPG": 39.16,
+          "FP": 904.5,
+          "FPPG": 39.33,
           "active": true,
           "TD": 0
         },
@@ -875,7 +875,7 @@
       "owner": "Adam",
       "FP": 3423.75,
       "G": 124,
-      "MP": 3463,
+      "MP": 3464,
       "playersLeft": 2,
       "salaryLeftPct": 0.1826,
       "salaryLeft": 18.22,
@@ -914,7 +914,7 @@
           "position": "G",
           "salary": 10.43,
           "G": 23,
-          "MP": 800,
+          "MP": 801,
           "FP": 702.5,
           "FPPG": 30.54,
           "active": true,
@@ -1163,7 +1163,7 @@
     },
     {
       "owner": "Noah",
-      "FP": 3188.5,
+      "FP": 3193.25,
       "G": 109,
       "MP": 3016,
       "playersLeft": 2,
@@ -1192,8 +1192,8 @@
           "salary": 15.68,
           "G": 23,
           "MP": 760,
-          "FP": 900.75,
-          "FPPG": 39.16,
+          "FP": 904.5,
+          "FPPG": 39.33,
           "active": true,
           "TD": 0
         },
@@ -1244,8 +1244,8 @@
           "salary": 9.74,
           "G": 19,
           "MP": 608,
-          "FP": 502.25,
-          "FPPG": 26.43,
+          "FP": 503.25,
+          "FPPG": 26.49,
           "active": true,
           "TD": 0
         },
